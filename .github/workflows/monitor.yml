@@ -2,10 +2,16 @@ name: SKYLRK monitor
 
 on:
   schedule:
-    # Every 15 minutes (UTC). GitHub may delay scheduled runs under load, and
-    # disables schedules after 60 days of no repo activity - the state commit
-    # below counts as activity and keeps it alive.
-    - cron: "*/15 * * * *"
+    # Every 15 minutes (UTC), deliberately OFF the quarter-hour marks.
+    #
+    # "*/15" would fire at :00/:15/:30/:45 - the busiest minutes on GitHub's
+    # scheduler, because that is what every example produces. Scheduled runs are
+    # delayed or silently DROPPED under load, so those slots are the least
+    # reliable ones available. Odd minutes dodge the stampede.
+    #
+    # GitHub also disables schedules after 60 days of repo inactivity - the
+    # state commit at the end of this job counts as activity and keeps it alive.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
 
 # Never let two checks run at once (avoids state write races).
