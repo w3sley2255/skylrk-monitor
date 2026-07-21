@@ -1,0 +1,80 @@
+# =============================================================================
+# SKYLRK monitor configuration  (NON-SECRET settings only)
+# Secrets (tokens, webhooks, SMTP passwords) live in environment variables /
+# GitHub secrets - never here. See .env.example.
+#
+# This file is the main thing you edit for maintenance. Anything you omit keeps
+# its built-in default (see DEFAULT_CONFIG in skylrk_monitor.py).
+# =============================================================================
+
+store:
+  base_url: "https://skylrk.com"
+  products_endpoint: "/products.json"   # public Shopify catalogue endpoint
+  currency: "USD"                        # store's base currency (verified via og:price:currency)
+  page_size: 250                         # Shopify hard-caps this at 250
+  max_pages: 20                          # safety cap on pagination
+
+monitoring:
+  # Sizes you care about. "28"/"30" are the waist-sized equivalents used by
+  # BOTTOMS like PAINTER PANT, which has no letter sizes (see clothing_filter).
+  target_sizes: ["XS", "S", "28", "30"]
+  interval_minutes: 15                   # documentation only; real schedule is in the workflow/cron
+  alert_on_first_run: false              # first run seeds silently (recommended)
+  alert_on_new_launch: true
+  alert_on_restock: true                 # XS/S becomes available after being unavailable/absent
+  alert_on_product_update: true          # price / name / colors / image / stock-status changes
+  alert_on_removal: false                # product disappears from the catalogue
+  cooldown_hours: 6                      # anti-flap: identical alert won't repeat within this window
+
+# --- How we decide a product is "clothing" (edit this if the filter is off) ---
+clothing_filter:
+  require_size_option: true              # treat as clothing if it has a Size option with letter sizes
+  size_option_names: ["Size"]           # option name(s) that hold the size
+  color_option_names: ["Color", "Colour"]
+  apparel_letter_sizes: ["XXS", "XS", "S", "M", "L", "XL", "XXL", "2XL", "3XL", "4XL"]
+  # Always treated as clothing regardless of size labels. BOTTOMS is listed
+  # because waist-sized items (PAINTER PANT: 28-38) fail the letter-size test
+  # below and would otherwise be skipped entirely.
+  product_type_allowlist: ["BOTTOMS"]
+  product_type_blocklist:                # never treated as clothing
+    ["Sunglasses", "Eyewear", "Phone Case", "Case", "Slides", "Footwear",
+     "Accessory", "Accessories", "Gift Card", "Wallpaper"]
+  handle_blocklist: []                   # specific product handles to ignore
+
+# --- Map odd size labels to canonical ones (add store-specific quirks here) ---
+size_synonyms:
+  "extra small": "XS"
+  "x-small": "XS"
+  "xsmall": "XS"
+  "small": "S"
+  "medium": "M"
+  "large": "L"
+  "extra large": "XL"
+  "x-large": "XL"
+  "xlarge": "XL"
+  "xx-large": "2XL"
+  "xxl": "2XL"
+  "one size": "OS"
+
+network:
+  timeout_seconds: 20
+  max_retries: 4
+  backoff_base_seconds: 5                # backoff ~5s, 10s, 20s, 40s (+jitter)
+  backoff_factor: 2
+  backoff_jitter_seconds: 3
+  respect_robots_txt: true               # checks robots.txt allows the endpoint before fetching
+  # Put a real contact address below so the store owner can reach you if needed.
+  user_agent: "SKYLRK-Personal-Restock-Monitor/1.0 (personal use; 15-min interval; contact: w3sley2002@gmail.com)"
+
+notify:
+  channel: "telegram"                    # telegram | discord | email | console
+  telegram:
+    disable_web_page_preview: false
+  discord:
+    username: "SKYLRK Monitor"
+  email:
+    subject_prefix: "[SKYLRK]"
+
+paths:
+  state_file: "state/state.json"
+  log_file: "logs/monitor.log"

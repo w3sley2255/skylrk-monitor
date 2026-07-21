@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tmp
+
+# local logs (Actions keeps its own run logs)
+logs/*.log
