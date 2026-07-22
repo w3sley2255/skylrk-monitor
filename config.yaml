@@ -20,7 +20,7 @@ monitoring:
   target_sizes: ["XS", "S", "28", "30"]
   interval_minutes: 15                   # documentation only; real schedule is in the workflow/cron
   alert_on_first_run: false              # first run seeds silently (recommended)
-  alert_on_new_launch: false             # TEMPORARY: off for one seeding run so the newly-tracked accessories are recorded silently (will be set back to true)
+  alert_on_new_launch: true
   alert_on_restock: true                 # XS/S becomes available after being unavailable/absent
   alert_on_product_update: true          # price / name / colors / image / stock-status changes
   alert_on_removal: false                # product disappears from the catalogue
