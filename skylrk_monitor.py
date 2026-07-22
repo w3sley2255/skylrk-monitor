@@ -616,8 +616,14 @@ def update_state(prev: dict, snap: Dict[str, dict], sent_events: List[dict],
 
     new_products: Dict[str, dict] = {}
     for pid, prod in snap.items():
-        if pid in failed_pids and pid in prev_products:
-            new_products[pid] = prev_products[pid]  # keep old -> retry next run
+        if pid in failed_pids:
+            if pid in prev_products:
+                # Known product whose alert failed: keep the OLD record so the
+                # same transition (e.g. restock) re-fires next run.
+                new_products[pid] = prev_products[pid]
+            # Brand-new product whose alert failed: do NOT record it at all, so
+            # it is re-detected as a NEW_LAUNCH next run. Recording it here would
+            # make it "already seen" and the launch alert would be lost forever.
             continue
         prod = dict(prod)
         prod["first_seen_utc"] = prev_products.get(pid, {}).get(

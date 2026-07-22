@@ -129,6 +129,22 @@ def test_at_least_once_on_failed_send():
     print("PASS failed send retries on next run (at-least-once)")
 
 
+def test_failed_new_launch_retries():
+    """A NEW_LAUNCH whose send fails must NOT be recorded, so it re-alerts next
+    run. Regression test: previously the new product was written to state anyway
+    and the launch alert was lost."""
+    dt = datetime(2026, 7, 21, 8, 0, tzinfo=timezone.utc)
+    prev = _seed(_snap("run2_restock.json"), dt)          # 1004 not yet known
+    snap3 = _snap("run3_newproduct.json")                 # introduces 1004
+    # Launch detected for 1004 but the Telegram send failed.
+    state = m.update_state(prev, snap3, sent_events=[], failed_pids={"1004"}, dt=dt)
+    assert "1004" not in state["products"], "failed new launch must not be recorded"
+    events_next = m.detect_events(state, snap3, CFG, dt + timedelta(minutes=15), LOG)
+    assert any(e["type"] == "NEW_LAUNCH" and e["product_id"] == "1004"
+               for e in events_next), "launch should re-fire after a failed send"
+    print("PASS failed new-launch retries on next run (not silently lost)")
+
+
 ALL = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
 
 if __name__ == "__main__":
