@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-07-21T15:54:34+00:00",
-    "hkt": "2026-07-21T23:54:34+08:00",
-    "status": "ok",
-    "products_tracked": 28
+    "utc": "2026-07-22T02:12:55+00:00",
+    "hkt": "2026-07-22T10:12:55+08:00",
+    "status": "error",
+    "products_tracked": 28,
+    "error": "robots.txt disallows the monitor's user-agent from fetching /products.json. Stop and use a compliant alternative (see README §J)."
   },
   "products": {
     "8557058883763": {
