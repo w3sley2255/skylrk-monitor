@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-07-22T06:39:49+00:00",
-    "hkt": "2026-07-22T14:39:49+08:00",
+    "utc": "2026-07-22T09:17:41+00:00",
+    "hkt": "2026-07-22T17:17:41+08:00",
     "status": "ok",
     "products_tracked": 30
   },
@@ -126,7 +126,7 @@
           "size": "L",
           "color": "FLAME",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "45623637934259": {
           "id": "45623637934259",
@@ -1399,7 +1399,7 @@
           "size": "L",
           "color": "MINT SPACE DYE",
           "price": "240.00",
-          "available": true
+          "available": false
         },
         "45312617185459": {
           "id": "45312617185459",
