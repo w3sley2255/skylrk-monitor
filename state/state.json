@@ -1,12 +1,152 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-07-21T15:54:34+00:00",
-    "hkt": "2026-07-21T23:54:34+08:00",
-    "status": "ok",
-    "products_tracked": 28
+    "utc": "2026-07-22T01:44:19+00:00",
+    "hkt": "2026-07-22T09:44:19+08:00",
+    "status": "error",
+    "products_tracked": 30
   },
   "products": {
+    "8538096828595": {
+      "id": "8538096828595",
+      "handle": "checker-short",
+      "title": "CHECKER SHORT - MIST",
+      "product_type": "SHORTS",
+      "tags": [
+        "nyc",
+        "nyc-pop-up",
+        "style-checkerShort"
+      ],
+      "url": "https://skylrk.com/products/checker-short",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-0017_FRONT_d9ed811b-7e29-45da-a22e-d31d4481ed4b.webp",
+      "price": "120.00",
+      "currency": "USD",
+      "colors": [
+        "MIST"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623637213363": {
+          "id": "45623637213363",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "MIST",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637246131": {
+          "id": "45623637246131",
+          "size_raw": "S",
+          "size": "S",
+          "color": "MIST",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637278899": {
+          "id": "45623637278899",
+          "size_raw": "M",
+          "size": "M",
+          "color": "MIST",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637311667": {
+          "id": "45623637311667",
+          "size_raw": "L",
+          "size": "L",
+          "color": "MIST",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637344435": {
+          "id": "45623637344435",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637377203": {
+          "id": "45623637377203",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "MIST",
+          "price": "120.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-07-22T01:44:19+00:00"
+    },
+    "8538096926899": {
+      "id": "8538096926899",
+      "handle": "checker-short-3",
+      "title": "CHECKER SHORT - FLAME",
+      "product_type": "SHORTS",
+      "tags": [
+        "nyc",
+        "nyc-pop-up",
+        "style-checkerShort"
+      ],
+      "url": "https://skylrk.com/products/checker-short-3",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-6005_FRONT.webp",
+      "price": "120.00",
+      "currency": "USD",
+      "colors": [
+        "FLAME"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623637803187": {
+          "id": "45623637803187",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637835955": {
+          "id": "45623637835955",
+          "size_raw": "S",
+          "size": "S",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637868723": {
+          "id": "45623637868723",
+          "size_raw": "M",
+          "size": "M",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": false
+        },
+        "45623637901491": {
+          "id": "45623637901491",
+          "size_raw": "L",
+          "size": "L",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637934259": {
+          "id": "45623637934259",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637967027": {
+          "id": "45623637967027",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-07-22T01:44:19+00:00"
+    },
     "8557058883763": {
       "id": "8557058883763",
       "handle": "reverse-sweats-jogger",
@@ -42,7 +182,7 @@
           "size": "S",
           "color": "BLOOH",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45689999491251": {
           "id": "45689999491251",
