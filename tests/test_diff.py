@@ -145,6 +145,43 @@ def test_failed_new_launch_retries():
     print("PASS failed new-launch retries on next run (not silently lost)")
 
 
+SKYLRK_ROBOTS = """
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /cart/
+Disallow: /checkout
+Disallow: /orders
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*?*ls=*&ls=*
+Disallow: /*?*preview_theme_id=*
+Crawl-delay: 5
+
+User-agent: adsbot-google
+Disallow: /checkout
+"""
+
+
+def test_robots_allows_products_json():
+    """Regression: the Shopify wildcard Disallow rules must not falsely block
+    /products.json (the stdlib robotparser did exactly that)."""
+    rules, delay = m._robots_group_rules(SKYLRK_ROBOTS, CFG["network"]["user_agent"])
+    def allowed(path):
+        ba = bd = -1
+        for kind, pat in rules:
+            if pat and m._robots_pattern_matches(pat, path):
+                if kind == "allow": ba = max(ba, len(pat))
+                else: bd = max(bd, len(pat))
+        return bd < 0 or ba >= bd
+    assert allowed("/products.json") is True
+    assert allowed("/") is True
+    assert allowed("/checkout") is False          # genuinely disallowed
+    assert allowed("/cart/") is False
+    assert delay == 5.0
+    print("PASS robots check allows /products.json, still blocks /checkout")
+
+
 ALL = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
 
 if __name__ == "__main__":

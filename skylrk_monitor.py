@@ -38,7 +38,6 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
-from urllib.robotparser import RobotFileParser
 from zoneinfo import ZoneInfo
 
 import requests
@@ -210,24 +209,99 @@ def stamps(dt: datetime) -> Tuple[str, str]:
 # FETCH
 # ---------------------------------------------------------------------------
 
+def _robots_pattern_matches(pattern: str, path: str) -> bool:
+    """Google-style robots path match. '*' = any run of chars, trailing '$'
+    anchors the end; otherwise it is a prefix match from the start of the path."""
+    anchored = pattern.endswith("$")
+    core = pattern[:-1] if anchored else pattern
+    regex = "".join(".*" if ch == "*" else re.escape(ch) for ch in core)
+    regex = "^" + regex + ("$" if anchored else "")
+    return re.match(regex, path) is not None
+
+
+def _robots_group_rules(text: str, ua: str) -> Tuple[List[Tuple[str, str]], Optional[float]]:
+    """Return (rules, crawl_delay) for the group that applies to `ua`.
+    Prefers a group whose user-agent token is a substring of our UA, else '*'.
+    Each rule is ('allow'|'disallow', pattern)."""
+    groups: List[Tuple[List[str], List[Tuple[str, str]], Optional[float]]] = []
+    cur_uas: List[str] = []
+    cur_rules: List[Tuple[str, str]] = []
+    cur_delay: Optional[float] = None
+    seen_rule = False
+
+    def flush() -> None:
+        nonlocal cur_uas, cur_rules, cur_delay, seen_rule
+        if cur_uas:
+            groups.append((cur_uas, cur_rules, cur_delay))
+        cur_uas, cur_rules, cur_delay, seen_rule = [], [], None, False
+
+    for raw in text.splitlines():
+        line = raw.split("#", 1)[0].strip()
+        if not line or ":" not in line:
+            continue
+        field, _, value = line.partition(":")
+        field = field.strip().lower()
+        value = value.strip()
+        if field == "user-agent":
+            if seen_rule:      # a new UA after rules starts a fresh group
+                flush()
+            cur_uas.append(value.lower())
+        elif field in ("allow", "disallow"):
+            seen_rule = True
+            cur_rules.append((field, value))
+        elif field == "crawl-delay":
+            seen_rule = True
+            try:
+                cur_delay = float(value)
+            except ValueError:
+                pass
+    flush()
+
+    ua_l = ua.lower()
+    specific = [g for g in groups if any(tok != "*" and tok and tok in ua_l for tok in g[0])]
+    star = [g for g in groups if "*" in g[0]]
+    chosen = (specific or star or [([], [], None)])[0]
+    return chosen[1], chosen[2]
+
+
 def robots_check(cfg: dict, logger: logging.Logger) -> Tuple[bool, Optional[float]]:
     """Courtesy check of robots.txt. Returns (allowed, crawl_delay_seconds).
+
+    We fetch and evaluate robots.txt ourselves instead of using the stdlib
+    urllib.robotparser: that parser mishandles the wildcard Disallow patterns in
+    Shopify's robots.txt (e.g. '/*?*ls=*') and collapses to 'disallow everything'
+    - a false negative that would wrongly block a genuinely-allowed endpoint.
     If robots.txt cannot be read, we proceed (return True) and log it."""
     base = cfg["store"]["base_url"].rstrip("/")
     ua = cfg["network"]["user_agent"]
-    target = base + cfg["store"]["products_endpoint"]
-    rp = RobotFileParser()
-    rp.set_url(base + "/robots.txt")
+    path = cfg["store"]["products_endpoint"]
     try:
-        rp.read()
-    except Exception as exc:  # network/parse issue -> do not hard-block
+        resp = requests.get(base + "/robots.txt",
+                            headers={"User-Agent": ua},
+                            timeout=float(cfg["network"]["timeout_seconds"]))
+    except requests.RequestException as exc:  # network issue -> do not hard-block
         logger.warning("Could not read robots.txt (%s); proceeding cautiously.", exc)
         return True, None
-    allowed = rp.can_fetch(ua, target)
-    try:
-        delay = rp.crawl_delay(ua)
-    except Exception:
-        delay = None
+    if resp.status_code != 200:
+        # 4xx/5xx: no usable rules. Standard behaviour is to allow.
+        logger.info("robots.txt returned HTTP %s; treating as no restrictions.",
+                    resp.status_code)
+        return True, None
+
+    rules, delay = _robots_group_rules(resp.text, ua)
+    # Longest matching rule wins; ties favour Allow (Google semantics). A path
+    # with no matching Disallow is allowed.
+    best_allow, best_disallow = -1, -1
+    for kind, pattern in rules:
+        if not pattern:
+            continue
+        if _robots_pattern_matches(pattern, path):
+            length = len(pattern)
+            if kind == "allow":
+                best_allow = max(best_allow, length)
+            else:
+                best_disallow = max(best_disallow, length)
+    allowed = best_disallow < 0 or best_allow >= best_disallow
     return allowed, delay
 
 
