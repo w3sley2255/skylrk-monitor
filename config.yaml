@@ -20,25 +20,24 @@ monitoring:
   target_sizes: ["XS", "S", "28", "30"]
   interval_minutes: 15                   # documentation only; real schedule is in the workflow/cron
   alert_on_first_run: false              # first run seeds silently (recommended)
-  alert_on_new_launch: true
+  alert_on_new_launch: false             # TEMPORARY: off for one seeding run so the newly-tracked accessories are recorded silently (will be set back to true)
   alert_on_restock: true                 # XS/S becomes available after being unavailable/absent
   alert_on_product_update: true          # price / name / colors / image / stock-status changes
   alert_on_removal: false                # product disappears from the catalogue
   cooldown_hours: 6                      # anti-flap: identical alert won't repeat within this window
 
-# --- How we decide a product is "clothing" (edit this if the filter is off) ---
+# --- Which products to track ---
+# Now set to track EVERYTHING (clothing AND accessories: glasses, hats, socks,
+# cases, slides...). To go back to clothing-only, set require_size_option back
+# to true and restore the accessory types in product_type_blocklist.
 clothing_filter:
-  require_size_option: true              # treat as clothing if it has a Size option with letter sizes
+  require_size_option: false             # false = track products even without letter sizes (accessories)
   size_option_names: ["Size"]           # option name(s) that hold the size
   color_option_names: ["Color", "Colour"]
   apparel_letter_sizes: ["XXS", "XS", "S", "M", "L", "XL", "XXL", "2XL", "3XL", "4XL"]
-  # Always treated as clothing regardless of size labels. BOTTOMS is listed
-  # because waist-sized items (PAINTER PANT: 28-38) fail the letter-size test
-  # below and would otherwise be skipped entirely.
-  product_type_allowlist: ["BOTTOMS"]
-  product_type_blocklist:                # never treated as clothing
-    ["Sunglasses", "Eyewear", "Phone Case", "Case", "Slides", "Footwear",
-     "Accessory", "Accessories", "Gift Card", "Wallpaper"]
+  product_type_allowlist: ["BOTTOMS"]    # (redundant while require_size_option is false, but kept as documentation)
+  # Only genuinely non-physical items stay excluded (no restock concept, pure noise).
+  product_type_blocklist: ["Gift Card", "Wallpaper"]
   handle_blocklist: []                   # specific product handles to ignore
 
 # --- Map odd size labels to canonical ones (add store-specific quirks here) ---
