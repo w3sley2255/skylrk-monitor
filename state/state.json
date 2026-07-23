@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-07-23T13:14:53+00:00",
-    "hkt": "2026-07-23T21:14:53+08:00",
+    "utc": "2026-07-23T15:28:48+00:00",
+    "hkt": "2026-07-23T23:28:48+08:00",
     "status": "ok",
     "products_tracked": 52
   },
@@ -2093,7 +2093,7 @@
           "size": "XL",
           "color": "THISTLE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45565404381363": {
           "id": "45565404381363",
