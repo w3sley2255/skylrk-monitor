@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-07-24T07:14:12+00:00",
-    "hkt": "2026-07-24T15:14:12+08:00",
+    "utc": "2026-07-24T09:39:30+00:00",
+    "hkt": "2026-07-24T17:39:30+08:00",
     "status": "ok",
     "products_tracked": 52
   },
@@ -3118,7 +3118,7 @@
           "size": "M",
           "color": "BLANKET WASH",
           "price": "180.00",
-          "available": true
+          "available": false
         },
         "45262872182963": {
           "id": "45262872182963",
