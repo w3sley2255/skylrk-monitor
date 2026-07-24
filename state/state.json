@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-07-24T22:31:46+00:00",
-    "hkt": "2026-07-25T06:31:46+08:00",
+    "utc": "2026-07-24T23:38:04+00:00",
+    "hkt": "2026-07-25T07:38:04+08:00",
     "status": "ok",
     "products_tracked": 52
   },
@@ -3150,7 +3150,7 @@
           "size": "XS",
           "color": "RAW",
           "price": "180.00",
-          "available": true
+          "available": false
         },
         "45262872445107": {
           "id": "45262872445107",
