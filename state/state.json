@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-04T20:46:28+00:00",
-    "hkt": "2026-08-05T04:46:28+08:00",
+    "utc": "2026-08-04T22:00:00+00:00",
+    "hkt": "2026-08-05T06:00:00+08:00",
     "status": "ok",
     "products_tracked": 53
   },
@@ -785,7 +785,7 @@
       "colors": [
         "GLOSS"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45700206723251": {
           "id": "45700206723251",
@@ -793,7 +793,7 @@
           "size": null,
           "color": "GLOSS",
           "price": "190.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-07-22T15:26:52+00:00"
@@ -1504,7 +1504,7 @@
         "FROG",
         "SUPER BLUE"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45447734132915": {
           "id": "45447734132915",
@@ -1520,7 +1520,7 @@
           "size": null,
           "color": "FROG",
           "price": "60.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-07-22T15:26:52+00:00"
@@ -3985,6 +3985,8 @@
     "new:8538096894131": "2026-07-31T21:32:14+00:00",
     "update:8538096926899:834349c5bf47": "2026-08-01T15:13:12+00:00",
     "update:8551728382131:415757efd8c3": "2026-08-03T20:16:37+00:00",
-    "update:8560945266867:834349c5bf47": "2026-08-04T03:31:54+00:00"
+    "update:8560945266867:834349c5bf47": "2026-08-04T03:31:54+00:00",
+    "update:8560945266867:415757efd8c3": "2026-08-04T22:00:00+00:00",
+    "update:8474515636403:415757efd8c3": "2026-08-04T22:00:00+00:00"
   }
 }
