@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-06T00:14:06+00:00",
-    "hkt": "2026-08-06T08:14:06+08:00",
+    "utc": "2026-08-06T03:45:59+00:00",
+    "hkt": "2026-08-06T11:45:59+08:00",
     "status": "ok",
     "products_tracked": 53
   },
@@ -2728,7 +2728,7 @@
       "colors": [
         "COPPER"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45562379468979": {
           "id": "45562379468979",
@@ -2736,7 +2736,7 @@
           "size": "28",
           "color": "COPPER",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45562379862195": {
           "id": "45562379862195",
@@ -2744,7 +2744,7 @@
           "size": "30",
           "color": "COPPER",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45562379927731": {
           "id": "45562379927731",
@@ -2752,7 +2752,7 @@
           "size": "32",
           "color": "COPPER",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45562379960499": {
           "id": "45562379960499",
@@ -2760,7 +2760,7 @@
           "size": "34",
           "color": "COPPER",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569410433203": {
           "id": "45569410433203",
@@ -2768,7 +2768,7 @@
           "size": "36",
           "color": "COPPER",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569410465971": {
           "id": "45569410465971",
@@ -2801,7 +2801,7 @@
       "colors": [
         "SMOKE"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45569403584691": {
           "id": "45569403584691",
@@ -2809,7 +2809,7 @@
           "size": "28",
           "color": "SMOKE",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569403650227": {
           "id": "45569403650227",
@@ -2817,7 +2817,7 @@
           "size": "30",
           "color": "SMOKE",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569403715763": {
           "id": "45569403715763",
@@ -2825,7 +2825,7 @@
           "size": "32",
           "color": "SMOKE",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569403748531": {
           "id": "45569403748531",
@@ -2833,7 +2833,7 @@
           "size": "34",
           "color": "SMOKE",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569403781299": {
           "id": "45569403781299",
@@ -2841,7 +2841,7 @@
           "size": "36",
           "color": "SMOKE",
           "price": "250.00",
-          "available": false
+          "available": true
         },
         "45569403814067": {
           "id": "45569403814067",
@@ -3988,6 +3988,8 @@
     "update:8560945266867:834349c5bf47": "2026-08-05T20:37:53+00:00",
     "update:8560945266867:415757efd8c3": "2026-08-05T17:14:20+00:00",
     "update:8474515636403:415757efd8c3": "2026-08-04T22:00:00+00:00",
-    "update:8474515636403:834349c5bf47": "2026-08-04T23:15:09+00:00"
+    "update:8474515636403:834349c5bf47": "2026-08-04T23:15:09+00:00",
+    "restock:8516792975539:COPPER:28+30": "2026-08-06T03:45:59+00:00",
+    "restock:8516793172147:SMOKE:28+30": "2026-08-06T03:45:59+00:00"
   }
 }
