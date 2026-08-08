@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-07T23:25:01+00:00",
-    "hkt": "2026-08-08T07:25:01+08:00",
+    "utc": "2026-08-08T00:03:28+00:00",
+    "hkt": "2026-08-08T08:03:28+08:00",
     "status": "ok",
     "products_tracked": 53
   },
@@ -1601,7 +1601,7 @@
       "colors": [
         "NAVY/PINE"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "45691792228531": {
           "id": "45691792228531",
@@ -1609,7 +1609,7 @@
           "size": "XS",
           "color": "NAVY/PINE",
           "price": "60.00",
-          "available": true
+          "available": false
         },
         "45691792261299": {
           "id": "45691792261299",
@@ -1617,7 +1617,7 @@
           "size": "S",
           "color": "NAVY/PINE",
           "price": "60.00",
-          "available": true
+          "available": false
         },
         "45691792294067": {
           "id": "45691792294067",
@@ -1625,7 +1625,7 @@
           "size": "M",
           "color": "NAVY/PINE",
           "price": "60.00",
-          "available": true
+          "available": false
         },
         "45691792326835": {
           "id": "45691792326835",
@@ -1633,7 +1633,7 @@
           "size": "L",
           "color": "NAVY/PINE",
           "price": "60.00",
-          "available": true
+          "available": false
         },
         "45691792359603": {
           "id": "45691792359603",
@@ -1641,7 +1641,7 @@
           "size": "XL",
           "color": "NAVY/PINE",
           "price": "60.00",
-          "available": true
+          "available": false
         },
         "45691792392371": {
           "id": "45691792392371",
@@ -1649,7 +1649,7 @@
           "size": "2XL",
           "color": "NAVY/PINE",
           "price": "60.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-07-21T14:20:24+00:00"
@@ -3994,6 +3994,7 @@
     "update:8551744503987:834349c5bf47": "2026-08-06T15:34:20+00:00",
     "update:8490128638131:415757efd8c3": "2026-08-07T20:19:50+00:00",
     "update:8538098630835:cd40640c0704": "2026-08-07T23:25:01+00:00",
-    "restock:8551745323187:NAVY/PINE:S+XS": "2026-08-07T23:25:01+00:00"
+    "restock:8551745323187:NAVY/PINE:S+XS": "2026-08-07T23:25:01+00:00",
+    "update:8551745323187:834349c5bf47": "2026-08-08T00:03:28+00:00"
   }
 }
