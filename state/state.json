@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-09T19:51:59+00:00",
-    "hkt": "2026-08-10T03:51:59+08:00",
+    "utc": "2026-08-09T20:23:39+00:00",
+    "hkt": "2026-08-10T04:23:39+08:00",
     "status": "ok",
     "products_tracked": 53
   },
@@ -966,13 +966,13 @@
     },
     "8551803912371": {
       "id": "8551803912371",
-      "handle": "wavy-short",
+      "handle": "wavy-short-sea",
       "title": "WAVY SHORT",
       "product_type": "BOTTOMS",
       "tags": [
         "nyc-pop-up"
       ],
-      "url": "https://skylrk.com/products/wavy-short",
+      "url": "https://skylrk.com/products/wavy-short-sea",
       "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB064-3009_FRONT.png",
       "price": "140.00",
       "currency": "USD",
