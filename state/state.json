@@ -1,12 +1,80 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-10T21:06:55+00:00",
-    "hkt": "2026-08-11T05:06:55+08:00",
+    "utc": "2026-08-10T21:56:07+00:00",
+    "hkt": "2026-08-11T05:56:07+08:00",
     "status": "ok",
-    "products_tracked": 53
+    "products_tracked": 54
   },
   "products": {
+    "8551783661747": {
+      "id": "8551783661747",
+      "handle": "no-zip-hoodie-1",
+      "title": "NYC NO ZIP HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "nyc-pop-up"
+      ],
+      "url": "https://skylrk.com/products/no-zip-hoodie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT027-8032_BACK_0968d45e-6188-4ae6-98ac-6bf1b38f4f7e.png",
+      "price": "220.00",
+      "currency": "USD",
+      "colors": [
+        "HEATHER PINK"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45671014498483": {
+          "id": "45671014498483",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": false
+        },
+        "45671018725555": {
+          "id": "45671018725555",
+          "size_raw": "S",
+          "size": "S",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": false
+        },
+        "45671018758323": {
+          "id": "45671018758323",
+          "size_raw": "M",
+          "size": "M",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        },
+        "45671018791091": {
+          "id": "45671018791091",
+          "size_raw": "L",
+          "size": "L",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        },
+        "45671018823859": {
+          "id": "45671018823859",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        },
+        "45671018856627": {
+          "id": "45671018856627",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-10T21:56:07+00:00"
+    },
     "8538096894131": {
       "id": "8538096894131",
       "handle": "checker-short-2",
@@ -3998,6 +4066,7 @@
     "update:8551745323187:834349c5bf47": "2026-08-08T00:03:28+00:00",
     "update:8490128638131:834349c5bf47": "2026-08-08T02:17:54+00:00",
     "update:8560945299635:834349c5bf47": "2026-08-09T03:06:46+00:00",
-    "update:8538096304307:415757efd8c3": "2026-08-10T18:07:50+00:00"
+    "update:8538096304307:415757efd8c3": "2026-08-10T18:07:50+00:00",
+    "new:8551783661747": "2026-08-10T21:56:07+00:00"
   }
 }
