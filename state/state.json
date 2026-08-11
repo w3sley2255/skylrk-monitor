@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-11T22:08:56+00:00",
-    "hkt": "2026-08-12T06:08:56+08:00",
+    "utc": "2026-08-11T23:07:43+00:00",
+    "hkt": "2026-08-12T07:07:43+08:00",
     "status": "ok",
     "products_tracked": 54
   },
@@ -151,6 +151,7 @@
       "title": "MATTERDADDIES - SAGE",
       "product_type": "FOOTWEAR",
       "tags": [
+        "08.13 DROP",
         "nyc-pop-up",
         "style-matterdaddies"
       ],
@@ -268,6 +269,7 @@
       "title": "MATTERDADDIES - PINKY",
       "product_type": "FOOTWEAR",
       "tags": [
+        "08.13 DROP",
         "nyc-pop-up",
         "style-matterdaddies"
       ],
@@ -386,6 +388,7 @@
       "product_type": "FOOTWEAR",
       "tags": [
         "06.12.26 DROP",
+        "08.13 DROP",
         "nyc-pop-up",
         "style-matterdaddies"
       ],
@@ -3307,7 +3310,7 @@
           "size": "S",
           "color": "RAW",
           "price": "180.00",
-          "available": false
+          "available": true
         },
         "45262872412339": {
           "id": "45262872412339",
@@ -4081,6 +4084,7 @@
     "update:8538096304307:415757efd8c3": "2026-08-10T18:07:50+00:00",
     "new:8551783661747": "2026-08-10T21:56:07+00:00",
     "update:8538096304307:834349c5bf47": "2026-08-11T11:33:55+00:00",
-    "update:8538096894131:7b636341cffa": "2026-08-11T21:11:28+00:00"
+    "update:8538096894131:7b636341cffa": "2026-08-11T21:11:28+00:00",
+    "restock:8416055165107:RAW:S": "2026-08-11T23:07:43+00:00"
   }
 }
