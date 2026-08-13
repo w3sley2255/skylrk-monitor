@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-13T04:41:11+00:00",
-    "hkt": "2026-08-13T12:41:11+08:00",
+    "utc": "2026-08-13T06:07:48+00:00",
+    "hkt": "2026-08-13T14:07:48+08:00",
     "status": "error",
     "products_tracked": 55,
     "error": "Non-retryable HTTP 401 for https://skylrk.com/products.json?limit=250&page=1"
