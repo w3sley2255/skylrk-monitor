@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-12T23:54:21+00:00",
-    "hkt": "2026-08-13T07:54:21+08:00",
+    "utc": "2026-08-13T02:41:10+00:00",
+    "hkt": "2026-08-13T10:41:10+08:00",
     "status": "ok",
     "products_tracked": 55
   },
@@ -1127,7 +1127,7 @@
       "colors": [
         "SEA"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45671066501299": {
           "id": "45671066501299",
@@ -1151,7 +1151,7 @@
           "size": "M",
           "color": "SEA",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45671066599603": {
           "id": "45671066599603",
@@ -1159,7 +1159,7 @@
           "size": "L",
           "color": "SEA",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45671066632371": {
           "id": "45671066632371",
@@ -1167,7 +1167,7 @@
           "size": "XL",
           "color": "SEA",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45671066665139": {
           "id": "45671066665139",
@@ -1175,7 +1175,7 @@
           "size": "2XL",
           "color": "SEA",
           "price": "140.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-07-21T14:20:24+00:00"
@@ -1197,7 +1197,7 @@
       "colors": [
         "Angel"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45671040483507": {
           "id": "45671040483507",
@@ -1213,7 +1213,7 @@
           "size": "S",
           "color": "Angel",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45671049363635": {
           "id": "45671049363635",
@@ -1229,7 +1229,7 @@
           "size": "L",
           "color": "Angel",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45671049429171": {
           "id": "45671049429171",
@@ -1237,7 +1237,7 @@
           "size": "XL",
           "color": "Angel",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45671049461939": {
           "id": "45671049461939",
@@ -4158,6 +4158,8 @@
     "update:8538096304307:834349c5bf47": "2026-08-11T11:33:55+00:00",
     "update:8538096894131:7b636341cffa": "2026-08-11T21:11:28+00:00",
     "restock:8416055165107:RAW:S": "2026-08-12T14:47:08+00:00",
-    "new:8538096861363": "2026-08-12T21:57:29+00:00"
+    "new:8538096861363": "2026-08-12T21:57:29+00:00",
+    "update:8551803912371:415757efd8c3": "2026-08-13T02:41:10+00:00",
+    "restock:8551798440115:Angel:S": "2026-08-13T02:41:10+00:00"
   }
 }
