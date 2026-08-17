@@ -1,202 +1,12 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-17T16:10:18+00:00",
-    "hkt": "2026-08-18T00:10:18+08:00",
+    "utc": "2026-08-17T16:43:13+00:00",
+    "hkt": "2026-08-18T00:43:13+08:00",
     "status": "ok",
-    "products_tracked": 28
+    "products_tracked": 24
   },
   "products": {
-    "8474515636403": {
-      "id": "8474515636403",
-      "handle": "juice-i",
-      "title": "JUICE I",
-      "product_type": "Accessories",
-      "tags": [
-        "Coachella",
-        "coachella-skylrk",
-        "coachella-skylrk-2",
-        "coachella-skylrk-2-online",
-        "nyc-online",
-        "nyc-pop-up",
-        "style-juice1"
-      ],
-      "url": "https://skylrk.com/products/juice-i",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/BLUE_v1_f4dfe5b1-2d36-4008-b98f-911e95371f89.png",
-      "price": "60.00",
-      "currency": "USD",
-      "colors": [
-        "FROG",
-        "SUPER BLUE"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45447734132915": {
-          "id": "45447734132915",
-          "size_raw": null,
-          "size": null,
-          "color": "SUPER BLUE",
-          "price": "60.00",
-          "available": false
-        },
-        "45447734165683": {
-          "id": "45447734165683",
-          "size_raw": null,
-          "size": null,
-          "color": "FROG",
-          "price": "60.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-22T15:26:52+00:00"
-    },
-    "8517390237875": {
-      "id": "8517390237875",
-      "handle": "reverse-hoodie-thistle",
-      "title": "REVERSE HOODIE",
-      "product_type": "HOODIES",
-      "tags": [
-        "06.12.26 DROP",
-        "nyc-pop-up",
-        "style-reverseHoodie"
-      ],
-      "url": "https://skylrk.com/products/reverse-hoodie-thistle",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/REVERSEHOODIE_THISTLE_FRONT.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "THISTLE"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45565403431091": {
-          "id": "45565403431091",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "THISTLE",
-          "price": "140.00",
-          "available": true
-        },
-        "45565404250291": {
-          "id": "45565404250291",
-          "size_raw": "S",
-          "size": "S",
-          "color": "THISTLE",
-          "price": "140.00",
-          "available": true
-        },
-        "45565404283059": {
-          "id": "45565404283059",
-          "size_raw": "M",
-          "size": "M",
-          "color": "THISTLE",
-          "price": "140.00",
-          "available": true
-        },
-        "45565404315827": {
-          "id": "45565404315827",
-          "size_raw": "L",
-          "size": "L",
-          "color": "THISTLE",
-          "price": "140.00",
-          "available": true
-        },
-        "45565404348595": {
-          "id": "45565404348595",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "THISTLE",
-          "price": "140.00",
-          "available": true
-        },
-        "45565404381363": {
-          "id": "45565404381363",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "THISTLE",
-          "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8516791369907": {
-      "id": "8516791369907",
-      "handle": "thin-loop-sock-2-pack-iris-moon",
-      "title": "THIN LOOP SOCK 2-PACK",
-      "product_type": "SOCKS",
-      "tags": [
-        "06.12.26 DROP"
-      ],
-      "url": "https://skylrk.com/products/thin-loop-sock-2-pack-iris-moon",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLS002-P0010_FRONT_1.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "IRIS/MOON"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45562371834035": {
-          "id": "45562371834035",
-          "size_raw": null,
-          "size": null,
-          "color": "IRIS/MOON",
-          "price": "40.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-08-17T08:42:45+00:00"
-    },
-    "8373937864883": {
-      "id": "8373937864883",
-      "handle": "thin-loop-sock-2-pack",
-      "title": "THIN LOOP SOCK 2-PACK",
-      "product_type": "SOFT GOODS",
-      "tags": [
-        "ACCESSORIES",
-        "apparel",
-        "jan16",
-        "Shop"
-      ],
-      "url": "https://skylrk.com/products/thin-loop-sock-2-pack",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/Thin-Loopy-Socks-2up-Pink-Tan.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "CLOUDY PINK / COFFEE",
-        "GHOST / SPA",
-        "HAILEY GREY / JET"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45129507078323": {
-          "id": "45129507078323",
-          "size_raw": null,
-          "size": null,
-          "color": "HAILEY GREY / JET",
-          "price": "40.00",
-          "available": true
-        },
-        "45129507111091": {
-          "id": "45129507111091",
-          "size_raw": null,
-          "size": null,
-          "color": "GHOST / SPA",
-          "price": "40.00",
-          "available": true
-        },
-        "45129507143859": {
-          "id": "45129507143859",
-          "size_raw": null,
-          "size": null,
-          "color": "CLOUDY PINK / COFFEE",
-          "price": "40.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-07-22T15:26:52+00:00"
-    },
     "8538096500915": {
       "id": "8538096500915",
       "handle": "bump-case-smudge",
@@ -598,7 +408,7 @@
         "skylrkchellaw2"
       ],
       "url": "https://skylrk.com/products/sunken-mule",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_32composite.png",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_32composite_CAVE.png",
       "price": "140.00",
       "currency": "USD",
       "colors": [
@@ -894,7 +704,7 @@
       "colors": [
         "JET"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45623637409971": {
           "id": "45623637409971",
@@ -926,7 +736,7 @@
           "size": "L",
           "color": "JET",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637541043": {
           "id": "45623637541043",
@@ -1877,6 +1687,8 @@
     "update:8560945234099:415757efd8c3": "2026-08-17T08:42:45+00:00",
     "restock:8551744503987:PAPER:S": "2026-08-17T08:42:45+00:00",
     "update:8551744503987:7565440d11a5": "2026-08-17T08:42:45+00:00",
-    "restock:8373910503603:RAIN/BLOOH/PUNCH:S+XS": "2026-08-17T08:42:45+00:00"
+    "restock:8373910503603:RAIN/BLOOH/PUNCH:S+XS": "2026-08-17T08:42:45+00:00",
+    "update:8416053854387:f8890c521cc8": "2026-08-17T16:43:13+00:00",
+    "update:8538096861363:415757efd8c3": "2026-08-17T16:43:13+00:00"
   }
 }
