@@ -2,7 +2,7 @@ name: SKYLRK monitor
 
 on:
   schedule:
-    # Every 15 minutes (UTC), deliberately OFF the quarter-hour marks.
+    # Every 5 minutes (UTC), deliberately OFF the congested :00/:15/:30/:45 marks.
     #
     # "*/15" would fire at :00/:15/:30/:45 - the busiest minutes on GitHub's
     # scheduler, because that is what every example produces. Scheduled runs are
@@ -11,7 +11,7 @@ on:
     #
     # GitHub also disables schedules after 60 days of repo inactivity - the
     # state commit at the end of this job counts as activity and keeps it alive.
-    - cron: "7,22,37,52 * * * *"
+    - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
 
 # Never let two checks run at once (avoids state write races).
