@@ -1,12 +1,249 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-17T19:15:08+00:00",
-    "hkt": "2026-08-18T03:15:08+08:00",
+    "utc": "2026-08-17T19:43:21+00:00",
+    "hkt": "2026-08-18T03:43:21+08:00",
     "status": "ok",
-    "products_tracked": 24
+    "products_tracked": 26
   },
   "products": {
+    "8538095780019": {
+      "id": "8538095780019",
+      "handle": "matterdaddies-sage",
+      "title": "MATTERDADDIES - SAGE",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "08.13 DROP",
+        "nyc-pop-up",
+        "style-matterdaddies"
+      ],
+      "url": "https://skylrk.com/products/matterdaddies-sage",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_MATTERDADDIES_SAGE_RIGHT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "SAGE"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45623631315123": {
+          "id": "45623631315123",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631347891": {
+          "id": "45623631347891",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631380659": {
+          "id": "45623631380659",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631413427": {
+          "id": "45623631413427",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631446195": {
+          "id": "45623631446195",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631478963": {
+          "id": "45623631478963",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631511731": {
+          "id": "45623631511731",
+          "size_raw": "M 10 / W 11",
+          "size": "M 10 / W 11",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631544499": {
+          "id": "45623631544499",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631577267": {
+          "id": "45623631577267",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631610035": {
+          "id": "45623631610035",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631642803": {
+          "id": "45623631642803",
+          "size_raw": "M 14 / W 15",
+          "size": "M 14 / W 15",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623631675571": {
+          "id": "45623631675571",
+          "size_raw": "M 15 / W 16",
+          "size": "M 15 / W 16",
+          "color": "SAGE",
+          "price": "140.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-17T19:43:21+00:00"
+    },
+    "8416054608051": {
+      "id": "8416054608051",
+      "handle": "matterdaddies",
+      "title": "MATTERDADDIES",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "06.12.26 DROP",
+        "08.13 DROP",
+        "nyc-pop-up",
+        "style-matterdaddies"
+      ],
+      "url": "https://skylrk.com/products/matterdaddies",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/matterdaddies-smoke-1_52643bbb-31dc-4d91-8f99-ed266c2f77a8.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "SMOKE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45262871691443": {
+          "id": "45262871691443",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871658675": {
+          "id": "45262871658675",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871625907": {
+          "id": "45262871625907",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871593139": {
+          "id": "45262871593139",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871560371": {
+          "id": "45262871560371",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871527603": {
+          "id": "45262871527603",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262871494835": {
+          "id": "45262871494835",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871462067": {
+          "id": "45262871462067",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871429299": {
+          "id": "45262871429299",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871396531": {
+          "id": "45262871396531",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262870872243": {
+          "id": "45262870872243",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871363763": {
+          "id": "45262871363763",
+          "size_raw": null,
+          "size": null,
+          "color": "SMOKE",
+          "price": "140.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-17T19:43:21+00:00"
+    },
     "8538096500915": {
       "id": "8538096500915",
       "handle": "bump-case-smudge",
@@ -1690,6 +1927,8 @@
     "restock:8373910503603:RAIN/BLOOH/PUNCH:S+XS": "2026-08-17T08:42:45+00:00",
     "update:8416053854387:f8890c521cc8": "2026-08-17T16:43:13+00:00",
     "update:8538096861363:415757efd8c3": "2026-08-17T16:43:13+00:00",
-    "update:8538096861363:834349c5bf47": "2026-08-17T17:03:34+00:00"
+    "update:8538096861363:834349c5bf47": "2026-08-17T17:03:34+00:00",
+    "new:8538095780019": "2026-08-17T19:43:21+00:00",
+    "new:8416054608051": "2026-08-17T19:43:21+00:00"
   }
 }
