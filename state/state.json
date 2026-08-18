@@ -1,12 +1,358 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-18T22:14:57+00:00",
-    "hkt": "2026-08-19T06:14:57+08:00",
+    "utc": "2026-08-18T22:42:46+00:00",
+    "hkt": "2026-08-19T06:42:46+08:00",
     "status": "ok",
-    "products_tracked": 27
+    "products_tracked": 32
   },
   "products": {
+    "8551784841395": {
+      "id": "8551784841395",
+      "handle": "hoodie-1",
+      "title": "NYC HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "apparel",
+        "HOODIES",
+        "nyc-pop-up",
+        "Shop"
+      ],
+      "url": "https://skylrk.com/products/hoodie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT001-1007_BACK.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "JET"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45671021936819": {
+          "id": "45671021936819",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "JET",
+          "price": "140.00",
+          "available": false
+        },
+        "45671026426035": {
+          "id": "45671026426035",
+          "size_raw": "S",
+          "size": "S",
+          "color": "JET",
+          "price": "140.00",
+          "available": false
+        },
+        "45671026458803": {
+          "id": "45671026458803",
+          "size_raw": "M",
+          "size": "M",
+          "color": "JET",
+          "price": "140.00",
+          "available": false
+        },
+        "45671026491571": {
+          "id": "45671026491571",
+          "size_raw": "L",
+          "size": "L",
+          "color": "JET",
+          "price": "140.00",
+          "available": false
+        },
+        "45671026524339": {
+          "id": "45671026524339",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45671026557107": {
+          "id": "45671026557107",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-18T22:42:46+00:00"
+    },
+    "8551783661747": {
+      "id": "8551783661747",
+      "handle": "no-zip-hoodie-1",
+      "title": "NYC NO ZIP HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "nyc-pop-up"
+      ],
+      "url": "https://skylrk.com/products/no-zip-hoodie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT027-8032_BACK_0968d45e-6188-4ae6-98ac-6bf1b38f4f7e.png",
+      "price": "220.00",
+      "currency": "USD",
+      "colors": [
+        "HEATHER PINK"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45671014498483": {
+          "id": "45671014498483",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": false
+        },
+        "45671018725555": {
+          "id": "45671018725555",
+          "size_raw": "S",
+          "size": "S",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": false
+        },
+        "45671018758323": {
+          "id": "45671018758323",
+          "size_raw": "M",
+          "size": "M",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": false
+        },
+        "45671018791091": {
+          "id": "45671018791091",
+          "size_raw": "L",
+          "size": "L",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        },
+        "45671018823859": {
+          "id": "45671018823859",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        },
+        "45671018856627": {
+          "id": "45671018856627",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "HEATHER PINK",
+          "price": "220.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-18T22:42:46+00:00"
+    },
+    "8551817838771": {
+      "id": "8551817838771",
+      "handle": "waffle-3-4-short-1",
+      "title": "WAFFLE 3/4 SHORT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "nyc-pop-up",
+        "style-waffleShort"
+      ],
+      "url": "https://skylrk.com/products/waffle-3-4-short-1",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB029-M025_FRONT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "NIGHT"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45671083344051": {
+          "id": "45671083344051",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "NIGHT",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086948531": {
+          "id": "45671086948531",
+          "size_raw": "S",
+          "size": "S",
+          "color": "NIGHT",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086981299": {
+          "id": "45671086981299",
+          "size_raw": "M",
+          "size": "M",
+          "color": "NIGHT",
+          "price": "160.00",
+          "available": false
+        },
+        "45671087014067": {
+          "id": "45671087014067",
+          "size_raw": "L",
+          "size": "L",
+          "color": "NIGHT",
+          "price": "160.00",
+          "available": false
+        },
+        "45671087046835": {
+          "id": "45671087046835",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "NIGHT",
+          "price": "160.00",
+          "available": false
+        },
+        "45671087079603": {
+          "id": "45671087079603",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "NIGHT",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-18T22:42:46+00:00"
+    },
+    "8551817806003": {
+      "id": "8551817806003",
+      "handle": "waffle-3-4-short",
+      "title": "WAFFLE 3/4 SHORT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "nyc-pop-up",
+        "style-waffleShort"
+      ],
+      "url": "https://skylrk.com/products/waffle-3-4-short",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB029-4029_FRONT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "ELM"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45671083147443": {
+          "id": "45671083147443",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "ELM",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086653619": {
+          "id": "45671086653619",
+          "size_raw": "S",
+          "size": "S",
+          "color": "ELM",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086686387": {
+          "id": "45671086686387",
+          "size_raw": "M",
+          "size": "M",
+          "color": "ELM",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086719155": {
+          "id": "45671086719155",
+          "size_raw": "L",
+          "size": "L",
+          "color": "ELM",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086751923": {
+          "id": "45671086751923",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "ELM",
+          "price": "160.00",
+          "available": false
+        },
+        "45671086784691": {
+          "id": "45671086784691",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "ELM",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-18T22:42:46+00:00"
+    },
+    "8557052559539": {
+      "id": "8557052559539",
+      "handle": "denim-short-jet",
+      "title": "DENIM SHORT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "evergreen_0716",
+        "style-denimShort"
+      ],
+      "url": "https://skylrk.com/products/denim-short-jet",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB021-1007_FRONT.webp",
+      "price": "180.00",
+      "currency": "USD",
+      "colors": [
+        "JET"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45689971736755": {
+          "id": "45689971736755",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "JET",
+          "price": "180.00",
+          "available": false
+        },
+        "45689973113011": {
+          "id": "45689973113011",
+          "size_raw": "S",
+          "size": "S",
+          "color": "JET",
+          "price": "180.00",
+          "available": false
+        },
+        "45689973145779": {
+          "id": "45689973145779",
+          "size_raw": "M",
+          "size": "M",
+          "color": "JET",
+          "price": "180.00",
+          "available": true
+        },
+        "45689973178547": {
+          "id": "45689973178547",
+          "size_raw": "L",
+          "size": "L",
+          "color": "JET",
+          "price": "180.00",
+          "available": true
+        },
+        "45689973211315": {
+          "id": "45689973211315",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "JET",
+          "price": "180.00",
+          "available": true
+        },
+        "45689973244083": {
+          "id": "45689973244083",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "JET",
+          "price": "180.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-18T22:42:46+00:00"
+    },
     "8517390237875": {
       "id": "8517390237875",
       "handle": "reverse-hoodie-thistle",
@@ -1968,7 +2314,7 @@
     "update:8490128638131:834349c5bf47": "2026-08-08T02:17:54+00:00",
     "update:8560945299635:834349c5bf47": "2026-08-09T03:06:46+00:00",
     "update:8538096304307:415757efd8c3": "2026-08-10T18:07:50+00:00",
-    "new:8551783661747": "2026-08-10T21:56:07+00:00",
+    "new:8551783661747": "2026-08-18T22:42:46+00:00",
     "update:8538096304307:834349c5bf47": "2026-08-11T11:33:55+00:00",
     "update:8538096894131:7b636341cffa": "2026-08-11T21:11:28+00:00",
     "restock:8416055165107:RAW:S": "2026-08-12T14:47:08+00:00",
@@ -2002,6 +2348,10 @@
     "new:8416054608051": "2026-08-17T19:43:21+00:00",
     "new:8517390237875": "2026-08-17T23:30:57+00:00",
     "update:8416054608051:834349c5bf47": "2026-08-18T04:46:12+00:00",
-    "update:8551798440115:834349c5bf47": "2026-08-18T19:08:55+00:00"
+    "update:8551798440115:834349c5bf47": "2026-08-18T19:08:55+00:00",
+    "new:8551784841395": "2026-08-18T22:42:46+00:00",
+    "new:8551817838771": "2026-08-18T22:42:46+00:00",
+    "new:8551817806003": "2026-08-18T22:42:46+00:00",
+    "new:8557052559539": "2026-08-18T22:42:46+00:00"
   }
 }
