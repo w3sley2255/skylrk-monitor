@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-18T17:02:23+00:00",
-    "hkt": "2026-08-19T01:02:23+08:00",
+    "utc": "2026-08-18T17:35:00+00:00",
+    "hkt": "2026-08-19T01:35:00+08:00",
     "status": "ok",
     "products_tracked": 27
   },
@@ -492,7 +492,7 @@
           "size": "M 4 / W 5",
           "color": "MINT CHIP",
           "price": "80.00",
-          "available": true
+          "available": false
         },
         "45623635640499": {
           "id": "45623635640499",
