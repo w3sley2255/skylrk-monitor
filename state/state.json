@@ -1,12 +1,90 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-19T21:11:32+00:00",
-    "hkt": "2026-08-20T05:11:32+08:00",
+    "utc": "2026-08-19T21:38:38+00:00",
+    "hkt": "2026-08-20T05:38:38+08:00",
     "status": "ok",
-    "products_tracked": 37
+    "products_tracked": 39
   },
   "products": {
+    "8373937864883": {
+      "id": "8373937864883",
+      "handle": "thin-loop-sock-2-pack",
+      "title": "THIN LOOP SOCK 2-PACK",
+      "product_type": "SOFT GOODS",
+      "tags": [
+        "ACCESSORIES",
+        "apparel",
+        "jan16",
+        "Shop"
+      ],
+      "url": "https://skylrk.com/products/thin-loop-sock-2-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/Thin-Loopy-Socks-2up-Pink-Tan.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "CLOUDY PINK / COFFEE",
+        "GHOST / SPA",
+        "HAILEY GREY / JET"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45129507078323": {
+          "id": "45129507078323",
+          "size_raw": null,
+          "size": null,
+          "color": "HAILEY GREY / JET",
+          "price": "40.00",
+          "available": true
+        },
+        "45129507111091": {
+          "id": "45129507111091",
+          "size_raw": null,
+          "size": null,
+          "color": "GHOST / SPA",
+          "price": "40.00",
+          "available": true
+        },
+        "45129507143859": {
+          "id": "45129507143859",
+          "size_raw": null,
+          "size": null,
+          "color": "CLOUDY PINK / COFFEE",
+          "price": "40.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-19T21:38:38+00:00"
+    },
+    "8538099286195": {
+      "id": "8538099286195",
+      "handle": "skullcap",
+      "title": "SKULLCAP",
+      "product_type": "HATS",
+      "tags": [
+        "nyc",
+        "nyc-pop-up"
+      ],
+      "url": "https://skylrk.com/products/skullcap",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLH004-4030_FRONT_ddec2513-092a-4a3f-a812-39104a5aac6d.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "BASIL"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623642521779": {
+          "id": "45623642521779",
+          "size_raw": null,
+          "size": null,
+          "color": "BASIL",
+          "price": "40.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-19T21:38:38+00:00"
+    },
     "8416055492787": {
       "id": "8416055492787",
       "handle": "speed-demon",
@@ -2665,6 +2743,8 @@
     "new:8551853195443": "2026-08-19T01:06:23+00:00",
     "new:8551854342323": "2026-08-19T01:06:23+00:00",
     "new:8551721271475": "2026-08-19T01:06:23+00:00",
-    "update:8416055492787:415757efd8c3": "2026-08-19T18:12:42+00:00"
+    "update:8416055492787:415757efd8c3": "2026-08-19T18:12:42+00:00",
+    "new:8373937864883": "2026-08-19T21:38:38+00:00",
+    "new:8538099286195": "2026-08-19T21:38:38+00:00"
   }
 }
