@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-25T20:25:38+00:00",
-    "hkt": "2026-08-26T04:25:38+08:00",
+    "utc": "2026-08-25T20:53:18+00:00",
+    "hkt": "2026-08-26T04:53:18+08:00",
     "status": "ok",
     "products_tracked": 29
   },
@@ -1720,7 +1720,7 @@
           "size": "M",
           "color": "RAIN/BLOOH/PUNCH",
           "price": "45.00",
-          "available": true
+          "available": false
         },
         "45652409024691": {
           "id": "45652409024691",
