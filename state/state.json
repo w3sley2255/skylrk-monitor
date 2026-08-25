@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-25T22:00:26+00:00",
-    "hkt": "2026-08-26T06:00:26+08:00",
+    "utc": "2026-08-25T22:32:03+00:00",
+    "hkt": "2026-08-26T06:32:03+08:00",
     "status": "ok",
     "products_tracked": 29
   },
@@ -1786,7 +1786,7 @@
           "size": "30",
           "color": "COPPER",
           "price": "250.00",
-          "available": true
+          "available": false
         },
         "45562379927731": {
           "id": "45562379927731",
