@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-26T02:45:51+00:00",
-    "hkt": "2026-08-26T10:45:51+08:00",
+    "utc": "2026-08-26T03:40:14+00:00",
+    "hkt": "2026-08-26T11:40:14+08:00",
     "status": "ok",
     "products_tracked": 29
   },
@@ -1650,7 +1650,7 @@
           "size": "M",
           "color": "PAPER",
           "price": "90.00",
-          "available": true
+          "available": false
         },
         "45670960136371": {
           "id": "45670960136371",
