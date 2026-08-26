@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-26T00:00:01+00:00",
-    "hkt": "2026-08-26T08:00:01+08:00",
+    "utc": "2026-08-26T01:27:55+00:00",
+    "hkt": "2026-08-26T09:27:55+08:00",
     "status": "ok",
     "products_tracked": 29
   },
@@ -1308,6 +1308,7 @@
       "tags": [
         "ACCESSORIES",
         "dec12drop",
+        "ecomm0827",
         "nyc-pop-up",
         "Shop",
         "style-glicky"
@@ -1339,6 +1340,7 @@
       "product_type": "EYEWEAR",
       "tags": [
         "ACCESSORIES",
+        "ecomm0827",
         "nyc-pop-up",
         "Shop",
         "style-glicky"
@@ -1371,6 +1373,7 @@
       "tags": [
         "ACCESSORIES",
         "dec12drop",
+        "ecomm0827",
         "nyc-pop-up",
         "Shop",
         "style-glicky"
