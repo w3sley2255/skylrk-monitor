@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-28T00:29:54+00:00",
-    "hkt": "2026-08-28T08:29:54+08:00",
+    "utc": "2026-08-28T11:40:26+00:00",
+    "hkt": "2026-08-28T19:40:26+08:00",
     "status": "ok",
     "products_tracked": 16
   },
@@ -241,7 +241,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45129365749939": {
           "id": "45129365749939",
@@ -249,7 +249,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45129365782707": {
           "id": "45129365782707",
@@ -318,7 +318,7 @@
           "size": "XS",
           "color": "CHERRY",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "45689970032819": {
           "id": "45689970032819",
@@ -972,7 +972,7 @@
           "size": "M 9 / W 10",
           "color": "CAVE",
           "price": "80.00",
-          "available": true
+          "available": false
         },
         "45078902538419": {
           "id": "45078902538419",
