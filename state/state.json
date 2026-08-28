@@ -1,80 +1,1029 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-27T15:28:00+00:00",
-    "hkt": "2026-08-27T23:28:00+08:00",
+    "utc": "2026-08-28T00:29:54+00:00",
+    "hkt": "2026-08-28T08:29:54+08:00",
     "status": "ok",
-    "products_tracked": 25
+    "products_tracked": 16
   },
   "products": {
-    "8557052559539": {
-      "id": "8557052559539",
-      "handle": "denim-short-jet",
-      "title": "DENIM SHORT",
+    "8406763405491": {
+      "id": "8406763405491",
+      "handle": "reverse-zip-hoodie",
+      "title": "REVERSE ZIP HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "06.12.26 DROP",
+        "260501",
+        "ecomm0827",
+        "evergreen_0716",
+        "style-reverseZipHoodie"
+      ],
+      "url": "https://skylrk.com/products/reverse-zip-hoodie",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT026-0011-1_7d646b62-144a-42d6-bf00-b6e720eff254.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "PAPER"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45230495498419": {
+          "id": "45230495498419",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "PAPER",
+          "price": "160.00",
+          "available": false
+        },
+        "45230495531187": {
+          "id": "45230495531187",
+          "size_raw": "S",
+          "size": "S",
+          "color": "PAPER",
+          "price": "160.00",
+          "available": false
+        },
+        "45230495563955": {
+          "id": "45230495563955",
+          "size_raw": "M",
+          "size": "M",
+          "color": "PAPER",
+          "price": "160.00",
+          "available": false
+        },
+        "45230495596723": {
+          "id": "45230495596723",
+          "size_raw": "L",
+          "size": "L",
+          "color": "PAPER",
+          "price": "160.00",
+          "available": false
+        },
+        "45230495629491": {
+          "id": "45230495629491",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "PAPER",
+          "price": "160.00",
+          "available": false
+        },
+        "45230495662259": {
+          "id": "45230495662259",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "PAPER",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8373858107571": {
+      "id": "8373858107571",
+      "handle": "rest-slipper-smooth-suede",
+      "title": "REST SLIPPER SMOOTH SUEDE",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "ecomm0827",
+        "FOOTWEAR",
+        "jbbday"
+      ],
+      "url": "https://skylrk.com/products/rest-slipper-smooth-suede",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SUEDE_CHUNKY_MULE_LOW_CASHEW_SIDE_RIGHT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "CASHEW",
+        "JET"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45129365192883": {
+          "id": "45129365192883",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365225651": {
+          "id": "45129365225651",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365258419": {
+          "id": "45129365258419",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365291187": {
+          "id": "45129365291187",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365323955": {
+          "id": "45129365323955",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365356723": {
+          "id": "45129365356723",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365389491": {
+          "id": "45129365389491",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365422259": {
+          "id": "45129365422259",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365455027": {
+          "id": "45129365455027",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365487795": {
+          "id": "45129365487795",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129372205235": {
+          "id": "45129372205235",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365520563": {
+          "id": "45129365520563",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365553331": {
+          "id": "45129365553331",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365586099": {
+          "id": "45129365586099",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365618867": {
+          "id": "45129365618867",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365651635": {
+          "id": "45129365651635",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365684403": {
+          "id": "45129365684403",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365717171": {
+          "id": "45129365717171",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365749939": {
+          "id": "45129365749939",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365782707": {
+          "id": "45129365782707",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365815475": {
+          "id": "45129365815475",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365848243": {
+          "id": "45129365848243",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129372238003": {
+          "id": "45129372238003",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45129365881011": {
+          "id": "45129365881011",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8557052231859": {
+      "id": "8557052231859",
+      "handle": "waffle-short-cherry",
+      "title": "WAFFLE 3/4 SHORT",
       "product_type": "BOTTOMS",
       "tags": [
-        "evergreen_0716",
-        "style-denimShort"
+        "ecomm0827",
+        "style-waffleShort"
       ],
-      "url": "https://skylrk.com/products/denim-short-jet",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB021-1007_FRONT.webp",
-      "price": "180.00",
+      "url": "https://skylrk.com/products/waffle-short-cherry",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB029-7008_FRONT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "CHERRY"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45689968918707": {
+          "id": "45689968918707",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "CHERRY",
+          "price": "160.00",
+          "available": true
+        },
+        "45689970032819": {
+          "id": "45689970032819",
+          "size_raw": "S",
+          "size": "S",
+          "color": "CHERRY",
+          "price": "160.00",
+          "available": true
+        },
+        "45689970065587": {
+          "id": "45689970065587",
+          "size_raw": "M",
+          "size": "M",
+          "color": "CHERRY",
+          "price": "160.00",
+          "available": true
+        },
+        "45689970098355": {
+          "id": "45689970098355",
+          "size_raw": "L",
+          "size": "L",
+          "color": "CHERRY",
+          "price": "160.00",
+          "available": true
+        },
+        "45689970131123": {
+          "id": "45689970131123",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "CHERRY",
+          "price": "160.00",
+          "available": true
+        },
+        "45689970163891": {
+          "id": "45689970163891",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "CHERRY",
+          "price": "160.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8557051150515": {
+      "id": "8557051150515",
+      "handle": "waffle-short-rain",
+      "title": "WAFFLE 3/4 SHORT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "ecomm0827",
+        "style-waffleShort"
+      ],
+      "url": "https://skylrk.com/products/waffle-short-rain",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB029-M022_FRONT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "RAIN"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45689964953779": {
+          "id": "45689964953779",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "RAIN",
+          "price": "160.00",
+          "available": false
+        },
+        "45689966362803": {
+          "id": "45689966362803",
+          "size_raw": "S",
+          "size": "S",
+          "color": "RAIN",
+          "price": "160.00",
+          "available": false
+        },
+        "45689966428339": {
+          "id": "45689966428339",
+          "size_raw": "M",
+          "size": "M",
+          "color": "RAIN",
+          "price": "160.00",
+          "available": true
+        },
+        "45689966395571": {
+          "id": "45689966395571",
+          "size_raw": "L",
+          "size": "L",
+          "color": "RAIN",
+          "price": "160.00",
+          "available": true
+        },
+        "45689966461107": {
+          "id": "45689966461107",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "RAIN",
+          "price": "160.00",
+          "available": true
+        },
+        "45689966493875": {
+          "id": "45689966493875",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "RAIN",
+          "price": "160.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8538096304307": {
+      "id": "8538096304307",
+      "handle": "reverse-zip-hoodie-1",
+      "title": "REVERSE ZIP HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "ecomm0827",
+        "evergreen_0716",
+        "style-reverseZipHoodie"
+      ],
+      "url": "https://skylrk.com/products/reverse-zip-hoodie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT026_7007_FRONT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "APPLE"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45623636000947": {
+          "id": "45623636000947",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "APPLE",
+          "price": "160.00",
+          "available": false
+        },
+        "45623636033715": {
+          "id": "45623636033715",
+          "size_raw": "S",
+          "size": "S",
+          "color": "APPLE",
+          "price": "160.00",
+          "available": false
+        },
+        "45623636066483": {
+          "id": "45623636066483",
+          "size_raw": "M",
+          "size": "M",
+          "color": "APPLE",
+          "price": "160.00",
+          "available": false
+        },
+        "45623636099251": {
+          "id": "45623636099251",
+          "size_raw": "L",
+          "size": "L",
+          "color": "APPLE",
+          "price": "160.00",
+          "available": false
+        },
+        "45623636132019": {
+          "id": "45623636132019",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "APPLE",
+          "price": "160.00",
+          "available": false
+        },
+        "45623636164787": {
+          "id": "45623636164787",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "APPLE",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8517390237875": {
+      "id": "8517390237875",
+      "handle": "reverse-hoodie-thistle",
+      "title": "REVERSE HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "06.12.26 DROP",
+        "ecomm0827",
+        "nyc-pop-up",
+        "style-reverseHoodie"
+      ],
+      "url": "https://skylrk.com/products/reverse-hoodie-thistle",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/REVERSEHOODIE_THISTLE_FRONT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "THISTLE"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45565403431091": {
+          "id": "45565403431091",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "THISTLE",
+          "price": "140.00",
+          "available": false
+        },
+        "45565404250291": {
+          "id": "45565404250291",
+          "size_raw": "S",
+          "size": "S",
+          "color": "THISTLE",
+          "price": "140.00",
+          "available": false
+        },
+        "45565404283059": {
+          "id": "45565404283059",
+          "size_raw": "M",
+          "size": "M",
+          "color": "THISTLE",
+          "price": "140.00",
+          "available": false
+        },
+        "45565404315827": {
+          "id": "45565404315827",
+          "size_raw": "L",
+          "size": "L",
+          "color": "THISTLE",
+          "price": "140.00",
+          "available": false
+        },
+        "45565404348595": {
+          "id": "45565404348595",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "THISTLE",
+          "price": "140.00",
+          "available": false
+        },
+        "45565404381363": {
+          "id": "45565404381363",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "THISTLE",
+          "price": "140.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8604919890099": {
+      "id": "8604919890099",
+      "handle": "boxer-brief-3-pack-2",
+      "title": "BOXER BRIEF 3-PACK",
+      "product_type": "UNDERWEAR",
+      "tags": [
+        "ACCESSORIES",
+        "apparel",
+        "ecomm0827"
+      ],
+      "url": "https://skylrk.com/products/boxer-brief-3-pack-2",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/Untitleddesign-2026-08-26T150128.731.png",
+      "price": "45.00",
       "currency": "USD",
       "colors": [
         "JET"
       ],
       "overall_available": true,
       "variants": {
-        "45689971736755": {
-          "id": "45689971736755",
+        "45827282206899": {
+          "id": "45827282206899",
           "size_raw": "XS",
           "size": "XS",
           "color": "JET",
-          "price": "180.00",
-          "available": false
+          "price": "45.00",
+          "available": true
         },
-        "45689973113011": {
-          "id": "45689973113011",
+        "45827289907379": {
+          "id": "45827289907379",
           "size_raw": "S",
           "size": "S",
           "color": "JET",
-          "price": "180.00",
-          "available": false
+          "price": "45.00",
+          "available": true
         },
-        "45689973145779": {
-          "id": "45689973145779",
+        "45827289940147": {
+          "id": "45827289940147",
           "size_raw": "M",
           "size": "M",
           "color": "JET",
-          "price": "180.00",
+          "price": "45.00",
           "available": true
         },
-        "45689973178547": {
-          "id": "45689973178547",
+        "45827289972915": {
+          "id": "45827289972915",
           "size_raw": "L",
           "size": "L",
           "color": "JET",
-          "price": "180.00",
+          "price": "45.00",
           "available": true
         },
-        "45689973211315": {
-          "id": "45689973211315",
+        "45827290005683": {
+          "id": "45827290005683",
           "size_raw": "XL",
           "size": "XL",
           "color": "JET",
-          "price": "180.00",
+          "price": "45.00",
           "available": true
         },
-        "45689973244083": {
-          "id": "45689973244083",
-          "size_raw": "2XL",
+        "45827290038451": {
+          "id": "45827290038451",
+          "size_raw": "XXL",
           "size": "2XL",
           "color": "JET",
-          "price": "180.00",
+          "price": "45.00",
           "available": false
         }
       },
-      "first_seen_utc": "2026-08-18T22:42:46+00:00"
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
+    },
+    "8281166512307": {
+      "id": "8281166512307",
+      "handle": "beach-slide",
+      "title": "BEACH SLIDE",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "coachella-skylrk",
+        "dec12drop",
+        "ecomm0827",
+        "FOOTWEAR",
+        "HB",
+        "nyc-pop-up",
+        "Shop",
+        "style-beachSlide"
+      ],
+      "url": "https://skylrk.com/products/beach-slide",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/Beach_Slides_035_Right_Green_1500_b11db918-023a-4625-9409-741439bc6e28.png",
+      "price": "80.00",
+      "currency": "USD",
+      "colors": [
+        "CAVE",
+        "FIZZ",
+        "FOREST",
+        "GUM"
+      ],
+      "overall_available": true,
+      "variants": {
+        "44786153980083": {
+          "id": "44786153980083",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153947315": {
+          "id": "44786153947315",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153914547": {
+          "id": "44786153914547",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153881779": {
+          "id": "44786153881779",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153849011": {
+          "id": "44786153849011",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153816243": {
+          "id": "44786153816243",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153783475": {
+          "id": "44786153783475",
+          "size_raw": "M 10 / W11",
+          "size": "M 10 / W11",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153750707": {
+          "id": "44786153750707",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153717939": {
+          "id": "44786153717939",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44783802712243": {
+          "id": "44783802712243",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44970502717619": {
+          "id": "44970502717619",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "FOREST",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637823667": {
+          "id": "44911637823667",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": false
+        },
+        "44911637790899": {
+          "id": "44911637790899",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637758131": {
+          "id": "44911637758131",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637725363": {
+          "id": "44911637725363",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": false
+        },
+        "44911637692595": {
+          "id": "44911637692595",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637659827": {
+          "id": "44911637659827",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637627059": {
+          "id": "44911637627059",
+          "size_raw": "M 10 / W11",
+          "size": "M 10 / W11",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637594291": {
+          "id": "44911637594291",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637561523": {
+          "id": "44911637561523",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44911637528755": {
+          "id": "44911637528755",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153685171": {
+          "id": "44786153685171",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153652403": {
+          "id": "44786153652403",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153619635": {
+          "id": "44786153619635",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "GUM",
+          "price": "80.00",
+          "available": false
+        },
+        "44786153586867": {
+          "id": "44786153586867",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "GUM",
+          "price": "80.00",
+          "available": false
+        },
+        "44786153554099": {
+          "id": "44786153554099",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "GUM",
+          "price": "80.00",
+          "available": false
+        },
+        "44786153521331": {
+          "id": "44786153521331",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153488563": {
+          "id": "44786153488563",
+          "size_raw": "M 10 / W11",
+          "size": "M 10 / W11",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153455795": {
+          "id": "44786153455795",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44786153423027": {
+          "id": "44786153423027",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44783802679475": {
+          "id": "44783802679475",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "44970502684851": {
+          "id": "44970502684851",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "GUM",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902735027": {
+          "id": "45078902735027",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": false
+        },
+        "45078902702259": {
+          "id": "45078902702259",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": false
+        },
+        "45078902669491": {
+          "id": "45078902669491",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": false
+        },
+        "45078902636723": {
+          "id": "45078902636723",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902603955": {
+          "id": "45078902603955",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902571187": {
+          "id": "45078902571187",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902538419": {
+          "id": "45078902538419",
+          "size_raw": "M 10 / W11",
+          "size": "M 10 / W11",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902505651": {
+          "id": "45078902505651",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902472883": {
+          "id": "45078902472883",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902440115": {
+          "id": "45078902440115",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45078902767795": {
+          "id": "45078902767795",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "CAVE",
+          "price": "80.00",
+          "available": true
+        },
+        "45485042991283": {
+          "id": "45485042991283",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "FIZZ",
+          "price": "80.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-08-28T00:29:54+00:00"
     },
     "8538096500915": {
       "id": "8538096500915",
@@ -228,125 +1177,6 @@
       },
       "first_seen_utc": "2026-08-17T08:42:45+00:00"
     },
-    "8538096271539": {
-      "id": "8538096271539",
-      "handle": "beach-slide-mint-chip",
-      "title": "BEACH SLIDE",
-      "product_type": "FOOTWEAR",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up",
-        "style-beachSlide"
-      ],
-      "url": "https://skylrk.com/products/beach-slide-mint-chip",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_070326_FLATS3643.png",
-      "price": "80.00",
-      "currency": "USD",
-      "colors": [
-        "MINT CHIP"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45623635607731": {
-          "id": "45623635607731",
-          "size_raw": "M 4 / W 5",
-          "size": "M 4 / W 5",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": false
-        },
-        "45623635640499": {
-          "id": "45623635640499",
-          "size_raw": "M 5 / W 6",
-          "size": "M 5 / W 6",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": false
-        },
-        "45623635673267": {
-          "id": "45623635673267",
-          "size_raw": "M 6 / W 7",
-          "size": "M 6 / W 7",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": false
-        },
-        "45623635706035": {
-          "id": "45623635706035",
-          "size_raw": "M 7 / W 8",
-          "size": "M 7 / W 8",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635738803": {
-          "id": "45623635738803",
-          "size_raw": "M 8 / W 9",
-          "size": "M 8 / W 9",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635771571": {
-          "id": "45623635771571",
-          "size_raw": "M 9 / W 10",
-          "size": "M 9 / W 10",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635804339": {
-          "id": "45623635804339",
-          "size_raw": "M 10 / W 11",
-          "size": "M 10 / W 11",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635837107": {
-          "id": "45623635837107",
-          "size_raw": "M 11 / W 12",
-          "size": "M 11 / W 12",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635869875": {
-          "id": "45623635869875",
-          "size_raw": "M 12 / W 13",
-          "size": "M 12 / W 13",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635902643": {
-          "id": "45623635902643",
-          "size_raw": "M 13 / W 14",
-          "size": "M 13 / W 14",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635935411": {
-          "id": "45623635935411",
-          "size_raw": "M 14 / W 15",
-          "size": "M 14 / W 15",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        },
-        "45623635968179": {
-          "id": "45623635968179",
-          "size_raw": "M 15 / W 16",
-          "size": "M 15 / W 16",
-          "color": "MINT CHIP",
-          "price": "80.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-08-17T08:42:45+00:00"
-    },
     "8538095059123": {
       "id": "8538095059123",
       "handle": "matterdaddies-toy",
@@ -465,640 +1295,6 @@
       },
       "first_seen_utc": "2026-08-17T08:42:45+00:00"
     },
-    "8416053854387": {
-      "id": "8416053854387",
-      "handle": "sunken-mule",
-      "title": "SUNKEN MULE",
-      "product_type": "FOOTWEAR",
-      "tags": [
-        "08.13 DROP",
-        "3.30drop",
-        "nyc-pop-up",
-        "skylrkchellaw2"
-      ],
-      "url": "https://skylrk.com/products/sunken-mule",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_32composite_CAVE.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "BEAR",
-        "CAVE"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45262864711859": {
-          "id": "45262864711859",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864679091": {
-          "id": "45262864679091",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864646323": {
-          "id": "45262864646323",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864613555": {
-          "id": "45262864613555",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864580787": {
-          "id": "45262864580787",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864548019": {
-          "id": "45262864548019",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864515251": {
-          "id": "45262864515251",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864482483": {
-          "id": "45262864482483",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864449715": {
-          "id": "45262864449715",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864416947": {
-          "id": "45262864416947",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262862909619": {
-          "id": "45262862909619",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864384179": {
-          "id": "45262864384179",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863990963": {
-          "id": "45262863990963",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863958195": {
-          "id": "45262863958195",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863925427": {
-          "id": "45262863925427",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863892659": {
-          "id": "45262863892659",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863859891": {
-          "id": "45262863859891",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863827123": {
-          "id": "45262863827123",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863794355": {
-          "id": "45262863794355",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863761587": {
-          "id": "45262863761587",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863728819": {
-          "id": "45262863728819",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863696051": {
-          "id": "45262863696051",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262862844083": {
-          "id": "45262862844083",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863663283": {
-          "id": "45262863663283",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-08-17T08:42:45+00:00"
-    },
-    "8516792484019": {
-      "id": "8516792484019",
-      "handle": "painter-pant-angel",
-      "title": "PAINTER PANT",
-      "product_type": "BOTTOMS",
-      "tags": [
-        "06.12.26 DROP",
-        "08.13 DROP",
-        "apparel",
-        "BOTTOMS",
-        "nyc-pop-up",
-        "Shop",
-        "style-painterPant"
-      ],
-      "url": "https://skylrk.com/products/painter-pant-angel",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB023-0002_FRONT.png",
-      "price": "250.00",
-      "currency": "USD",
-      "colors": [
-        "Angel"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45562376487091": {
-          "id": "45562376487091",
-          "size_raw": "28",
-          "size": "28",
-          "color": "Angel",
-          "price": "250.00",
-          "available": true
-        },
-        "45562377339059": {
-          "id": "45562377339059",
-          "size_raw": "30",
-          "size": "30",
-          "color": "Angel",
-          "price": "250.00",
-          "available": true
-        },
-        "45562377404595": {
-          "id": "45562377404595",
-          "size_raw": "32",
-          "size": "32",
-          "color": "Angel",
-          "price": "250.00",
-          "available": true
-        },
-        "45562377437363": {
-          "id": "45562377437363",
-          "size_raw": "34",
-          "size": "34",
-          "color": "Angel",
-          "price": "250.00",
-          "available": true
-        },
-        "45569412333747": {
-          "id": "45569412333747",
-          "size_raw": "36",
-          "size": "36",
-          "color": "Angel",
-          "price": "250.00",
-          "available": false
-        },
-        "45569412366515": {
-          "id": "45569412366515",
-          "size_raw": "38",
-          "size": "38",
-          "color": "Angel",
-          "price": "250.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-08-17T08:42:45+00:00"
-    },
-    "8538096861363": {
-      "id": "8538096861363",
-      "handle": "checker-short-jet",
-      "title": "CHECKER SHORT",
-      "product_type": "SHORTS",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up",
-        "style-checkerShort"
-      ],
-      "url": "https://skylrk.com/products/checker-short-jet",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-1007_FRONT.webp",
-      "price": "120.00",
-      "currency": "USD",
-      "colors": [
-        "JET"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45623637409971": {
-          "id": "45623637409971",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "JET",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637442739": {
-          "id": "45623637442739",
-          "size_raw": "S",
-          "size": "S",
-          "color": "JET",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637475507": {
-          "id": "45623637475507",
-          "size_raw": "M",
-          "size": "M",
-          "color": "JET",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637508275": {
-          "id": "45623637508275",
-          "size_raw": "L",
-          "size": "L",
-          "color": "JET",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637541043": {
-          "id": "45623637541043",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "JET",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637573811": {
-          "id": "45623637573811",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "JET",
-          "price": "120.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-08-12T21:57:29+00:00"
-    },
-    "8538096894131": {
-      "id": "8538096894131",
-      "handle": "checker-short-plum",
-      "title": "CHECKER SHORT",
-      "product_type": "SHORTS",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up",
-        "style-checkerShort"
-      ],
-      "url": "https://skylrk.com/products/checker-short-plum",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-9006_FRONT.webp",
-      "price": "120.00",
-      "currency": "USD",
-      "colors": [
-        "PLUM"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45623637606579": {
-          "id": "45623637606579",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "PLUM",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637639347": {
-          "id": "45623637639347",
-          "size_raw": "S",
-          "size": "S",
-          "color": "PLUM",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637672115": {
-          "id": "45623637672115",
-          "size_raw": "M",
-          "size": "M",
-          "color": "PLUM",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637704883": {
-          "id": "45623637704883",
-          "size_raw": "L",
-          "size": "L",
-          "color": "PLUM",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637737651": {
-          "id": "45623637737651",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "PLUM",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637770419": {
-          "id": "45623637770419",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "PLUM",
-          "price": "120.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-31T21:32:14+00:00"
-    },
-    "8538096828595": {
-      "id": "8538096828595",
-      "handle": "checker-short-mist",
-      "title": "CHECKER SHORT",
-      "product_type": "SHORTS",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up",
-        "style-checkerShort"
-      ],
-      "url": "https://skylrk.com/products/checker-short-mist",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-0017_FRONT_d9ed811b-7e29-45da-a22e-d31d4481ed4b.webp",
-      "price": "120.00",
-      "currency": "USD",
-      "colors": [
-        "MIST"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45623637213363": {
-          "id": "45623637213363",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "MIST",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637246131": {
-          "id": "45623637246131",
-          "size_raw": "S",
-          "size": "S",
-          "color": "MIST",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637278899": {
-          "id": "45623637278899",
-          "size_raw": "M",
-          "size": "M",
-          "color": "MIST",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637311667": {
-          "id": "45623637311667",
-          "size_raw": "L",
-          "size": "L",
-          "color": "MIST",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637344435": {
-          "id": "45623637344435",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "MIST",
-          "price": "120.00",
-          "available": true
-        },
-        "45623637377203": {
-          "id": "45623637377203",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "MIST",
-          "price": "120.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-22T02:20:15+00:00"
-    },
-    "8538096926899": {
-      "id": "8538096926899",
-      "handle": "checker-short-flame",
-      "title": "CHECKER SHORT",
-      "product_type": "SHORTS",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up",
-        "style-checkerShort"
-      ],
-      "url": "https://skylrk.com/products/checker-short-flame",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-6005_FRONT.webp",
-      "price": "120.00",
-      "currency": "USD",
-      "colors": [
-        "FLAME"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45623637803187": {
-          "id": "45623637803187",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "FLAME",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637835955": {
-          "id": "45623637835955",
-          "size_raw": "S",
-          "size": "S",
-          "color": "FLAME",
-          "price": "120.00",
-          "available": false
-        },
-        "45623637868723": {
-          "id": "45623637868723",
-          "size_raw": "M",
-          "size": "M",
-          "color": "FLAME",
-          "price": "120.00",
-          "available": true
-        },
-        "45623637901491": {
-          "id": "45623637901491",
-          "size_raw": "L",
-          "size": "L",
-          "color": "FLAME",
-          "price": "120.00",
-          "available": true
-        },
-        "45623637934259": {
-          "id": "45623637934259",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "FLAME",
-          "price": "120.00",
-          "available": true
-        },
-        "45623637967027": {
-          "id": "45623637967027",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "FLAME",
-          "price": "120.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-07-22T02:20:15+00:00"
-    },
-    "8538098630835": {
-      "id": "8538098630835",
-      "handle": "thin-loop-sock-2-pack-cheddar-berry",
-      "title": "THIN LOOP SOCK 2-PACK",
-      "product_type": "SOCKS",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/thin-loop-sock-2-pack-cheddar-berry",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/AdobeExpress-file.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "CHEDDAR/BERRY"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45623641243827": {
-          "id": "45623641243827",
-          "size_raw": null,
-          "size": null,
-          "color": "CHEDDAR/BERRY",
-          "price": "40.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-07-22T15:26:52+00:00"
-    },
-    "8538098794675": {
-      "id": "8538098794675",
-      "handle": "thin-loop-sock-2-pack-2",
-      "title": "THIN LOOP SOCK 2-PACK",
-      "product_type": "SOCKS",
-      "tags": [
-        "08.13 DROP",
-        "nyc",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/thin-loop-sock-2-pack-2",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/AdobeExpress-file_1.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "MINT/LAGOON"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45623641538739": {
-          "id": "45623641538739",
-          "size_raw": null,
-          "size": null,
-          "color": "MINT/LAGOON",
-          "price": "40.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-07-22T15:26:52+00:00"
-    },
     "8560945299635": {
       "id": "8560945299635",
       "handle": "glicky-heat",
@@ -1196,512 +1392,9 @@
         }
       },
       "first_seen_utc": "2026-07-22T15:26:52+00:00"
-    },
-    "8551803912371": {
-      "id": "8551803912371",
-      "handle": "wavy-short-sea",
-      "title": "WAVY SHORT",
-      "product_type": "BOTTOMS",
-      "tags": [
-        "08.13 DROP",
-        "nyc-pop-up",
-        "style-wavyShorts"
-      ],
-      "url": "https://skylrk.com/products/wavy-short-sea",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB064-3009_FRONT.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "SEA"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45671066501299": {
-          "id": "45671066501299",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066534067": {
-          "id": "45671066534067",
-          "size_raw": "S",
-          "size": "S",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066566835": {
-          "id": "45671066566835",
-          "size_raw": "M",
-          "size": "M",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066599603": {
-          "id": "45671066599603",
-          "size_raw": "L",
-          "size": "L",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066632371": {
-          "id": "45671066632371",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "SEA",
-          "price": "140.00",
-          "available": true
-        },
-        "45671066665139": {
-          "id": "45671066665139",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "SEA",
-          "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8551798440115": {
-      "id": "8551798440115",
-      "handle": "wavy-short-angel",
-      "title": "WAVY SHORT",
-      "product_type": "BOTTOMS",
-      "tags": [
-        "08.13 DROP",
-        "nyc-pop-up",
-        "style-wavyShorts"
-      ],
-      "url": "https://skylrk.com/products/wavy-short-angel",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB064-0002_FRONT.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "Angel"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45671040483507": {
-          "id": "45671040483507",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "Angel",
-          "price": "140.00",
-          "available": false
-        },
-        "45671049330867": {
-          "id": "45671049330867",
-          "size_raw": "S",
-          "size": "S",
-          "color": "Angel",
-          "price": "140.00",
-          "available": false
-        },
-        "45671049363635": {
-          "id": "45671049363635",
-          "size_raw": "M",
-          "size": "M",
-          "color": "Angel",
-          "price": "140.00",
-          "available": false
-        },
-        "45671049396403": {
-          "id": "45671049396403",
-          "size_raw": "L",
-          "size": "L",
-          "color": "Angel",
-          "price": "140.00",
-          "available": false
-        },
-        "45671049429171": {
-          "id": "45671049429171",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "Angel",
-          "price": "140.00",
-          "available": false
-        },
-        "45671049461939": {
-          "id": "45671049461939",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "Angel",
-          "price": "140.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8551745323187": {
-      "id": "8551745323187",
-      "handle": "boxy-t-shirt",
-      "title": "BOXY T-SHIRT -  2 PACK",
-      "product_type": "Tops",
-      "tags": [
-        "08.13 DROP",
-        "evergreen_0716",
-        "TEE"
-      ],
-      "url": "https://skylrk.com/products/boxy-t-shirt",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT043-4017_FRONT.png",
-      "price": "60.00",
-      "currency": "USD",
-      "colors": [
-        "NAVY/PINE"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45691792228531": {
-          "id": "45691792228531",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792261299": {
-          "id": "45691792261299",
-          "size_raw": "S",
-          "size": "S",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792294067": {
-          "id": "45691792294067",
-          "size_raw": "M",
-          "size": "M",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792326835": {
-          "id": "45691792326835",
-          "size_raw": "L",
-          "size": "L",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792359603": {
-          "id": "45691792359603",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792392371": {
-          "id": "45691792392371",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8551744503987": {
-      "id": "8551744503987",
-      "handle": "boxy-t-shirt-copy",
-      "title": "BOXY T-SHIRT - 3 PACK",
-      "product_type": "Tops",
-      "tags": [
-        "08.13 DROP",
-        "evergreen_0716",
-        "nyc-pop-up",
-        "TEE"
-      ],
-      "url": "https://skylrk.com/products/boxy-t-shirt-copy",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT158-P0022_FRONT.png",
-      "price": "90.00",
-      "currency": "USD",
-      "colors": [
-        "PAPER"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45670960038067": {
-          "id": "45670960038067",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "PAPER",
-          "price": "90.00",
-          "available": false
-        },
-        "45670960070835": {
-          "id": "45670960070835",
-          "size_raw": "S",
-          "size": "S",
-          "color": "PAPER",
-          "price": "90.00",
-          "available": true
-        },
-        "45670960103603": {
-          "id": "45670960103603",
-          "size_raw": "M",
-          "size": "M",
-          "color": "PAPER",
-          "price": "90.00",
-          "available": false
-        },
-        "45670960136371": {
-          "id": "45670960136371",
-          "size_raw": "L",
-          "size": "L",
-          "color": "PAPER",
-          "price": "90.00",
-          "available": false
-        },
-        "45670960169139": {
-          "id": "45670960169139",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "PAPER",
-          "price": "90.00",
-          "available": false
-        },
-        "45670960201907": {
-          "id": "45670960201907",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "PAPER",
-          "price": "90.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8373910503603": {
-      "id": "8373910503603",
-      "handle": "boxer-brief-3-pack",
-      "title": "BOXER BRIEF 3-PACK",
-      "product_type": "UNDERWEAR",
-      "tags": [
-        "08.13 DROP",
-        "ACCESSORIES",
-        "apparel",
-        "evergreen_0716",
-        "jan16",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/boxer-brief-3-pack",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/uuid_32B57112-FC28-4017-A3E5-FCA9CEE9ECA7_code_001_library_3_type_1_mode_1_loc_true_cap_true.png",
-      "price": "45.00",
-      "currency": "USD",
-      "colors": [
-        "RAIN/BLOOH/PUNCH"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45652408926387": {
-          "id": "45652408926387",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "RAIN/BLOOH/PUNCH",
-          "price": "45.00",
-          "available": false
-        },
-        "45652408959155": {
-          "id": "45652408959155",
-          "size_raw": "S",
-          "size": "S",
-          "color": "RAIN/BLOOH/PUNCH",
-          "price": "45.00",
-          "available": false
-        },
-        "45652408991923": {
-          "id": "45652408991923",
-          "size_raw": "M",
-          "size": "M",
-          "color": "RAIN/BLOOH/PUNCH",
-          "price": "45.00",
-          "available": false
-        },
-        "45652409024691": {
-          "id": "45652409024691",
-          "size_raw": "L",
-          "size": "L",
-          "color": "RAIN/BLOOH/PUNCH",
-          "price": "45.00",
-          "available": false
-        },
-        "45652409057459": {
-          "id": "45652409057459",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "RAIN/BLOOH/PUNCH",
-          "price": "45.00",
-          "available": false
-        },
-        "45652409090227": {
-          "id": "45652409090227",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "RAIN/BLOOH/PUNCH",
-          "price": "45.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8516792975539": {
-      "id": "8516792975539",
-      "handle": "painter-pant-copper",
-      "title": "PAINTER PANT",
-      "product_type": "BOTTOMS",
-      "tags": [
-        "06.12.26 DROP",
-        "08.13 DROP",
-        "apparel",
-        "BOTTOMS",
-        "nyc-pop-up",
-        "Shop",
-        "style-painterPant"
-      ],
-      "url": "https://skylrk.com/products/painter-pant-copper",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB023-6002_FRONT.png",
-      "price": "250.00",
-      "currency": "USD",
-      "colors": [
-        "COPPER"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45562379468979": {
-          "id": "45562379468979",
-          "size_raw": "28",
-          "size": "28",
-          "color": "COPPER",
-          "price": "250.00",
-          "available": true
-        },
-        "45562379862195": {
-          "id": "45562379862195",
-          "size_raw": "30",
-          "size": "30",
-          "color": "COPPER",
-          "price": "250.00",
-          "available": false
-        },
-        "45562379927731": {
-          "id": "45562379927731",
-          "size_raw": "32",
-          "size": "32",
-          "color": "COPPER",
-          "price": "250.00",
-          "available": true
-        },
-        "45562379960499": {
-          "id": "45562379960499",
-          "size_raw": "34",
-          "size": "34",
-          "color": "COPPER",
-          "price": "250.00",
-          "available": true
-        },
-        "45569410433203": {
-          "id": "45569410433203",
-          "size_raw": "36",
-          "size": "36",
-          "color": "COPPER",
-          "price": "250.00",
-          "available": false
-        },
-        "45569410465971": {
-          "id": "45569410465971",
-          "size_raw": "38",
-          "size": "38",
-          "color": "COPPER",
-          "price": "250.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
-    },
-    "8516793172147": {
-      "id": "8516793172147",
-      "handle": "painter-pant-smoke",
-      "title": "PAINTER PANT",
-      "product_type": "BOTTOMS",
-      "tags": [
-        "06.12.26 DROP",
-        "08.13 DROP",
-        "apparel",
-        "BOTTOMS",
-        "nyc-pop-up",
-        "Shop",
-        "style-painterPant"
-      ],
-      "url": "https://skylrk.com/products/painter-pant-smoke",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB023-1014_FRONT.png",
-      "price": "250.00",
-      "currency": "USD",
-      "colors": [
-        "SMOKE"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45569403584691": {
-          "id": "45569403584691",
-          "size_raw": "28",
-          "size": "28",
-          "color": "SMOKE",
-          "price": "250.00",
-          "available": true
-        },
-        "45569403650227": {
-          "id": "45569403650227",
-          "size_raw": "30",
-          "size": "30",
-          "color": "SMOKE",
-          "price": "250.00",
-          "available": true
-        },
-        "45569403715763": {
-          "id": "45569403715763",
-          "size_raw": "32",
-          "size": "32",
-          "color": "SMOKE",
-          "price": "250.00",
-          "available": true
-        },
-        "45569403748531": {
-          "id": "45569403748531",
-          "size_raw": "34",
-          "size": "34",
-          "color": "SMOKE",
-          "price": "250.00",
-          "available": true
-        },
-        "45569403781299": {
-          "id": "45569403781299",
-          "size_raw": "36",
-          "size": "36",
-          "color": "SMOKE",
-          "price": "250.00",
-          "available": false
-        },
-        "45569403814067": {
-          "id": "45569403814067",
-          "size_raw": "38",
-          "size": "38",
-          "color": "SMOKE",
-          "price": "250.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-07-21T14:20:24+00:00"
     }
   },
   "ledger": {
-    "update:8239863333043:834349c5bf47": "2026-07-28T18:01:04+00:00",
     "new:8538096894131": "2026-07-31T21:32:14+00:00",
     "update:8538096926899:834349c5bf47": "2026-08-01T15:13:12+00:00",
     "update:8551728382131:415757efd8c3": "2026-08-03T20:16:37+00:00",
@@ -1751,7 +1444,7 @@
     "update:8538096861363:834349c5bf47": "2026-08-17T17:03:34+00:00",
     "new:8538095780019": "2026-08-17T19:43:21+00:00",
     "new:8416054608051": "2026-08-17T19:43:21+00:00",
-    "new:8517390237875": "2026-08-26T20:09:43+00:00",
+    "new:8517390237875": "2026-08-28T00:29:54+00:00",
     "update:8416054608051:834349c5bf47": "2026-08-18T04:46:12+00:00",
     "update:8551798440115:834349c5bf47": "2026-08-18T19:08:55+00:00",
     "new:8551784841395": "2026-08-18T22:42:46+00:00",
@@ -1769,11 +1462,12 @@
     "update:8538096894131:415757efd8c3": "2026-08-21T19:43:06+00:00",
     "update:8538096894131:834349c5bf47": "2026-08-21T20:43:50+00:00",
     "update:8373910503603:834349c5bf47": "2026-08-26T11:21:58+00:00",
-    "new:8557052231859": "2026-08-26T20:09:43+00:00",
-    "new:8557051150515": "2026-08-26T20:09:43+00:00",
-    "new:8406763405491": "2026-08-26T20:09:43+00:00",
-    "new:8538096304307": "2026-08-26T20:09:43+00:00",
-    "new:8373858107571": "2026-08-26T20:09:43+00:00",
-    "new:8281166512307": "2026-08-26T20:09:43+00:00"
+    "new:8557052231859": "2026-08-28T00:29:54+00:00",
+    "new:8557051150515": "2026-08-28T00:29:54+00:00",
+    "new:8406763405491": "2026-08-28T00:29:54+00:00",
+    "new:8538096304307": "2026-08-28T00:29:54+00:00",
+    "new:8373858107571": "2026-08-28T00:29:54+00:00",
+    "new:8281166512307": "2026-08-28T00:29:54+00:00",
+    "new:8604919890099": "2026-08-28T00:29:54+00:00"
   }
 }
