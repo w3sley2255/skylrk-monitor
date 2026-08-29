@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-28T21:30:52+00:00",
-    "hkt": "2026-08-29T05:30:52+08:00",
+    "utc": "2026-08-29T03:17:05+00:00",
+    "hkt": "2026-08-29T11:17:05+08:00",
     "status": "ok",
     "products_tracked": 16
   },
@@ -129,7 +129,7 @@
           "size": null,
           "color": "CASHEW",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45129365323955": {
           "id": "45129365323955",
@@ -137,7 +137,7 @@
           "size": null,
           "color": "CASHEW",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45129365356723": {
           "id": "45129365356723",
@@ -964,7 +964,7 @@
           "size": "M 8 / W 9",
           "color": "CAVE",
           "price": "80.00",
-          "available": true
+          "available": false
         },
         "45078902571187": {
           "id": "45078902571187",
