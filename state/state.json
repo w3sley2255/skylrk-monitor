@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-08-31T05:25:06+00:00",
-    "hkt": "2026-08-31T13:25:06+08:00",
+    "utc": "2026-08-31T11:42:12+00:00",
+    "hkt": "2026-08-31T19:42:12+08:00",
     "status": "ok",
     "products_tracked": 16
   },
@@ -358,7 +358,7 @@
           "size": "2XL",
           "color": "CHERRY",
           "price": "160.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-08-28T00:29:54+00:00"
