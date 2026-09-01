@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-01T01:24:35+00:00",
-    "hkt": "2026-09-01T09:24:35+08:00",
+    "utc": "2026-09-01T06:20:49+00:00",
+    "hkt": "2026-09-01T14:20:49+08:00",
     "status": "ok",
     "products_tracked": 19
   },
@@ -373,7 +373,7 @@
           "size": null,
           "color": "CASHEW",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365323955": {
           "id": "45129365323955",
@@ -381,7 +381,7 @@
           "size": null,
           "color": "CASHEW",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365356723": {
           "id": "45129365356723",
@@ -389,7 +389,7 @@
           "size": null,
           "color": "CASHEW",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365389491": {
           "id": "45129365389491",
@@ -461,7 +461,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365651635": {
           "id": "45129365651635",
@@ -469,7 +469,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365684403": {
           "id": "45129365684403",
@@ -477,7 +477,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365717171": {
           "id": "45129365717171",
@@ -485,7 +485,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365749939": {
           "id": "45129365749939",
@@ -493,7 +493,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365782707": {
           "id": "45129365782707",
@@ -501,7 +501,7 @@
           "size": null,
           "color": "JET",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "45129365815475": {
           "id": "45129365815475",
@@ -1224,7 +1224,7 @@
           "size": "M 10 / W11",
           "color": "CAVE",
           "price": "80.00",
-          "available": true
+          "available": false
         },
         "45078902505651": {
           "id": "45078902505651",
