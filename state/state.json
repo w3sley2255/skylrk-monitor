@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-02T17:44:36+00:00",
-    "hkt": "2026-09-03T01:44:36+08:00",
+    "utc": "2026-09-02T20:07:10+00:00",
+    "hkt": "2026-09-03T04:07:10+08:00",
     "status": "ok",
-    "products_tracked": 18
+    "products_tracked": 17
   },
   "products": {
     "8373962440883": {
@@ -1277,124 +1277,6 @@
           "color": "CLEAR",
           "price": "25.00",
           "available": true
-        }
-      },
-      "first_seen_utc": "2026-08-17T08:42:45+00:00"
-    },
-    "8538095059123": {
-      "id": "8538095059123",
-      "handle": "matterdaddies-toy",
-      "title": "MATTERDADDIES",
-      "product_type": "FOOTWEAR",
-      "tags": [
-        "08.13 DROP",
-        "nyc-pop-up",
-        "style-matterdaddies"
-      ],
-      "url": "https://skylrk.com/products/matterdaddies-toy",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/MATTERDADDIES_TOY_BACK-Large-2.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "TOY"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45623629807795": {
-          "id": "45623629807795",
-          "size_raw": "M 4 / W 5",
-          "size": "M 4 / W 5",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623629840563": {
-          "id": "45623629840563",
-          "size_raw": "M 5 / W 6",
-          "size": "M 5 / W 6",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623629873331": {
-          "id": "45623629873331",
-          "size_raw": "M 6 / W 7",
-          "size": "M 6 / W 7",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623629906099": {
-          "id": "45623629906099",
-          "size_raw": "M 7 / W 8",
-          "size": "M 7 / W 8",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623629938867": {
-          "id": "45623629938867",
-          "size_raw": "M 8 / W 9",
-          "size": "M 8 / W 9",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623629971635": {
-          "id": "45623629971635",
-          "size_raw": "M 9 / W 10",
-          "size": "M 9 / W 10",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623630004403": {
-          "id": "45623630004403",
-          "size_raw": "M 10 / W 11",
-          "size": "M 10 / W 11",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623630037171": {
-          "id": "45623630037171",
-          "size_raw": "M 11 / W 12",
-          "size": "M 11 / W 12",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623630069939": {
-          "id": "45623630069939",
-          "size_raw": "M 12 / W 13",
-          "size": "M 12 / W 13",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623630102707": {
-          "id": "45623630102707",
-          "size_raw": "M 13 / W 14",
-          "size": "M 13 / W 14",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623630135475": {
-          "id": "45623630135475",
-          "size_raw": "M 14 / W 15",
-          "size": "M 14 / W 15",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
-        },
-        "45623630168243": {
-          "id": "45623630168243",
-          "size_raw": "M 15 / W 16",
-          "size": "M 15 / W 16",
-          "color": "TOY",
-          "price": "140.00",
-          "available": false
         }
       },
       "first_seen_utc": "2026-08-17T08:42:45+00:00"
