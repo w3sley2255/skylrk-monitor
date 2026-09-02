@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-02T09:56:38+00:00",
-    "hkt": "2026-09-02T17:56:38+08:00",
+    "utc": "2026-09-02T14:00:17+00:00",
+    "hkt": "2026-09-02T22:00:17+08:00",
     "status": "ok",
     "products_tracked": 18
   },
@@ -430,7 +430,7 @@
           "size": "S",
           "color": "CHERRY",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "45689970065587": {
           "id": "45689970065587",
