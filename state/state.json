@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-09T19:51:34+00:00",
-    "hkt": "2026-09-10T03:51:34+08:00",
+    "utc": "2026-09-09T22:00:45+00:00",
+    "hkt": "2026-09-10T06:00:45+08:00",
     "status": "ok",
     "products_tracked": 18
   },
@@ -799,6 +799,7 @@
       "title": "BEACH SLIDE",
       "product_type": "FOOTWEAR",
       "tags": [
+        "09.10.26 DROP",
         "coachella-skylrk",
         "dec12drop",
         "ecomm0827",
@@ -1182,6 +1183,7 @@
       "product_type": "CASES",
       "tags": [
         "08.13 DROP",
+        "09.10.26 DROP",
         "nyc-pop-up",
         "style-bumpCase"
       ],
@@ -1220,6 +1222,7 @@
       "product_type": "CASES",
       "tags": [
         "08.13 DROP",
+        "09.10.26 DROP",
         "nyc-pop-up",
         "style-bumpCase"
       ],
@@ -1258,6 +1261,7 @@
       "product_type": "CASES",
       "tags": [
         "08.13 DROP",
+        "09.10.26 DROP",
         "nyc-pop-up",
         "style-bumpCase"
       ],
@@ -1296,6 +1300,7 @@
       "product_type": "CASES",
       "tags": [
         "08.13 DROP",
+        "09.10.26 DROP",
         "nyc-pop-up",
         "style-bumpCase"
       ],
@@ -1333,6 +1338,7 @@
       "title": "GLICKY - HEAT",
       "product_type": "EYEWEAR",
       "tags": [
+        "09.10.26 DROP",
         "ACCESSORIES",
         "dec12drop",
         "ecomm0827",
@@ -1366,6 +1372,7 @@
       "title": "GLICKY - GLOSS",
       "product_type": "EYEWEAR",
       "tags": [
+        "09.10.26 DROP",
         "ACCESSORIES",
         "ecomm0827",
         "nyc-pop-up",
@@ -1398,6 +1405,7 @@
       "title": "GLICKY - CHROME",
       "product_type": "EYEWEAR",
       "tags": [
+        "09.10.26 DROP",
         "ACCESSORIES",
         "dec12drop",
         "ecomm0827",
