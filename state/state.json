@@ -1,12 +1,300 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-10T16:31:31+00:00",
-    "hkt": "2026-09-11T00:31:31+08:00",
+    "utc": "2026-09-10T19:12:53+00:00",
+    "hkt": "2026-09-11T03:12:53+08:00",
     "status": "ok",
-    "products_tracked": 13
+    "products_tracked": 17
   },
   "products": {
+    "8538096926899": {
+      "id": "8538096926899",
+      "handle": "checker-short-flame",
+      "title": "CHECKER SHORT",
+      "product_type": "SHORTS",
+      "tags": [
+        "08.13 DROP",
+        "09.10.26 DROP",
+        "nyc",
+        "nyc-pop-up",
+        "style-checkerShort"
+      ],
+      "url": "https://skylrk.com/products/checker-short-flame",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-6005_FRONT.webp",
+      "price": "120.00",
+      "currency": "USD",
+      "colors": [
+        "FLAME"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623637803187": {
+          "id": "45623637803187",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637835955": {
+          "id": "45623637835955",
+          "size_raw": "S",
+          "size": "S",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637868723": {
+          "id": "45623637868723",
+          "size_raw": "M",
+          "size": "M",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637901491": {
+          "id": "45623637901491",
+          "size_raw": "L",
+          "size": "L",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637934259": {
+          "id": "45623637934259",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637967027": {
+          "id": "45623637967027",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "FLAME",
+          "price": "120.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-10T19:12:53+00:00"
+    },
+    "8538096894131": {
+      "id": "8538096894131",
+      "handle": "checker-short-plum",
+      "title": "CHECKER SHORT",
+      "product_type": "SHORTS",
+      "tags": [
+        "08.13 DROP",
+        "09.10.26 DROP",
+        "nyc",
+        "nyc-pop-up",
+        "style-checkerShort"
+      ],
+      "url": "https://skylrk.com/products/checker-short-plum",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-9006_FRONT.webp",
+      "price": "120.00",
+      "currency": "USD",
+      "colors": [
+        "PLUM"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623637606579": {
+          "id": "45623637606579",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "PLUM",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637639347": {
+          "id": "45623637639347",
+          "size_raw": "S",
+          "size": "S",
+          "color": "PLUM",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637672115": {
+          "id": "45623637672115",
+          "size_raw": "M",
+          "size": "M",
+          "color": "PLUM",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637704883": {
+          "id": "45623637704883",
+          "size_raw": "L",
+          "size": "L",
+          "color": "PLUM",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637737651": {
+          "id": "45623637737651",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "PLUM",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637770419": {
+          "id": "45623637770419",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "PLUM",
+          "price": "120.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-10T19:12:53+00:00"
+    },
+    "8538096861363": {
+      "id": "8538096861363",
+      "handle": "checker-short-jet",
+      "title": "CHECKER SHORT",
+      "product_type": "SHORTS",
+      "tags": [
+        "08.13 DROP",
+        "09.10.26 DROP",
+        "nyc",
+        "nyc-pop-up",
+        "style-checkerShort"
+      ],
+      "url": "https://skylrk.com/products/checker-short-jet",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-1007_FRONT.webp",
+      "price": "120.00",
+      "currency": "USD",
+      "colors": [
+        "JET"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623637409971": {
+          "id": "45623637409971",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "JET",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637442739": {
+          "id": "45623637442739",
+          "size_raw": "S",
+          "size": "S",
+          "color": "JET",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637475507": {
+          "id": "45623637475507",
+          "size_raw": "M",
+          "size": "M",
+          "color": "JET",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637508275": {
+          "id": "45623637508275",
+          "size_raw": "L",
+          "size": "L",
+          "color": "JET",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637541043": {
+          "id": "45623637541043",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "JET",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637573811": {
+          "id": "45623637573811",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "JET",
+          "price": "120.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-10T19:12:53+00:00"
+    },
+    "8538096828595": {
+      "id": "8538096828595",
+      "handle": "checker-short-mist",
+      "title": "CHECKER SHORT",
+      "product_type": "SHORTS",
+      "tags": [
+        "08.13 DROP",
+        "09.10.26 DROP",
+        "nyc",
+        "nyc-pop-up",
+        "style-checkerShort"
+      ],
+      "url": "https://skylrk.com/products/checker-short-mist",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB066-0017_FRONT_d9ed811b-7e29-45da-a22e-d31d4481ed4b.webp",
+      "price": "120.00",
+      "currency": "USD",
+      "colors": [
+        "MIST"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623637213363": {
+          "id": "45623637213363",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637246131": {
+          "id": "45623637246131",
+          "size_raw": "S",
+          "size": "S",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637278899": {
+          "id": "45623637278899",
+          "size_raw": "M",
+          "size": "M",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637311667": {
+          "id": "45623637311667",
+          "size_raw": "L",
+          "size": "L",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637344435": {
+          "id": "45623637344435",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        },
+        "45623637377203": {
+          "id": "45623637377203",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "MIST",
+          "price": "120.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-10T19:12:53+00:00"
+    },
     "8406763405491": {
       "id": "8406763405491",
       "handle": "reverse-zip-hoodie",
@@ -1149,7 +1437,7 @@
     "new:8551783661747": "2026-08-18T22:42:46+00:00",
     "update:8538096894131:7b636341cffa": "2026-08-11T21:11:28+00:00",
     "restock:8416055165107:RAW:S": "2026-08-12T14:47:08+00:00",
-    "new:8538096861363": "2026-08-12T21:57:29+00:00",
+    "new:8538096861363": "2026-09-10T19:12:53+00:00",
     "update:8551803912371:415757efd8c3": "2026-08-13T02:41:10+00:00",
     "restock:8551798440115:Angel:S": "2026-08-13T02:41:10+00:00",
     "restock:8517390237875:THISTLE:S+XS": "2026-08-17T08:42:45+00:00",
@@ -1205,6 +1493,9 @@
     "new:8373962440883": "2026-09-01T23:25:21+00:00",
     "new:8538099417267": "2026-09-01T23:25:21+00:00",
     "new:8239863333043": "2026-09-04T17:50:39+00:00",
-    "update:8557051150515:834349c5bf47": "2026-09-08T22:37:40+00:00"
+    "update:8557051150515:834349c5bf47": "2026-09-08T22:37:40+00:00",
+    "new:8538096926899": "2026-09-10T19:12:53+00:00",
+    "new:8538096894131": "2026-09-10T19:12:53+00:00",
+    "new:8538096828595": "2026-09-10T19:12:53+00:00"
   }
 }
