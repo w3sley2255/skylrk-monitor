@@ -1,22 +1,95 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-17T18:39:33+00:00",
-    "hkt": "2026-09-18T02:39:33+08:00",
+    "utc": "2026-09-17T21:44:06+00:00",
+    "hkt": "2026-09-18T05:44:06+08:00",
     "status": "ok",
     "products_tracked": 15
   },
   "products": {
+    "8406763405491": {
+      "id": "8406763405491",
+      "handle": "reverse-zip-hoodie",
+      "title": "REVERSE ZIP HOODIE",
+      "product_type": "HOODIES",
+      "tags": [
+        "06.12.26 DROP",
+        "09.17 DROP_evergreen",
+        "260501",
+        "ecomm0827",
+        "evergreen_0716",
+        "style-reverseZipHoodie"
+      ],
+      "url": "https://skylrk.com/products/reverse-zip-hoodie",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT026-8018_FRONT_1_a75d92ef-8907-487b-aa44-fa9bd67b7d12.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "PUNCH"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45562361741491": {
+          "id": "45562361741491",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "PUNCH",
+          "price": "160.00",
+          "available": true
+        },
+        "45562361774259": {
+          "id": "45562361774259",
+          "size_raw": "S",
+          "size": "S",
+          "color": "PUNCH",
+          "price": "160.00",
+          "available": false
+        },
+        "45562361807027": {
+          "id": "45562361807027",
+          "size_raw": "M",
+          "size": "M",
+          "color": "PUNCH",
+          "price": "160.00",
+          "available": true
+        },
+        "45562361839795": {
+          "id": "45562361839795",
+          "size_raw": "L",
+          "size": "L",
+          "color": "PUNCH",
+          "price": "160.00",
+          "available": false
+        },
+        "45562361872563": {
+          "id": "45562361872563",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "PUNCH",
+          "price": "160.00",
+          "available": true
+        },
+        "45562361905331": {
+          "id": "45562361905331",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "PUNCH",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-17T21:44:06+00:00"
+    },
     "8557053608115": {
       "id": "8557053608115",
-      "handle": "denim-short-2",
+      "handle": "denim-short-crinkle-wash",
       "title": "DENIM SHORT",
       "product_type": "BOTTOMS",
       "tags": [
         "09.17 DROP_evergreen",
         "style-denimShort"
       ],
-      "url": "https://skylrk.com/products/denim-short-2",
+      "url": "https://skylrk.com/products/denim-short-crinkle-wash",
       "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB021-3020_FRONT.png",
       "price": "180.00",
       "currency": "USD",
@@ -101,7 +174,7 @@
           "size": "XS",
           "color": "JET",
           "price": "180.00",
-          "available": false
+          "available": true
         },
         "45689973113011": {
           "id": "45689973113011",
@@ -109,7 +182,7 @@
           "size": "S",
           "color": "JET",
           "price": "180.00",
-          "available": false
+          "available": true
         },
         "45689973145779": {
           "id": "45689973145779",
@@ -141,7 +214,7 @@
           "size": "2XL",
           "color": "JET",
           "price": "180.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-09-17T14:54:21+00:00"
@@ -284,7 +357,7 @@
           "size": "2XL",
           "color": "FLAME",
           "price": "120.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-09-10T19:12:53+00:00"
@@ -504,77 +577,6 @@
         }
       },
       "first_seen_utc": "2026-09-10T19:12:53+00:00"
-    },
-    "8604919890099": {
-      "id": "8604919890099",
-      "handle": "boxer-brief-3-pack-2",
-      "title": "BOXER BRIEF 3-PACK",
-      "product_type": "UNDERWEAR",
-      "tags": [
-        "09.17 DROP_evergreen",
-        "ACCESSORIES",
-        "apparel",
-        "ecomm0827"
-      ],
-      "url": "https://skylrk.com/products/boxer-brief-3-pack-2",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/Untitleddesign-2026-08-26T150128.731.png",
-      "price": "45.00",
-      "currency": "USD",
-      "colors": [
-        "JET"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45827282206899": {
-          "id": "45827282206899",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "JET",
-          "price": "45.00",
-          "available": true
-        },
-        "45827289907379": {
-          "id": "45827289907379",
-          "size_raw": "S",
-          "size": "S",
-          "color": "JET",
-          "price": "45.00",
-          "available": true
-        },
-        "45827289940147": {
-          "id": "45827289940147",
-          "size_raw": "M",
-          "size": "M",
-          "color": "JET",
-          "price": "45.00",
-          "available": true
-        },
-        "45827289972915": {
-          "id": "45827289972915",
-          "size_raw": "L",
-          "size": "L",
-          "color": "JET",
-          "price": "45.00",
-          "available": true
-        },
-        "45827290005683": {
-          "id": "45827290005683",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "JET",
-          "price": "45.00",
-          "available": false
-        },
-        "45827290038451": {
-          "id": "45827290038451",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "JET",
-          "price": "45.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-08-28T00:29:54+00:00"
     },
     "8538096500915": {
       "id": "8538096500915",
@@ -839,7 +841,6 @@
     "new:8551783661747": "2026-08-18T22:42:46+00:00",
     "new:8538096861363": "2026-09-10T19:12:53+00:00",
     "new:8517390237875": "2026-08-28T00:29:54+00:00",
-    "update:8551798440115:834349c5bf47": "2026-08-18T19:08:55+00:00",
     "new:8551784841395": "2026-08-18T22:42:46+00:00",
     "new:8551817838771": "2026-08-18T22:42:46+00:00",
     "new:8551817806003": "2026-08-18T22:42:46+00:00",
@@ -857,7 +858,7 @@
     "update:8373910503603:834349c5bf47": "2026-08-26T11:21:58+00:00",
     "new:8557052231859": "2026-08-28T00:29:54+00:00",
     "new:8557051150515": "2026-08-28T00:29:54+00:00",
-    "new:8406763405491": "2026-08-28T00:29:54+00:00",
+    "new:8406763405491": "2026-09-17T21:44:06+00:00",
     "new:8538096304307": "2026-08-28T00:29:54+00:00",
     "new:8373858107571": "2026-08-28T00:29:54+00:00",
     "new:8281166512307": "2026-08-28T00:29:54+00:00",
@@ -880,6 +881,7 @@
     "restock:8538096894131:PLUM:S": "2026-09-17T18:39:33+00:00",
     "update:8538096861363:415757efd8c3": "2026-09-17T18:39:33+00:00",
     "restock:8538096828595:MIST:S": "2026-09-17T18:39:33+00:00",
-    "restock:8604919890099:JET:S+XS": "2026-09-17T18:39:33+00:00"
+    "restock:8604919890099:JET:S+XS": "2026-09-17T18:39:33+00:00",
+    "restock:8557052559539:JET:S+XS": "2026-09-17T21:44:06+00:00"
   }
 }
