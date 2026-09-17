@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-17T05:20:10+00:00",
-    "hkt": "2026-09-17T13:20:10+08:00",
+    "utc": "2026-09-17T10:05:55+00:00",
+    "hkt": "2026-09-17T18:05:55+08:00",
     "status": "ok",
     "products_tracked": 12
   },
@@ -114,7 +114,7 @@
           "size": "S",
           "color": "PLUM",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "45623637672115": {
           "id": "45623637672115",
@@ -122,7 +122,7 @@
           "size": "M",
           "color": "PLUM",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "45623637704883": {
           "id": "45623637704883",
@@ -202,7 +202,7 @@
           "size": "L",
           "color": "JET",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "45623637541043": {
           "id": "45623637541043",
@@ -258,7 +258,7 @@
           "size": "S",
           "color": "MIST",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "45623637278899": {
           "id": "45623637278899",
@@ -320,7 +320,7 @@
           "size": "XS",
           "color": "JET",
           "price": "45.00",
-          "available": true
+          "available": false
         },
         "45827289907379": {
           "id": "45827289907379",
