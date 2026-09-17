@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-17T14:54:21+00:00",
-    "hkt": "2026-09-17T22:54:21+08:00",
+    "utc": "2026-09-17T18:39:33+00:00",
+    "hkt": "2026-09-18T02:39:33+08:00",
     "status": "ok",
     "products_tracked": 15
   },
@@ -13,6 +13,7 @@
       "title": "DENIM SHORT",
       "product_type": "BOTTOMS",
       "tags": [
+        "09.17 DROP_evergreen",
         "style-denimShort"
       ],
       "url": "https://skylrk.com/products/denim-short-2",
@@ -81,6 +82,7 @@
       "title": "DENIM SHORT",
       "product_type": "BOTTOMS",
       "tags": [
+        "09.17 DROP_evergreen",
         "evergreen_0716",
         "style-denimShort"
       ],
@@ -151,6 +153,7 @@
       "product_type": "Tops",
       "tags": [
         "08.13 DROP",
+        "09.17 DROP_evergreen",
         "evergreen_0716",
         "TEE"
       ],
@@ -241,7 +244,7 @@
           "size": "XS",
           "color": "FLAME",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637835955": {
           "id": "45623637835955",
@@ -305,7 +308,7 @@
       "colors": [
         "PLUM"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45623637606579": {
           "id": "45623637606579",
@@ -321,7 +324,7 @@
           "size": "S",
           "color": "PLUM",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637672115": {
           "id": "45623637672115",
@@ -329,7 +332,7 @@
           "size": "M",
           "color": "PLUM",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637704883": {
           "id": "45623637704883",
@@ -337,7 +340,7 @@
           "size": "L",
           "color": "PLUM",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637737651": {
           "id": "45623637737651",
@@ -377,7 +380,7 @@
       "colors": [
         "JET"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45623637409971": {
           "id": "45623637409971",
@@ -409,7 +412,7 @@
           "size": "L",
           "color": "JET",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637541043": {
           "id": "45623637541043",
@@ -417,7 +420,7 @@
           "size": "XL",
           "color": "JET",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637573811": {
           "id": "45623637573811",
@@ -465,7 +468,7 @@
           "size": "S",
           "color": "MIST",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637278899": {
           "id": "45623637278899",
@@ -473,7 +476,7 @@
           "size": "M",
           "color": "MIST",
           "price": "120.00",
-          "available": false
+          "available": true
         },
         "45623637311667": {
           "id": "45623637311667",
@@ -508,6 +511,7 @@
       "title": "BOXER BRIEF 3-PACK",
       "product_type": "UNDERWEAR",
       "tags": [
+        "09.17 DROP_evergreen",
         "ACCESSORIES",
         "apparel",
         "ecomm0827"
@@ -519,7 +523,7 @@
       "colors": [
         "JET"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "45827282206899": {
           "id": "45827282206899",
@@ -527,7 +531,7 @@
           "size": "XS",
           "color": "JET",
           "price": "45.00",
-          "available": false
+          "available": true
         },
         "45827289907379": {
           "id": "45827289907379",
@@ -535,7 +539,7 @@
           "size": "S",
           "color": "JET",
           "price": "45.00",
-          "available": false
+          "available": true
         },
         "45827289940147": {
           "id": "45827289940147",
@@ -543,7 +547,7 @@
           "size": "M",
           "color": "JET",
           "price": "45.00",
-          "available": false
+          "available": true
         },
         "45827289972915": {
           "id": "45827289972915",
@@ -551,7 +555,7 @@
           "size": "L",
           "color": "JET",
           "price": "45.00",
-          "available": false
+          "available": true
         },
         "45827290005683": {
           "id": "45827290005683",
@@ -871,6 +875,11 @@
     "new:8557053608115": "2026-09-17T14:54:21+00:00",
     "new:8551745323187": "2026-09-17T14:54:21+00:00",
     "update:8538096861363:834349c5bf47": "2026-09-17T14:54:21+00:00",
-    "update:8604919890099:834349c5bf47": "2026-09-17T14:54:21+00:00"
+    "update:8604919890099:834349c5bf47": "2026-09-17T14:54:21+00:00",
+    "restock:8538096926899:FLAME:XS": "2026-09-17T18:39:33+00:00",
+    "restock:8538096894131:PLUM:S": "2026-09-17T18:39:33+00:00",
+    "update:8538096861363:415757efd8c3": "2026-09-17T18:39:33+00:00",
+    "restock:8538096828595:MIST:S": "2026-09-17T18:39:33+00:00",
+    "restock:8604919890099:JET:S+XS": "2026-09-17T18:39:33+00:00"
   }
 }
