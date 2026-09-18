@@ -1,12 +1,583 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-18T18:21:35+00:00",
-    "hkt": "2026-09-19T02:21:35+08:00",
+    "utc": "2026-09-18T21:00:00+00:00",
+    "hkt": "2026-09-19T05:00:00+08:00",
     "status": "ok",
-    "products_tracked": 19
+    "products_tracked": 22
   },
   "products": {
+    "8538095943859": {
+      "id": "8538095943859",
+      "handle": "sunken-mule-paste",
+      "title": "SUNKEN MULE",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "evergreen_0716",
+        "nyc-pop-up",
+        "style-sunkenMule"
+      ],
+      "url": "https://skylrk.com/products/sunken-mule-paste",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SUNKENMULE_PASTE_SIDERIGHT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "PASTE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45623633707187": {
+          "id": "45623633707187",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623633739955": {
+          "id": "45623633739955",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623633772723": {
+          "id": "45623633772723",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623633805491": {
+          "id": "45623633805491",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": true
+        },
+        "45623633838259": {
+          "id": "45623633838259",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": true
+        },
+        "45623633871027": {
+          "id": "45623633871027",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": true
+        },
+        "45623633903795": {
+          "id": "45623633903795",
+          "size_raw": "M 10 / W 11",
+          "size": "M 10 / W 11",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": true
+        },
+        "45623633936563": {
+          "id": "45623633936563",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": true
+        },
+        "45623633969331": {
+          "id": "45623633969331",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623634002099": {
+          "id": "45623634002099",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623634034867": {
+          "id": "45623634034867",
+          "size_raw": "M 14 / W 15",
+          "size": "M 14 / W 15",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        },
+        "45623634067635": {
+          "id": "45623634067635",
+          "size_raw": "M 15 / W 16",
+          "size": "M 15 / W 16",
+          "color": "PASTE",
+          "price": "140.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T21:00:00+00:00"
+    },
+    "8416053854387": {
+      "id": "8416053854387",
+      "handle": "sunken-mule",
+      "title": "SUNKEN MULE",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "08.13 DROP",
+        "3.30drop",
+        "nyc-pop-up",
+        "skylrkchellaw2",
+        "style-sunkenMule"
+      ],
+      "url": "https://skylrk.com/products/sunken-mule",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_32composite_4e45db3b-43a4-43b8-b918-11e827918039.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "BEAR",
+        "CAVE",
+        "CORAL",
+        "COVE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45262864351411": {
+          "id": "45262864351411",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864318643": {
+          "id": "45262864318643",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864285875": {
+          "id": "45262864285875",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864253107": {
+          "id": "45262864253107",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864220339": {
+          "id": "45262864220339",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864187571": {
+          "id": "45262864187571",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864154803": {
+          "id": "45262864154803",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864122035": {
+          "id": "45262864122035",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864089267": {
+          "id": "45262864089267",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864056499": {
+          "id": "45262864056499",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262862876851": {
+          "id": "45262862876851",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864023731": {
+          "id": "45262864023731",
+          "size_raw": null,
+          "size": null,
+          "color": "CORAL",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864711859": {
+          "id": "45262864711859",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864679091": {
+          "id": "45262864679091",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864646323": {
+          "id": "45262864646323",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864613555": {
+          "id": "45262864613555",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864580787": {
+          "id": "45262864580787",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864548019": {
+          "id": "45262864548019",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": true
+        },
+        "45262864515251": {
+          "id": "45262864515251",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864482483": {
+          "id": "45262864482483",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864449715": {
+          "id": "45262864449715",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864416947": {
+          "id": "45262864416947",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262862909619": {
+          "id": "45262862909619",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": false
+        },
+        "45262864384179": {
+          "id": "45262864384179",
+          "size_raw": null,
+          "size": null,
+          "color": "BEAR",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863990963": {
+          "id": "45262863990963",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262863958195": {
+          "id": "45262863958195",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863925427": {
+          "id": "45262863925427",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863892659": {
+          "id": "45262863892659",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262863859891": {
+          "id": "45262863859891",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863827123": {
+          "id": "45262863827123",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863794355": {
+          "id": "45262863794355",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262863761587": {
+          "id": "45262863761587",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262863728819": {
+          "id": "45262863728819",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262863696051": {
+          "id": "45262863696051",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262862844083": {
+          "id": "45262862844083",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45262863663283": {
+          "id": "45262863663283",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863630515": {
+          "id": "45262863630515",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863597747": {
+          "id": "45262863597747",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863564979": {
+          "id": "45262863564979",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863532211": {
+          "id": "45262863532211",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863499443": {
+          "id": "45262863499443",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863466675": {
+          "id": "45262863466675",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863433907": {
+          "id": "45262863433907",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863401139": {
+          "id": "45262863401139",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863368371": {
+          "id": "45262863368371",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863335603": {
+          "id": "45262863335603",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262862811315": {
+          "id": "45262862811315",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45262863302835": {
+          "id": "45262863302835",
+          "size_raw": null,
+          "size": null,
+          "color": "COVE",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T21:00:00+00:00"
+    },
+    "8416055492787": {
+      "id": "8416055492787",
+      "handle": "speed-demon",
+      "title": "SPEED DEMON",
+      "product_type": "EYEWEAR",
+      "tags": [
+        "ACCESSORIES",
+        "coachella-skylrk",
+        "nyc-pop-up",
+        "prechella drop",
+        "skylrkchellaw2",
+        "style-speedDemon"
+      ],
+      "url": "https://skylrk.com/products/speed-demon",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLE004-7003_QUARTER.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "JET",
+        "TREE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45262874476723": {
+          "id": "45262874476723",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45262874443955": {
+          "id": "45262874443955",
+          "size_raw": null,
+          "size": null,
+          "color": "TREE",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T21:00:00+00:00"
+    },
     "8604881158323": {
       "id": "8604881158323",
       "handle": "sunken-sneaker-smoke",
@@ -23,7 +594,7 @@
       "colors": [
         "SMOKE"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "45827206283443": {
           "id": "45827206283443",
@@ -63,7 +634,7 @@
           "size": "M 8 / W 9",
           "color": "SMOKE",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "45827206447283": {
           "id": "45827206447283",
@@ -71,7 +642,7 @@
           "size": "M 9 / W 10",
           "color": "SMOKE",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "45827206480051": {
           "id": "45827206480051",
@@ -95,7 +666,7 @@
           "size": "M 12 / W 13",
           "color": "SMOKE",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "45827206578355": {
           "id": "45827206578355",
@@ -119,7 +690,7 @@
           "size": "M 15",
           "color": "SMOKE",
           "price": "160.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-09-18T18:21:35+00:00"
@@ -1347,6 +1918,10 @@
     "new:8604881158323": "2026-09-18T18:21:35+00:00",
     "new:8604881060019": "2026-09-18T18:21:35+00:00",
     "new:8604880928947": "2026-09-18T18:21:35+00:00",
-    "new:8604880863411": "2026-09-18T18:21:35+00:00"
+    "new:8604880863411": "2026-09-18T18:21:35+00:00",
+    "new:8538095943859": "2026-09-18T21:00:00+00:00",
+    "new:8416053854387": "2026-09-18T21:00:00+00:00",
+    "new:8416055492787": "2026-09-18T21:00:00+00:00",
+    "update:8604881158323:834349c5bf47": "2026-09-18T21:00:00+00:00"
   }
 }
