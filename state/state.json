@@ -1,12 +1,480 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-18T15:06:24+00:00",
-    "hkt": "2026-09-18T23:06:24+08:00",
+    "utc": "2026-09-18T18:21:35+00:00",
+    "hkt": "2026-09-19T02:21:35+08:00",
     "status": "ok",
-    "products_tracked": 15
+    "products_tracked": 19
   },
   "products": {
+    "8604881158323": {
+      "id": "8604881158323",
+      "handle": "sunken-sneaker-smoke",
+      "title": "SUNKEN SNEAKER - SMOKE",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "09.17.26 DROP",
+        "style-sunkenSneaker"
+      ],
+      "url": "https://skylrk.com/products/sunken-sneaker-smoke",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SUNKENSNEAKER_SMOKE_RIGHT_b70e91fe-f414-48d3-9b5e-dc2cf8577a09.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "SMOKE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45827206283443": {
+          "id": "45827206283443",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206316211": {
+          "id": "45827206316211",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206348979": {
+          "id": "45827206348979",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206381747": {
+          "id": "45827206381747",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206414515": {
+          "id": "45827206414515",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": true
+        },
+        "45827206447283": {
+          "id": "45827206447283",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": true
+        },
+        "45827206480051": {
+          "id": "45827206480051",
+          "size_raw": "M 10 / W 11",
+          "size": "M 10 / W 11",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206512819": {
+          "id": "45827206512819",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206545587": {
+          "id": "45827206545587",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": true
+        },
+        "45827206578355": {
+          "id": "45827206578355",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206611123": {
+          "id": "45827206611123",
+          "size_raw": "M 14",
+          "size": "M 14",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206643891": {
+          "id": "45827206643891",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "SMOKE",
+          "price": "160.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T18:21:35+00:00"
+    },
+    "8604881060019": {
+      "id": "8604881060019",
+      "handle": "sunken-sneaker-tofu",
+      "title": "SUNKEN SNEAKER - TOFU",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "09.17.26 DROP",
+        "style-sunkenSneaker"
+      ],
+      "url": "https://skylrk.com/products/sunken-sneaker-tofu",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SUNEKNSNEAKER_TOFU_RIGHT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "TOFU"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45827205726387": {
+          "id": "45827205726387",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205759155": {
+          "id": "45827205759155",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205791923": {
+          "id": "45827205791923",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205824691": {
+          "id": "45827205824691",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205857459": {
+          "id": "45827205857459",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205890227": {
+          "id": "45827205890227",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205922995": {
+          "id": "45827205922995",
+          "size_raw": "M 10 / W 11",
+          "size": "M 10 / W 11",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205955763": {
+          "id": "45827205955763",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205988531": {
+          "id": "45827205988531",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206021299": {
+          "id": "45827206021299",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206054067": {
+          "id": "45827206054067",
+          "size_raw": "M 14",
+          "size": "M 14",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        },
+        "45827206086835": {
+          "id": "45827206086835",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "TOFU",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T18:21:35+00:00"
+    },
+    "8604880928947": {
+      "id": "8604880928947",
+      "handle": "sunken-sneaker-mushroom",
+      "title": "SUNKEN SNEAKER - MUSHROOM",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "09.17.26 DROP",
+        "style-sunkenSneaker"
+      ],
+      "url": "https://skylrk.com/products/sunken-sneaker-mushroom",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLF015-2021_RIGHT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "MUSHROOM"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45827205202099": {
+          "id": "45827205202099",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205234867": {
+          "id": "45827205234867",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205267635": {
+          "id": "45827205267635",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205300403": {
+          "id": "45827205300403",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205333171": {
+          "id": "45827205333171",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205365939": {
+          "id": "45827205365939",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205398707": {
+          "id": "45827205398707",
+          "size_raw": "M 10 / W 11",
+          "size": "M 10 / W 11",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205431475": {
+          "id": "45827205431475",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205464243": {
+          "id": "45827205464243",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205497011": {
+          "id": "45827205497011",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205529779": {
+          "id": "45827205529779",
+          "size_raw": "M 14",
+          "size": "M 14",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205562547": {
+          "id": "45827205562547",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "MUSHROOM",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T18:21:35+00:00"
+    },
+    "8604880863411": {
+      "id": "8604880863411",
+      "handle": "sunken-sneaker-cloud-pink",
+      "title": "SUNKEN SNEAKER - CLOUD PINK",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "09.17.26 DROP",
+        "style-sunkenSneaker"
+      ],
+      "url": "https://skylrk.com/products/sunken-sneaker-cloud-pink",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SUNKENSNEAKER_CLOUDPINK_RIGHT.png",
+      "price": "160.00",
+      "currency": "USD",
+      "colors": [
+        "CLOUD PINK"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45827204677811": {
+          "id": "45827204677811",
+          "size_raw": "M 4 / W 5",
+          "size": "M 4 / W 5",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204710579": {
+          "id": "45827204710579",
+          "size_raw": "M 5 / W 6",
+          "size": "M 5 / W 6",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204743347": {
+          "id": "45827204743347",
+          "size_raw": "M 6 / W 7",
+          "size": "M 6 / W 7",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204776115": {
+          "id": "45827204776115",
+          "size_raw": "M 7 / W 8",
+          "size": "M 7 / W 8",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204808883": {
+          "id": "45827204808883",
+          "size_raw": "M 8 / W 9",
+          "size": "M 8 / W 9",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204841651": {
+          "id": "45827204841651",
+          "size_raw": "M 9 / W 10",
+          "size": "M 9 / W 10",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204874419": {
+          "id": "45827204874419",
+          "size_raw": "M 10 / W 11",
+          "size": "M 10 / W 11",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204907187": {
+          "id": "45827204907187",
+          "size_raw": "M 11 / W 12",
+          "size": "M 11 / W 12",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204939955": {
+          "id": "45827204939955",
+          "size_raw": "M 12 / W 13",
+          "size": "M 12 / W 13",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827204972723": {
+          "id": "45827204972723",
+          "size_raw": "M 13 / W 14",
+          "size": "M 13 / W 14",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205005491": {
+          "id": "45827205005491",
+          "size_raw": "M 14",
+          "size": "M 14",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        },
+        "45827205038259": {
+          "id": "45827205038259",
+          "size_raw": "M 15",
+          "size": "M 15",
+          "color": "CLOUD PINK",
+          "price": "160.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T18:21:35+00:00"
+    },
     "8406763405491": {
       "id": "8406763405491",
       "handle": "reverse-zip-hoodie",
@@ -843,7 +1311,6 @@
     "new:8551840514227": "2026-08-31T18:08:44+00:00",
     "new:8551853195443": "2026-08-31T18:08:44+00:00",
     "new:8551854342323": "2026-08-31T18:08:44+00:00",
-    "update:8416055492787:415757efd8c3": "2026-08-19T18:12:42+00:00",
     "new:8373937864883": "2026-08-19T21:38:38+00:00",
     "new:8538099286195": "2026-08-19T21:38:38+00:00",
     "update:8538096894131:415757efd8c3": "2026-08-21T19:43:06+00:00",
@@ -876,6 +1343,10 @@
     "restock:8538096828595:MIST:S": "2026-09-17T18:39:33+00:00",
     "restock:8604919890099:JET:S+XS": "2026-09-17T18:39:33+00:00",
     "restock:8557052559539:JET:S+XS": "2026-09-17T21:44:06+00:00",
-    "update:8406763405491:834349c5bf47": "2026-09-17T23:41:51+00:00"
+    "update:8406763405491:834349c5bf47": "2026-09-17T23:41:51+00:00",
+    "new:8604881158323": "2026-09-18T18:21:35+00:00",
+    "new:8604881060019": "2026-09-18T18:21:35+00:00",
+    "new:8604880928947": "2026-09-18T18:21:35+00:00",
+    "new:8604880863411": "2026-09-18T18:21:35+00:00"
   }
 }
