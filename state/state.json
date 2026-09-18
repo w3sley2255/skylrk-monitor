@@ -1,12 +1,816 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-18T21:00:00+00:00",
-    "hkt": "2026-09-19T05:00:00+08:00",
+    "utc": "2026-09-18T23:07:20+00:00",
+    "hkt": "2026-09-19T07:07:20+08:00",
     "status": "ok",
-    "products_tracked": 22
+    "products_tracked": 30
   },
   "products": {
+    "8516792484019": {
+      "id": "8516792484019",
+      "handle": "painter-pant-angel",
+      "title": "PAINTER PANT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "06.12.26 DROP",
+        "08.13 DROP",
+        "09.17 DROP_evergreen",
+        "apparel",
+        "BOTTOMS",
+        "nyc-pop-up",
+        "Shop",
+        "style-painterPant"
+      ],
+      "url": "https://skylrk.com/products/painter-pant-angel",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB023-0002_FRONT.png",
+      "price": "250.00",
+      "currency": "USD",
+      "colors": [
+        "Angel"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45562376487091": {
+          "id": "45562376487091",
+          "size_raw": "28",
+          "size": "28",
+          "color": "Angel",
+          "price": "250.00",
+          "available": true
+        },
+        "45562377339059": {
+          "id": "45562377339059",
+          "size_raw": "30",
+          "size": "30",
+          "color": "Angel",
+          "price": "250.00",
+          "available": false
+        },
+        "45562377404595": {
+          "id": "45562377404595",
+          "size_raw": "32",
+          "size": "32",
+          "color": "Angel",
+          "price": "250.00",
+          "available": false
+        },
+        "45562377437363": {
+          "id": "45562377437363",
+          "size_raw": "34",
+          "size": "34",
+          "color": "Angel",
+          "price": "250.00",
+          "available": false
+        },
+        "45569412333747": {
+          "id": "45569412333747",
+          "size_raw": "36",
+          "size": "36",
+          "color": "Angel",
+          "price": "250.00",
+          "available": false
+        },
+        "45569412366515": {
+          "id": "45569412366515",
+          "size_raw": "38",
+          "size": "38",
+          "color": "Angel",
+          "price": "250.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8466385535155": {
+      "id": "8466385535155",
+      "handle": "sweats-cave",
+      "title": "SWEATS",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "09.17 DROP_evergreen",
+        "Coachella",
+        "jbbday"
+      ],
+      "url": "https://skylrk.com/products/sweats-cave",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB016-1006-FRONT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "CAVE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45393875075251": {
+          "id": "45393875075251",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45393875108019": {
+          "id": "45393875108019",
+          "size_raw": "S",
+          "size": "S",
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45393875140787": {
+          "id": "45393875140787",
+          "size_raw": "M",
+          "size": "M",
+          "color": "CAVE",
+          "price": "140.00",
+          "available": false
+        },
+        "45393875173555": {
+          "id": "45393875173555",
+          "size_raw": "L",
+          "size": "L",
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45393875206323": {
+          "id": "45393875206323",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        },
+        "45393875239091": {
+          "id": "45393875239091",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "CAVE",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8373973287091": {
+      "id": "8373973287091",
+      "handle": "pleated-denim-jean",
+      "title": "PLEATED DENIM JEAN",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "09.17 DROP_evergreen",
+        "apparel",
+        "BOTTOMS",
+        "jan16",
+        "Shop"
+      ],
+      "url": "https://skylrk.com/products/pleated-denim-jean",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB018-3010-1.png",
+      "price": "250.00",
+      "currency": "USD",
+      "colors": [
+        "BLANKET WASH",
+        "RAW"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45129548071091": {
+          "id": "45129548071091",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "RAW",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548103859": {
+          "id": "45129548103859",
+          "size_raw": "S",
+          "size": "S",
+          "color": "RAW",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548136627": {
+          "id": "45129548136627",
+          "size_raw": "M",
+          "size": "M",
+          "color": "RAW",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548169395": {
+          "id": "45129548169395",
+          "size_raw": "L",
+          "size": "L",
+          "color": "RAW",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548202163": {
+          "id": "45129548202163",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "RAW",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548234931": {
+          "id": "45129548234931",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "RAW",
+          "price": "250.00",
+          "available": false
+        },
+        "45129547874483": {
+          "id": "45129547874483",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "BLANKET WASH",
+          "price": "250.00",
+          "available": true
+        },
+        "45129547907251": {
+          "id": "45129547907251",
+          "size_raw": "S",
+          "size": "S",
+          "color": "BLANKET WASH",
+          "price": "250.00",
+          "available": true
+        },
+        "45129547940019": {
+          "id": "45129547940019",
+          "size_raw": "M",
+          "size": "M",
+          "color": "BLANKET WASH",
+          "price": "250.00",
+          "available": true
+        },
+        "45129547972787": {
+          "id": "45129547972787",
+          "size_raw": "L",
+          "size": "L",
+          "color": "BLANKET WASH",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548005555": {
+          "id": "45129548005555",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "BLANKET WASH",
+          "price": "250.00",
+          "available": true
+        },
+        "45129548038323": {
+          "id": "45129548038323",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "BLANKET WASH",
+          "price": "250.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8516793172147": {
+      "id": "8516793172147",
+      "handle": "painter-pant-smoke",
+      "title": "PAINTER PANT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "06.12.26 DROP",
+        "08.13 DROP",
+        "09.17 DROP_evergreen",
+        "apparel",
+        "BOTTOMS",
+        "nyc-pop-up",
+        "Shop",
+        "style-painterPant"
+      ],
+      "url": "https://skylrk.com/products/painter-pant-smoke",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB023-1014_FRONT.png",
+      "price": "250.00",
+      "currency": "USD",
+      "colors": [
+        "SMOKE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45569403584691": {
+          "id": "45569403584691",
+          "size_raw": "28",
+          "size": "28",
+          "color": "SMOKE",
+          "price": "250.00",
+          "available": true
+        },
+        "45569403650227": {
+          "id": "45569403650227",
+          "size_raw": "30",
+          "size": "30",
+          "color": "SMOKE",
+          "price": "250.00",
+          "available": false
+        },
+        "45569403715763": {
+          "id": "45569403715763",
+          "size_raw": "32",
+          "size": "32",
+          "color": "SMOKE",
+          "price": "250.00",
+          "available": false
+        },
+        "45569403748531": {
+          "id": "45569403748531",
+          "size_raw": "34",
+          "size": "34",
+          "color": "SMOKE",
+          "price": "250.00",
+          "available": true
+        },
+        "45569403781299": {
+          "id": "45569403781299",
+          "size_raw": "36",
+          "size": "36",
+          "color": "SMOKE",
+          "price": "250.00",
+          "available": false
+        },
+        "45569403814067": {
+          "id": "45569403814067",
+          "size_raw": "38",
+          "size": "38",
+          "color": "SMOKE",
+          "price": "250.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8551735787699": {
+      "id": "8551735787699",
+      "handle": "light-weight-tee-shirt",
+      "title": "LIGHT WEIGHT T-SHIRT",
+      "product_type": "Tops",
+      "tags": [
+        "09.17 DROP_evergreen",
+        "nyc-pop-up",
+        "TEE"
+      ],
+      "url": "https://skylrk.com/products/light-weight-tee-shirt",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT155-0011_front.png",
+      "price": "50.00",
+      "currency": "USD",
+      "colors": [
+        "PAPER"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45670948798643": {
+          "id": "45670948798643",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "PAPER",
+          "price": "50.00",
+          "available": true
+        },
+        "45670951518387": {
+          "id": "45670951518387",
+          "size_raw": "S",
+          "size": "S",
+          "color": "PAPER",
+          "price": "50.00",
+          "available": true
+        },
+        "45670951551155": {
+          "id": "45670951551155",
+          "size_raw": "M",
+          "size": "M",
+          "color": "PAPER",
+          "price": "50.00",
+          "available": true
+        },
+        "45670951583923": {
+          "id": "45670951583923",
+          "size_raw": "L",
+          "size": "L",
+          "color": "PAPER",
+          "price": "50.00",
+          "available": true
+        },
+        "45670951616691": {
+          "id": "45670951616691",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "PAPER",
+          "price": "50.00",
+          "available": true
+        },
+        "45670951649459": {
+          "id": "45670951649459",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "PAPER",
+          "price": "50.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8516792975539": {
+      "id": "8516792975539",
+      "handle": "painter-pant-copper",
+      "title": "PAINTER PANT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "06.12.26 DROP",
+        "08.13 DROP",
+        "09.17 DROP_evergreen",
+        "apparel",
+        "BOTTOMS",
+        "nyc-pop-up",
+        "Shop",
+        "style-painterPant"
+      ],
+      "url": "https://skylrk.com/products/painter-pant-copper",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB023-6002_FRONT.png",
+      "price": "250.00",
+      "currency": "USD",
+      "colors": [
+        "COPPER"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45562379468979": {
+          "id": "45562379468979",
+          "size_raw": "28",
+          "size": "28",
+          "color": "COPPER",
+          "price": "250.00",
+          "available": true
+        },
+        "45562379862195": {
+          "id": "45562379862195",
+          "size_raw": "30",
+          "size": "30",
+          "color": "COPPER",
+          "price": "250.00",
+          "available": false
+        },
+        "45562379927731": {
+          "id": "45562379927731",
+          "size_raw": "32",
+          "size": "32",
+          "color": "COPPER",
+          "price": "250.00",
+          "available": true
+        },
+        "45562379960499": {
+          "id": "45562379960499",
+          "size_raw": "34",
+          "size": "34",
+          "color": "COPPER",
+          "price": "250.00",
+          "available": false
+        },
+        "45569410433203": {
+          "id": "45569410433203",
+          "size_raw": "36",
+          "size": "36",
+          "color": "COPPER",
+          "price": "250.00",
+          "available": false
+        },
+        "45569410465971": {
+          "id": "45569410465971",
+          "size_raw": "38",
+          "size": "38",
+          "color": "COPPER",
+          "price": "250.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8551840514227": {
+      "id": "8551840514227",
+      "handle": "boxer-brief",
+      "title": "BOXER SHORT - PURPLE PLAID",
+      "product_type": "UNDERWEAR",
+      "tags": [
+        "09.17 DROP_evergreen",
+        "ACCESSORIES",
+        "apparel",
+        "jan16",
+        "nyc-pop-up"
+      ],
+      "url": "https://skylrk.com/products/boxer-brief",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB010-3018_FRONT.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "PURPLE PLAID"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45671123845299": {
+          "id": "45671123845299",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671123878067": {
+          "id": "45671123878067",
+          "size_raw": "S",
+          "size": "S",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671123910835": {
+          "id": "45671123910835",
+          "size_raw": "M",
+          "size": "M",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671123943603": {
+          "id": "45671123943603",
+          "size_raw": "L",
+          "size": "L",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": true
+        },
+        "45671123976371": {
+          "id": "45671123976371",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": true
+        },
+        "45671124009139": {
+          "id": "45671124009139",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": true
+        },
+        "45671124041907": {
+          "id": "45671124041907",
+          "size_raw": "3XL",
+          "size": "3XL",
+          "color": "PURPLE PLAID",
+          "price": "40.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8551803912371": {
+      "id": "8551803912371",
+      "handle": "wavy-short-sea",
+      "title": "WAVY SHORT",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "08.13 DROP",
+        "09.17 DROP_evergreen",
+        "nyc-pop-up",
+        "style-wavyShorts"
+      ],
+      "url": "https://skylrk.com/products/wavy-short-sea",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB064-3009_FRONT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "SEA"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45671066501299": {
+          "id": "45671066501299",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "SEA",
+          "price": "140.00",
+          "available": false
+        },
+        "45671066534067": {
+          "id": "45671066534067",
+          "size_raw": "S",
+          "size": "S",
+          "color": "SEA",
+          "price": "140.00",
+          "available": false
+        },
+        "45671066566835": {
+          "id": "45671066566835",
+          "size_raw": "M",
+          "size": "M",
+          "color": "SEA",
+          "price": "140.00",
+          "available": false
+        },
+        "45671066599603": {
+          "id": "45671066599603",
+          "size_raw": "L",
+          "size": "L",
+          "color": "SEA",
+          "price": "140.00",
+          "available": false
+        },
+        "45671066632371": {
+          "id": "45671066632371",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "SEA",
+          "price": "140.00",
+          "available": true
+        },
+        "45671066665139": {
+          "id": "45671066665139",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "SEA",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8551854342323": {
+      "id": "8551854342323",
+      "handle": "boxer-brief-2",
+      "title": "BOXER SHORT - BLACK PLAID",
+      "product_type": "UNDERWEAR",
+      "tags": [
+        "09.17 DROP_evergreen",
+        "ACCESSORIES",
+        "apparel",
+        "nyc-pop-up"
+      ],
+      "url": "https://skylrk.com/products/boxer-brief-2",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB010-2015_FRONT.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "BW PLAID"
+      ],
+      "overall_available": false,
+      "variants": {
+        "45671133315251": {
+          "id": "45671133315251",
+          "size_raw": "2XS",
+          "size": "2XS",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152222387": {
+          "id": "45671152222387",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152255155": {
+          "id": "45671152255155",
+          "size_raw": "S",
+          "size": "S",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152287923": {
+          "id": "45671152287923",
+          "size_raw": "M",
+          "size": "M",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152320691": {
+          "id": "45671152320691",
+          "size_raw": "L",
+          "size": "L",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152353459": {
+          "id": "45671152353459",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152386227": {
+          "id": "45671152386227",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671152418995": {
+          "id": "45671152418995",
+          "size_raw": "3XL",
+          "size": "3XL",
+          "color": "BW PLAID",
+          "price": "40.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
+    "8551853195443": {
+      "id": "8551853195443",
+      "handle": "boxer-brief-1",
+      "title": "BOXER SHORT - RED PLAID",
+      "product_type": "UNDERWEAR",
+      "tags": [
+        "09.17 DROP_evergreen",
+        "ACCESSORIES",
+        "apparel",
+        "jan16",
+        "nyc-pop-up"
+      ],
+      "url": "https://skylrk.com/products/boxer-brief-1",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB010-7005_FRONT.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "RED PLAID"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45671159595187": {
+          "id": "45671159595187",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671159627955": {
+          "id": "45671159627955",
+          "size_raw": "S",
+          "size": "S",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671159660723": {
+          "id": "45671159660723",
+          "size_raw": "M",
+          "size": "M",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": false
+        },
+        "45671159693491": {
+          "id": "45671159693491",
+          "size_raw": "L",
+          "size": "L",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": true
+        },
+        "45671159726259": {
+          "id": "45671159726259",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": true
+        },
+        "45671159759027": {
+          "id": "45671159759027",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": true
+        },
+        "45671159791795": {
+          "id": "45671159791795",
+          "size_raw": "3XL",
+          "size": "3XL",
+          "color": "RED PLAID",
+          "price": "40.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-09-18T23:07:20+00:00"
+    },
     "8538095943859": {
       "id": "8538095943859",
       "handle": "sunken-mule-paste",
@@ -1046,79 +1850,6 @@
       },
       "first_seen_utc": "2026-09-18T18:21:35+00:00"
     },
-    "8406763405491": {
-      "id": "8406763405491",
-      "handle": "reverse-zip-hoodie",
-      "title": "REVERSE ZIP HOODIE",
-      "product_type": "HOODIES",
-      "tags": [
-        "06.12.26 DROP",
-        "09.17 DROP_evergreen",
-        "260501",
-        "ecomm0827",
-        "evergreen_0716",
-        "style-reverseZipHoodie"
-      ],
-      "url": "https://skylrk.com/products/reverse-zip-hoodie",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT026-8018_FRONT_1_a75d92ef-8907-487b-aa44-fa9bd67b7d12.png",
-      "price": "160.00",
-      "currency": "USD",
-      "colors": [
-        "PUNCH"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45562361741491": {
-          "id": "45562361741491",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "PUNCH",
-          "price": "160.00",
-          "available": false
-        },
-        "45562361774259": {
-          "id": "45562361774259",
-          "size_raw": "S",
-          "size": "S",
-          "color": "PUNCH",
-          "price": "160.00",
-          "available": false
-        },
-        "45562361807027": {
-          "id": "45562361807027",
-          "size_raw": "M",
-          "size": "M",
-          "color": "PUNCH",
-          "price": "160.00",
-          "available": false
-        },
-        "45562361839795": {
-          "id": "45562361839795",
-          "size_raw": "L",
-          "size": "L",
-          "color": "PUNCH",
-          "price": "160.00",
-          "available": false
-        },
-        "45562361872563": {
-          "id": "45562361872563",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "PUNCH",
-          "price": "160.00",
-          "available": false
-        },
-        "45562361905331": {
-          "id": "45562361905331",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "PUNCH",
-          "price": "160.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-09-17T21:44:06+00:00"
-    },
     "8557053608115": {
       "id": "8557053608115",
       "handle": "denim-short-crinkle-wash",
@@ -1254,77 +1985,6 @@
           "color": "JET",
           "price": "180.00",
           "available": true
-        }
-      },
-      "first_seen_utc": "2026-09-17T14:54:21+00:00"
-    },
-    "8551745323187": {
-      "id": "8551745323187",
-      "handle": "boxy-t-shirt",
-      "title": "BOXY T-SHIRT -  2 PACK",
-      "product_type": "Tops",
-      "tags": [
-        "08.13 DROP",
-        "09.17 DROP_evergreen",
-        "evergreen_0716",
-        "TEE"
-      ],
-      "url": "https://skylrk.com/products/boxy-t-shirt",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT043-4017_FRONT.png",
-      "price": "60.00",
-      "currency": "USD",
-      "colors": [
-        "NAVY/PINE"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45691792228531": {
-          "id": "45691792228531",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792261299": {
-          "id": "45691792261299",
-          "size_raw": "S",
-          "size": "S",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792294067": {
-          "id": "45691792294067",
-          "size_raw": "M",
-          "size": "M",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792326835": {
-          "id": "45691792326835",
-          "size_raw": "L",
-          "size": "L",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792359603": {
-          "id": "45691792359603",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
-        },
-        "45691792392371": {
-          "id": "45691792392371",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "NAVY/PINE",
-          "price": "60.00",
-          "available": false
         }
       },
       "first_seen_utc": "2026-09-17T14:54:21+00:00"
@@ -1879,11 +2539,9 @@
     "new:8538096861363": "2026-09-10T19:12:53+00:00",
     "new:8517390237875": "2026-08-28T00:29:54+00:00",
     "new:8557052559539": "2026-09-17T14:54:21+00:00",
-    "new:8551840514227": "2026-08-31T18:08:44+00:00",
-    "new:8551853195443": "2026-08-31T18:08:44+00:00",
-    "new:8551854342323": "2026-08-31T18:08:44+00:00",
-    "new:8373937864883": "2026-08-19T21:38:38+00:00",
-    "new:8538099286195": "2026-08-19T21:38:38+00:00",
+    "new:8551840514227": "2026-09-18T23:07:20+00:00",
+    "new:8551853195443": "2026-09-18T23:07:20+00:00",
+    "new:8551854342323": "2026-09-18T23:07:20+00:00",
     "update:8538096894131:415757efd8c3": "2026-08-21T19:43:06+00:00",
     "update:8538096894131:834349c5bf47": "2026-09-17T14:54:21+00:00",
     "update:8373910503603:834349c5bf47": "2026-08-26T11:21:58+00:00",
@@ -1922,6 +2580,13 @@
     "new:8538095943859": "2026-09-18T21:00:00+00:00",
     "new:8416053854387": "2026-09-18T21:00:00+00:00",
     "new:8416055492787": "2026-09-18T21:00:00+00:00",
-    "update:8604881158323:834349c5bf47": "2026-09-18T21:00:00+00:00"
+    "update:8604881158323:834349c5bf47": "2026-09-18T21:00:00+00:00",
+    "new:8516792484019": "2026-09-18T23:07:20+00:00",
+    "new:8466385535155": "2026-09-18T23:07:20+00:00",
+    "new:8373973287091": "2026-09-18T23:07:20+00:00",
+    "new:8516793172147": "2026-09-18T23:07:20+00:00",
+    "new:8551735787699": "2026-09-18T23:07:20+00:00",
+    "new:8516792975539": "2026-09-18T23:07:20+00:00",
+    "new:8551803912371": "2026-09-18T23:07:20+00:00"
   }
 }
