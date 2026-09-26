@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-26T10:09:49+00:00",
-    "hkt": "2026-09-26T18:09:49+08:00",
+    "utc": "2026-09-26T14:26:55+00:00",
+    "hkt": "2026-09-26T22:26:55+08:00",
     "status": "ok",
     "products_tracked": 28
   },
@@ -817,7 +817,7 @@
           "size": "XL",
           "color": "RED PLAID",
           "price": "40.00",
-          "available": true
+          "available": false
         },
         "45671159759027": {
           "id": "45671159759027",
