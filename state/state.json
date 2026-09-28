@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-09-28T06:46:26+00:00",
-    "hkt": "2026-09-28T14:46:26+08:00",
+    "utc": "2026-09-28T14:32:12+00:00",
+    "hkt": "2026-09-28T22:32:12+08:00",
     "status": "ok",
     "products_tracked": 26
   },
@@ -1938,7 +1938,7 @@
           "size": "S",
           "color": "MIST",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "45623637278899": {
           "id": "45623637278899",
