@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-01T01:20:44+00:00",
-    "hkt": "2026-10-01T09:20:44+08:00",
+    "utc": "2026-10-01T07:15:03+00:00",
+    "hkt": "2026-10-01T15:15:03+08:00",
     "status": "ok",
     "products_tracked": 26
   },
@@ -1642,7 +1642,7 @@
           "size": "XS",
           "color": "JET",
           "price": "180.00",
-          "available": true
+          "available": false
         },
         "45689973113011": {
           "id": "45689973113011",
