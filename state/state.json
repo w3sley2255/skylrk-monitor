@@ -1,12 +1,432 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-02T14:58:20+00:00",
-    "hkt": "2026-10-02T22:58:20+08:00",
+    "utc": "2026-10-02T19:45:26+00:00",
+    "hkt": "2026-10-03T03:45:26+08:00",
     "status": "ok",
-    "products_tracked": 26
+    "products_tracked": 29
   },
   "products": {
+    "8416055492787": {
+      "id": "8416055492787",
+      "handle": "speed-demon",
+      "title": "SPEED DEMON",
+      "product_type": "EYEWEAR",
+      "tags": [
+        "09.24 refresh",
+        "ACCESSORIES",
+        "coachella-skylrk",
+        "nyc-pop-up",
+        "prechella drop",
+        "skylrkchellaw2",
+        "style-speedDemon"
+      ],
+      "url": "https://skylrk.com/products/speed-demon",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLE004-7003_QUARTER.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "JET",
+        "SEA",
+        "TREE"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45262874411187": {
+          "id": "45262874411187",
+          "size_raw": null,
+          "size": null,
+          "color": "SEA",
+          "price": "140.00",
+          "available": true
+        },
+        "45262874476723": {
+          "id": "45262874476723",
+          "size_raw": null,
+          "size": null,
+          "color": "JET",
+          "price": "140.00",
+          "available": true
+        },
+        "45262874443955": {
+          "id": "45262874443955",
+          "size_raw": null,
+          "size": null,
+          "color": "TREE",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8704365297843": {
+      "id": "8704365297843",
+      "handle": "beanie-navy",
+      "title": "BEANIE",
+      "product_type": "HATS",
+      "tags": [
+        "10.01 DROP",
+        "style-beanie"
+      ],
+      "url": "https://skylrk.com/products/beanie-navy",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/BEANIE_NAVY_FRONT_ea95b9a8-0a55-413e-8620-e725c760d0e2.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "NAVY"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46073647890611": {
+          "id": "46073647890611",
+          "size_raw": null,
+          "size": null,
+          "color": "NAVY",
+          "price": "40.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8704360218803": {
+      "id": "8704360218803",
+      "handle": "beanie-cashew",
+      "title": "BEANIE",
+      "product_type": "HATS",
+      "tags": [
+        "10.01 DROP",
+        "style-beanie"
+      ],
+      "url": "https://skylrk.com/products/beanie-cashew",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/BEANIE_CASHEW_FRONT_eaa9523d-3365-4040-9a9b-c8569e1df520.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "CASHEW"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46073624854707": {
+          "id": "46073624854707",
+          "size_raw": null,
+          "size": null,
+          "color": "CASHEW",
+          "price": "40.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8704380076211": {
+      "id": "8704380076211",
+      "handle": "reverse-sweats-navy",
+      "title": "REVERSE SWEATS",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "10.01 DROP",
+        "apparel",
+        "BOTTOMS",
+        "Shop",
+        "style-reverseSweats"
+      ],
+      "url": "https://skylrk.com/products/reverse-sweats-navy",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/REVERSESWEATS_NAVY_FRONT_e0438a00-20e7-488c-a06e-a8ce370aedb0.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "NAVY"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46073691013299": {
+          "id": "46073691013299",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "NAVY",
+          "price": "140.00",
+          "available": false
+        },
+        "46073696125107": {
+          "id": "46073696125107",
+          "size_raw": "S",
+          "size": "S",
+          "color": "NAVY",
+          "price": "140.00",
+          "available": false
+        },
+        "46073696157875": {
+          "id": "46073696157875",
+          "size_raw": "M",
+          "size": "M",
+          "color": "NAVY",
+          "price": "140.00",
+          "available": false
+        },
+        "46073696190643": {
+          "id": "46073696190643",
+          "size_raw": "L",
+          "size": "L",
+          "color": "NAVY",
+          "price": "140.00",
+          "available": false
+        },
+        "46073696223411": {
+          "id": "46073696223411",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "NAVY",
+          "price": "140.00",
+          "available": true
+        },
+        "46073696256179": {
+          "id": "46073696256179",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "NAVY",
+          "price": "140.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8704376307891": {
+      "id": "8704376307891",
+      "handle": "reverse-sweats-cashew",
+      "title": "REVERSE SWEATS",
+      "product_type": "BOTTOMS",
+      "tags": [
+        "10.01 DROP",
+        "apparel",
+        "BOTTOMS",
+        "Shop",
+        "style-reverseSweats"
+      ],
+      "url": "https://skylrk.com/products/reverse-sweats-cashew",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/REVERSESWEATS_CASHEW_FRONT.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "CASHEW"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46073681281203": {
+          "id": "46073681281203",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "46073684689075": {
+          "id": "46073684689075",
+          "size_raw": "S",
+          "size": "S",
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "46073684721843": {
+          "id": "46073684721843",
+          "size_raw": "M",
+          "size": "M",
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "46073684754611": {
+          "id": "46073684754611",
+          "size_raw": "L",
+          "size": "L",
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "46073684787379": {
+          "id": "46073684787379",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        },
+        "46073684820147": {
+          "id": "46073684820147",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "CASHEW",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8704372932787": {
+      "id": "8704372932787",
+      "handle": "no-zip-hoodie-2",
+      "title": "NO ZIP HOODIE",
+      "product_type": "TOPS",
+      "tags": [
+        "10.01 DROP",
+        "style-noziphoodie"
+      ],
+      "url": "https://skylrk.com/products/no-zip-hoodie-2",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/NO_ZIP_HOODIE_NAVY_FRONT_1.png",
+      "price": "240.00",
+      "currency": "USD",
+      "colors": [
+        "NAVY"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46073673711795": {
+          "id": "46073673711795",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "NAVY",
+          "price": "240.00",
+          "available": true
+        },
+        "46073675645107": {
+          "id": "46073675645107",
+          "size_raw": "S",
+          "size": "S",
+          "color": "NAVY",
+          "price": "240.00",
+          "available": true
+        },
+        "46073675677875": {
+          "id": "46073675677875",
+          "size_raw": "M",
+          "size": "M",
+          "color": "NAVY",
+          "price": "240.00",
+          "available": true
+        },
+        "46073675710643": {
+          "id": "46073675710643",
+          "size_raw": "L",
+          "size": "L",
+          "color": "NAVY",
+          "price": "240.00",
+          "available": true
+        },
+        "46073675743411": {
+          "id": "46073675743411",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "NAVY",
+          "price": "240.00",
+          "available": true
+        },
+        "46073675776179": {
+          "id": "46073675776179",
+          "size_raw": "XXL",
+          "size": "2XL",
+          "color": "NAVY",
+          "price": "240.00",
+          "available": false
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8704370606259": {
+      "id": "8704370606259",
+      "handle": "no-zip-hoodie-cashew",
+      "title": "NO ZIP HOODIE",
+      "product_type": "TOPS",
+      "tags": [
+        "10.01 DROP",
+        "style-noziphoodie"
+      ],
+      "url": "https://skylrk.com/products/no-zip-hoodie-cashew",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/B92A9B7B-5D0E-4E8F-BC84-432CCBE5A03F.png",
+      "price": "240.00",
+      "currency": "USD",
+      "colors": [
+        "CASHEW"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46073662537907": {
+          "id": "46073662537907",
+          "size_raw": "XS",
+          "size": "XS",
+          "color": "CASHEW",
+          "price": "240.00",
+          "available": true
+        },
+        "46073662570675": {
+          "id": "46073662570675",
+          "size_raw": "S",
+          "size": "S",
+          "color": "CASHEW",
+          "price": "240.00",
+          "available": true
+        },
+        "46073662603443": {
+          "id": "46073662603443",
+          "size_raw": "M",
+          "size": "M",
+          "color": "CASHEW",
+          "price": "240.00",
+          "available": true
+        },
+        "46073662636211": {
+          "id": "46073662636211",
+          "size_raw": "L",
+          "size": "L",
+          "color": "CASHEW",
+          "price": "240.00",
+          "available": true
+        },
+        "46073662668979": {
+          "id": "46073662668979",
+          "size_raw": "XL",
+          "size": "XL",
+          "color": "CASHEW",
+          "price": "240.00",
+          "available": true
+        },
+        "46073662701747": {
+          "id": "46073662701747",
+          "size_raw": "2XL",
+          "size": "2XL",
+          "color": "CASHEW",
+          "price": "240.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
+    "8557054984371": {
+      "id": "8557054984371",
+      "handle": "slouch-sock-2-pack",
+      "title": "SLOUCH SOCK 2-PACK",
+      "product_type": "SOCKS",
+      "tags": [
+        "10.01 DROP"
+      ],
+      "url": "https://skylrk.com/products/slouch-sock-2-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLOUCH_SOCK_BLOOH_RAIN.png",
+      "price": "40.00",
+      "currency": "USD",
+      "colors": [
+        "RAIN/BLOOH"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45689983467699": {
+          "id": "45689983467699",
+          "size_raw": null,
+          "size": null,
+          "color": "RAIN/BLOOH",
+          "price": "40.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-10-02T19:45:26+00:00"
+    },
     "8551728382131": {
       "id": "8551728382131",
       "handle": "speed-demon-mars",
@@ -410,76 +830,6 @@
       },
       "first_seen_utc": "2026-09-18T23:07:20+00:00"
     },
-    "8551735787699": {
-      "id": "8551735787699",
-      "handle": "light-weight-tee-shirt",
-      "title": "LIGHT WEIGHT T-SHIRT",
-      "product_type": "Tops",
-      "tags": [
-        "09.17 DROP_evergreen",
-        "nyc-pop-up",
-        "TEE"
-      ],
-      "url": "https://skylrk.com/products/light-weight-tee-shirt",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLT155-0011_front_2.png",
-      "price": "50.00",
-      "currency": "USD",
-      "colors": [
-        "PAPER"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45670948798643": {
-          "id": "45670948798643",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "PAPER",
-          "price": "50.00",
-          "available": true
-        },
-        "45670951518387": {
-          "id": "45670951518387",
-          "size_raw": "S",
-          "size": "S",
-          "color": "PAPER",
-          "price": "50.00",
-          "available": true
-        },
-        "45670951551155": {
-          "id": "45670951551155",
-          "size_raw": "M",
-          "size": "M",
-          "color": "PAPER",
-          "price": "50.00",
-          "available": true
-        },
-        "45670951583923": {
-          "id": "45670951583923",
-          "size_raw": "L",
-          "size": "L",
-          "color": "PAPER",
-          "price": "50.00",
-          "available": true
-        },
-        "45670951616691": {
-          "id": "45670951616691",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "PAPER",
-          "price": "50.00",
-          "available": true
-        },
-        "45670951649459": {
-          "id": "45670951649459",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "PAPER",
-          "price": "50.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-09-18T23:07:20+00:00"
-    },
     "8516792975539": {
       "id": "8516792975539",
       "handle": "painter-pant-copper",
@@ -554,648 +904,6 @@
         }
       },
       "first_seen_utc": "2026-09-18T23:07:20+00:00"
-    },
-    "8551840514227": {
-      "id": "8551840514227",
-      "handle": "boxer-brief",
-      "title": "BOXER SHORT - PURPLE PLAID",
-      "product_type": "UNDERWEAR",
-      "tags": [
-        "09.17 DROP_evergreen",
-        "ACCESSORIES",
-        "apparel",
-        "jan16",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/boxer-brief",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB010-3018_FRONT.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "PURPLE PLAID"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45671123845299": {
-          "id": "45671123845299",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671123878067": {
-          "id": "45671123878067",
-          "size_raw": "S",
-          "size": "S",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671123910835": {
-          "id": "45671123910835",
-          "size_raw": "M",
-          "size": "M",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671123943603": {
-          "id": "45671123943603",
-          "size_raw": "L",
-          "size": "L",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": true
-        },
-        "45671123976371": {
-          "id": "45671123976371",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": true
-        },
-        "45671124009139": {
-          "id": "45671124009139",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": true
-        },
-        "45671124041907": {
-          "id": "45671124041907",
-          "size_raw": "3XL",
-          "size": "3XL",
-          "color": "PURPLE PLAID",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-09-18T23:07:20+00:00"
-    },
-    "8551803912371": {
-      "id": "8551803912371",
-      "handle": "wavy-short-sea",
-      "title": "WAVY SHORT",
-      "product_type": "BOTTOMS",
-      "tags": [
-        "08.13 DROP",
-        "09.17 DROP_evergreen",
-        "nyc-pop-up",
-        "style-wavyShorts"
-      ],
-      "url": "https://skylrk.com/products/wavy-short-sea",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB064-3009_FRONT.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "SEA"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45671066501299": {
-          "id": "45671066501299",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066534067": {
-          "id": "45671066534067",
-          "size_raw": "S",
-          "size": "S",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066566835": {
-          "id": "45671066566835",
-          "size_raw": "M",
-          "size": "M",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066599603": {
-          "id": "45671066599603",
-          "size_raw": "L",
-          "size": "L",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066632371": {
-          "id": "45671066632371",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "SEA",
-          "price": "140.00",
-          "available": false
-        },
-        "45671066665139": {
-          "id": "45671066665139",
-          "size_raw": "XXL",
-          "size": "2XL",
-          "color": "SEA",
-          "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-09-18T23:07:20+00:00"
-    },
-    "8551853195443": {
-      "id": "8551853195443",
-      "handle": "boxer-brief-1",
-      "title": "BOXER SHORT - RED PLAID",
-      "product_type": "UNDERWEAR",
-      "tags": [
-        "09.17 DROP_evergreen",
-        "ACCESSORIES",
-        "apparel",
-        "jan16",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/boxer-brief-1",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLB010-7005_FRONT.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "RED PLAID"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45671159595187": {
-          "id": "45671159595187",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671159627955": {
-          "id": "45671159627955",
-          "size_raw": "S",
-          "size": "S",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671159660723": {
-          "id": "45671159660723",
-          "size_raw": "M",
-          "size": "M",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671159693491": {
-          "id": "45671159693491",
-          "size_raw": "L",
-          "size": "L",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": true
-        },
-        "45671159726259": {
-          "id": "45671159726259",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": false
-        },
-        "45671159759027": {
-          "id": "45671159759027",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": true
-        },
-        "45671159791795": {
-          "id": "45671159791795",
-          "size_raw": "3XL",
-          "size": "3XL",
-          "color": "RED PLAID",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-09-18T23:07:20+00:00"
-    },
-    "8416053854387": {
-      "id": "8416053854387",
-      "handle": "sunken-mule",
-      "title": "SUNKEN MULE",
-      "product_type": "FOOTWEAR",
-      "tags": [
-        "08.13 DROP",
-        "3.30drop",
-        "nyc-pop-up",
-        "skylrkchellaw2",
-        "style-sunkenMule"
-      ],
-      "url": "https://skylrk.com/products/sunken-mule",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_32composite_4e45db3b-43a4-43b8-b918-11e827918039.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "BEAR",
-        "CAVE",
-        "CORAL",
-        "COVE"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45262864351411": {
-          "id": "45262864351411",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864318643": {
-          "id": "45262864318643",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864285875": {
-          "id": "45262864285875",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864253107": {
-          "id": "45262864253107",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864220339": {
-          "id": "45262864220339",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864187571": {
-          "id": "45262864187571",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864154803": {
-          "id": "45262864154803",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864122035": {
-          "id": "45262864122035",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864089267": {
-          "id": "45262864089267",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864056499": {
-          "id": "45262864056499",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262862876851": {
-          "id": "45262862876851",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864023731": {
-          "id": "45262864023731",
-          "size_raw": null,
-          "size": null,
-          "color": "CORAL",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864711859": {
-          "id": "45262864711859",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864679091": {
-          "id": "45262864679091",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864646323": {
-          "id": "45262864646323",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864613555": {
-          "id": "45262864613555",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864580787": {
-          "id": "45262864580787",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864548019": {
-          "id": "45262864548019",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262864515251": {
-          "id": "45262864515251",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864482483": {
-          "id": "45262864482483",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864449715": {
-          "id": "45262864449715",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864416947": {
-          "id": "45262864416947",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262862909619": {
-          "id": "45262862909619",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": false
-        },
-        "45262864384179": {
-          "id": "45262864384179",
-          "size_raw": null,
-          "size": null,
-          "color": "BEAR",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863990963": {
-          "id": "45262863990963",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863958195": {
-          "id": "45262863958195",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863925427": {
-          "id": "45262863925427",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863892659": {
-          "id": "45262863892659",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863859891": {
-          "id": "45262863859891",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863827123": {
-          "id": "45262863827123",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863794355": {
-          "id": "45262863794355",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863761587": {
-          "id": "45262863761587",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863728819": {
-          "id": "45262863728819",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863696051": {
-          "id": "45262863696051",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262862844083": {
-          "id": "45262862844083",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863663283": {
-          "id": "45262863663283",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863630515": {
-          "id": "45262863630515",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863597747": {
-          "id": "45262863597747",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863564979": {
-          "id": "45262863564979",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863532211": {
-          "id": "45262863532211",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863499443": {
-          "id": "45262863499443",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863466675": {
-          "id": "45262863466675",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863433907": {
-          "id": "45262863433907",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863401139": {
-          "id": "45262863401139",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45262863368371": {
-          "id": "45262863368371",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863335603": {
-          "id": "45262863335603",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262862811315": {
-          "id": "45262862811315",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262863302835": {
-          "id": "45262863302835",
-          "size_raw": null,
-          "size": null,
-          "color": "COVE",
-          "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-09-18T21:00:00+00:00"
     },
     "8604881158323": {
       "id": "8604881158323",
@@ -2199,7 +1907,7 @@
     "new:8604880863411": "2026-09-18T18:21:35+00:00",
     "new:8538095943859": "2026-09-18T21:00:00+00:00",
     "new:8416053854387": "2026-09-18T21:00:00+00:00",
-    "new:8416055492787": "2026-09-25T19:20:19+00:00",
+    "new:8416055492787": "2026-10-02T19:45:26+00:00",
     "update:8604881158323:834349c5bf47": "2026-09-18T21:00:00+00:00",
     "new:8516792484019": "2026-09-18T23:07:20+00:00",
     "new:8466385535155": "2026-09-18T23:07:20+00:00",
@@ -2211,6 +1919,13 @@
     "restock:8551853195443:RED PLAID:XS": "2026-09-22T21:28:58+00:00",
     "update:8551735787699:f4d3e1175af5": "2026-09-22T23:42:49+00:00",
     "new:8551728382131": "2026-09-25T19:20:19+00:00",
-    "new:8551721271475": "2026-09-25T19:20:19+00:00"
+    "new:8551721271475": "2026-09-25T19:20:19+00:00",
+    "new:8704365297843": "2026-10-02T19:45:26+00:00",
+    "new:8704360218803": "2026-10-02T19:45:26+00:00",
+    "new:8704380076211": "2026-10-02T19:45:26+00:00",
+    "new:8704376307891": "2026-10-02T19:45:26+00:00",
+    "new:8704372932787": "2026-10-02T19:45:26+00:00",
+    "new:8704370606259": "2026-10-02T19:45:26+00:00",
+    "new:8557054984371": "2026-10-02T19:45:26+00:00"
   }
 }
