@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-06T09:54:40+00:00",
-    "hkt": "2026-10-06T17:54:40+08:00",
+    "utc": "2026-10-06T16:21:05+00:00",
+    "hkt": "2026-10-07T00:21:05+08:00",
     "status": "ok",
     "products_tracked": 8
   },
@@ -315,7 +315,7 @@
           "size": "XL",
           "color": "CASHEW",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "46073684820147": {
           "id": "46073684820147",
