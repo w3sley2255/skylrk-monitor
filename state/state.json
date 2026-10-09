@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-09T01:29:46+00:00",
-    "hkt": "2026-10-09T09:29:46+08:00",
+    "utc": "2026-10-09T07:49:00+00:00",
+    "hkt": "2026-10-09T15:49:00+08:00",
     "status": "ok",
     "products_tracked": 19
   },
@@ -567,7 +567,7 @@
           "size": null,
           "color": "DREAM",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "44930751168691": {
           "id": "44930751168691",
@@ -1472,7 +1472,7 @@
       "colors": [
         "SAGE"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "45623631315123": {
           "id": "45623631315123",
@@ -1520,7 +1520,7 @@
           "size": "M 9 / W 10",
           "color": "SAGE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623631511731": {
           "id": "45623631511731",
@@ -1528,7 +1528,7 @@
           "size": "M 10 / W 11",
           "color": "SAGE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623631544499": {
           "id": "45623631544499",
@@ -1560,7 +1560,7 @@
           "size": "M 14 / W 15",
           "color": "SAGE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623631675571": {
           "id": "45623631675571",
@@ -1568,7 +1568,7 @@
           "size": "M 15 / W 16",
           "color": "SAGE",
           "price": "140.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-10-08T21:49:43+00:00"
@@ -1623,7 +1623,7 @@
           "size": "M 7 / W 8",
           "color": "TOY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623629938867": {
           "id": "45623629938867",
@@ -1639,7 +1639,7 @@
           "size": "M 9 / W 10",
           "color": "TOY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623630004403": {
           "id": "45623630004403",
@@ -1876,6 +1876,7 @@
     "new:8538095780019": "2026-10-08T21:49:43+00:00",
     "new:8416054608051": "2026-10-08T21:49:43+00:00",
     "update:8416055492787:378a64c6821f": "2026-10-09T01:29:46+00:00",
-    "update:8538095878323:834349c5bf47": "2026-10-09T01:29:46+00:00"
+    "update:8538095878323:834349c5bf47": "2026-10-09T01:29:46+00:00",
+    "update:8538095780019:834349c5bf47": "2026-10-09T07:49:00+00:00"
   }
 }
