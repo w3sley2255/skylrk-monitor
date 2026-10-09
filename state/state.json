@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-09T07:49:00+00:00",
-    "hkt": "2026-10-09T15:49:00+08:00",
+    "utc": "2026-10-09T14:42:05+00:00",
+    "hkt": "2026-10-09T22:42:05+08:00",
     "status": "ok",
     "products_tracked": 19
   },
@@ -847,7 +847,7 @@
           "size": null,
           "color": "BLOOP",
           "price": "120.00",
-          "available": true
+          "available": false
         },
         "44930750775475": {
           "id": "44930750775475",
@@ -1631,7 +1631,7 @@
           "size": "M 8 / W 9",
           "color": "TOY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623629971635": {
           "id": "45623629971635",
