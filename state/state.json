@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-11T18:37:18+00:00",
-    "hkt": "2026-10-12T02:37:18+08:00",
+    "utc": "2026-10-11T22:25:47+00:00",
+    "hkt": "2026-10-12T06:25:47+08:00",
     "status": "ok",
     "products_tracked": 19
   },
@@ -1187,7 +1187,7 @@
           "size": "L",
           "color": "NAVY",
           "price": "240.00",
-          "available": true
+          "available": false
         },
         "46073675743411": {
           "id": "46073675743411",
@@ -1799,7 +1799,7 @@
           "size": null,
           "color": "SMOKE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45262871363763": {
           "id": "45262871363763",
