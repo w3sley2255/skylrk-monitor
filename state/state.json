@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-16T00:36:43+00:00",
-    "hkt": "2026-10-16T08:36:43+08:00",
+    "utc": "2026-10-16T04:56:47+00:00",
+    "hkt": "2026-10-16T12:56:47+08:00",
     "status": "ok",
     "products_tracked": 12
   },
@@ -248,7 +248,7 @@
           "size": "S",
           "color": "NO DYE",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "44713604710579": {
           "id": "44713604710579",
@@ -280,7 +280,7 @@
           "size": "2XL",
           "color": "NO DYE",
           "price": "160.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-10-15T19:24:01+00:00"
