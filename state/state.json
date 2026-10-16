@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-15T22:29:47+00:00",
-    "hkt": "2026-10-16T06:29:47+08:00",
+    "utc": "2026-10-16T00:36:43+00:00",
+    "hkt": "2026-10-16T08:36:43+08:00",
     "status": "ok",
     "products_tracked": 12
   },
@@ -256,7 +256,7 @@
           "size": "M",
           "color": "NO DYE",
           "price": "160.00",
-          "available": true
+          "available": false
         },
         "44713604743347": {
           "id": "44713604743347",
@@ -294,6 +294,7 @@
         "09.24 refresh",
         "ACCESSORIES",
         "coachella-skylrk",
+        "korea-pop-up 10.22",
         "nyc-pop-up",
         "prechella drop",
         "skylrkchellaw2",
@@ -467,6 +468,7 @@
         "09.10.26 DROP",
         "ACCESSORIES",
         "ecomm0827",
+        "korea-pop-up 10.22",
         "nyc-pop-up",
         "Shop",
         "style-glicky"
@@ -501,6 +503,7 @@
         "ACCESSORIES",
         "dec12drop",
         "ecomm0827",
+        "korea-pop-up 10.22",
         "nyc-pop-up",
         "Shop",
         "style-glicky"
