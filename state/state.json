@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-16T17:57:59+00:00",
-    "hkt": "2026-10-17T01:57:59+08:00",
+    "utc": "2026-10-16T20:29:43+00:00",
+    "hkt": "2026-10-17T04:29:43+08:00",
     "status": "ok",
     "products_tracked": 12
   },
@@ -256,7 +256,7 @@
           "size": "M",
           "color": "PINE",
           "price": "240.00",
-          "available": true
+          "available": false
         },
         "45309547053235": {
           "id": "45309547053235",
