@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-20T11:18:58+00:00",
-    "hkt": "2026-10-20T19:18:58+08:00",
+    "utc": "2026-10-20T15:40:21+00:00",
+    "hkt": "2026-10-20T23:40:21+08:00",
     "status": "ok",
     "products_tracked": 11
   },
@@ -221,6 +221,7 @@
         "09.24 refresh",
         "ACCESSORIES",
         "coachella-skylrk",
+        "ecom 10.23",
         "korea-pop-up 10.22",
         "nyc-pop-up",
         "prechella drop",
@@ -274,6 +275,7 @@
         "09.17 DROP_evergreen",
         "apparel",
         "BOTTOMS",
+        "ECOM 11.05",
         "jan16",
         "Shop"
       ],
@@ -394,6 +396,7 @@
       "tags": [
         "09.10.26 DROP",
         "ACCESSORIES",
+        "ecom 10.23",
         "ecomm0827",
         "korea-pop-up 10.22",
         "nyc-pop-up",
@@ -429,6 +432,7 @@
         "09.10.26 DROP",
         "ACCESSORIES",
         "dec12drop",
+        "ecom 10.23",
         "ecomm0827",
         "korea-pop-up 10.22",
         "nyc-pop-up",
