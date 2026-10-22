@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-22T19:17:51+00:00",
-    "hkt": "2026-10-23T03:17:51+08:00",
+    "utc": "2026-10-22T22:24:24+00:00",
+    "hkt": "2026-10-23T06:24:24+08:00",
     "status": "ok",
-    "products_tracked": 14
+    "products_tracked": 13
   },
   "products": {
     "8751753298099": {
@@ -23,7 +23,7 @@
       "colors": [
         "WHISPER"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "46250379444403": {
           "id": "46250379444403",
@@ -31,7 +31,7 @@
           "size": null,
           "color": "WHISPER",
           "price": "50.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-10-21T19:22:24+00:00"
@@ -52,7 +52,7 @@
       "colors": [
         "ICY"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "46250368598195": {
           "id": "46250368598195",
@@ -60,134 +60,7 @@
           "size": null,
           "color": "ICY",
           "price": "50.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-10-21T19:22:24+00:00"
-    },
-    "8259793748147": {
-      "id": "8259793748147",
-      "handle": "hoodie",
-      "title": "HOODIE",
-      "product_type": "HOODIES",
-      "tags": [
-        "afterHB",
-        "apparel",
-        "ecom 10.23",
-        "ECOM 11.12",
-        "HB",
-        "HOODIES",
-        "korea-pop-up 10.22",
-        "preorder",
-        "Shop",
-        "skylrkw2",
-        "style-hoodie"
-      ],
-      "url": "https://skylrk.com/products/hoodie",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/HOODIE_CAVE_v2_FRONTcopy.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "CAVE",
-        "JELLY"
-      ],
-      "overall_available": false,
-      "variants": {
-        "44948606124211": {
-          "id": "44948606124211",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "44948606091443": {
-          "id": "44948606091443",
-          "size_raw": "S",
-          "size": "S",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "44948606058675": {
-          "id": "44948606058675",
-          "size_raw": "M",
-          "size": "M",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "44948606025907": {
-          "id": "44948606025907",
-          "size_raw": "L",
-          "size": "L",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "44948605993139": {
-          "id": "44948605993139",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "44948605960371": {
-          "id": "44948605960371",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "44911542501555": {
-          "id": "44911542501555",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "JELLY",
-          "price": "140.00",
-          "available": false
-        },
-        "44911542468787": {
-          "id": "44911542468787",
-          "size_raw": "S",
-          "size": "S",
-          "color": "JELLY",
-          "price": "140.00",
-          "available": false
-        },
-        "44911542436019": {
-          "id": "44911542436019",
-          "size_raw": "M",
-          "size": "M",
-          "color": "JELLY",
-          "price": "140.00",
-          "available": false
-        },
-        "44911542403251": {
-          "id": "44911542403251",
-          "size_raw": "L",
-          "size": "L",
-          "color": "JELLY",
-          "price": "140.00",
-          "available": false
-        },
-        "44911542370483": {
-          "id": "44911542370483",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "JELLY",
-          "price": "140.00",
-          "available": false
-        },
-        "44911542337715": {
-          "id": "44911542337715",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "JELLY",
-          "price": "140.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-10-21T19:22:24+00:00"
@@ -696,7 +569,7 @@
           "size": "XS",
           "color": "NAVY",
           "price": "240.00",
-          "available": true
+          "available": false
         },
         "46073675645107": {
           "id": "46073675645107",
@@ -816,7 +689,6 @@
     "new:8538096828595": "2026-10-08T21:49:43+00:00",
     "new:8416055492787": "2026-10-08T21:49:43+00:00",
     "new:8373973287091": "2026-10-08T21:49:43+00:00",
-    "restock:8551853195443:RED PLAID:XS": "2026-09-22T21:28:58+00:00",
     "update:8551735787699:f4d3e1175af5": "2026-09-22T23:42:49+00:00",
     "new:8551728382131": "2026-09-25T19:20:19+00:00",
     "new:8551721271475": "2026-09-25T19:20:19+00:00",
@@ -856,6 +728,8 @@
     "new:8751753298099": "2026-10-21T19:22:24+00:00",
     "new:8751750906035": "2026-10-21T19:22:24+00:00",
     "new:8259793748147": "2026-10-21T19:22:24+00:00",
-    "update:8453595496627:415757efd8c3": "2026-10-21T19:22:24+00:00"
+    "update:8453595496627:415757efd8c3": "2026-10-21T19:22:24+00:00",
+    "update:8751753298099:415757efd8c3": "2026-10-22T22:24:24+00:00",
+    "update:8751750906035:415757efd8c3": "2026-10-22T22:24:24+00:00"
   }
 }
