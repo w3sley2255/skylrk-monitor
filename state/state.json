@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-23T15:08:40+00:00",
-    "hkt": "2026-10-23T23:08:40+08:00",
+    "utc": "2026-10-23T19:08:41+00:00",
+    "hkt": "2026-10-24T03:08:41+08:00",
     "status": "ok",
     "products_tracked": 27
   },
@@ -154,7 +154,7 @@
       "colors": [
         "JELLY"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "44911542501555": {
           "id": "44911542501555",
@@ -162,7 +162,7 @@
           "size": "XS",
           "color": "JELLY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "44911542468787": {
           "id": "44911542468787",
@@ -170,7 +170,7 @@
           "size": "S",
           "color": "JELLY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "44911542436019": {
           "id": "44911542436019",
@@ -178,7 +178,7 @@
           "size": "M",
           "color": "JELLY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "44911542403251": {
           "id": "44911542403251",
@@ -186,7 +186,7 @@
           "size": "L",
           "color": "JELLY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "44911542370483": {
           "id": "44911542370483",
@@ -194,7 +194,7 @@
           "size": "XL",
           "color": "JELLY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "44911542337715": {
           "id": "44911542337715",
@@ -202,7 +202,7 @@
           "size": "2XL",
           "color": "JELLY",
           "price": "140.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-10-23T15:08:40+00:00"
@@ -231,7 +231,7 @@
       "colors": [
         "SUPER BLUE"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "46230773006515": {
           "id": "46230773006515",
@@ -239,7 +239,7 @@
           "size": "XS",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "46230773039283": {
           "id": "46230773039283",
@@ -247,7 +247,7 @@
           "size": "S",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "46230773072051": {
           "id": "46230773072051",
@@ -255,7 +255,7 @@
           "size": "M",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "46230773104819": {
           "id": "46230773104819",
@@ -263,7 +263,7 @@
           "size": "L",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "46230773137587": {
           "id": "46230773137587",
@@ -271,7 +271,7 @@
           "size": "XL",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "46230773170355": {
           "id": "46230773170355",
@@ -279,7 +279,7 @@
           "size": "2XL",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-10-23T15:08:40+00:00"
@@ -803,7 +803,7 @@
       "colors": [
         "ASH"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "45312438960307": {
           "id": "45312438960307",
@@ -811,7 +811,7 @@
           "size": null,
           "color": "ASH",
           "price": "40.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-10-23T15:08:40+00:00"
@@ -1641,6 +1641,9 @@
     "new:8604882239667": "2026-10-23T15:08:40+00:00",
     "new:8373937864883": "2026-10-23T15:08:40+00:00",
     "update:8751753298099:f39e7e7478a1": "2026-10-23T15:08:40+00:00",
-    "update:8751750906035:5fa07bb823f7": "2026-10-23T15:08:40+00:00"
+    "update:8751750906035:5fa07bb823f7": "2026-10-23T15:08:40+00:00",
+    "update:8259793748147:834349c5bf47": "2026-10-23T19:08:41+00:00",
+    "update:8746467688627:834349c5bf47": "2026-10-23T19:08:41+00:00",
+    "update:8435020202163:834349c5bf47": "2026-10-23T19:08:41+00:00"
   }
 }
