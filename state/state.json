@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-10-28T07:09:18+00:00",
-    "hkt": "2026-10-28T15:09:18+08:00",
+    "utc": "2026-10-28T13:58:33+00:00",
+    "hkt": "2026-10-28T21:58:33+08:00",
     "status": "ok",
     "products_tracked": 25
   },
@@ -981,7 +981,7 @@
           "size": "XS",
           "color": "BLUE PLAID",
           "price": "40.00",
-          "available": true
+          "available": false
         },
         "45827209724083": {
           "id": "45827209724083",
