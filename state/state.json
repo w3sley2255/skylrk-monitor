@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-06T10:05:19+00:00",
-    "hkt": "2026-11-06T18:05:19+08:00",
+    "utc": "2026-11-06T17:24:49+00:00",
+    "hkt": "2026-11-07T01:24:49+08:00",
     "status": "ok",
-    "products_tracked": 37
+    "products_tracked": 30
   },
   "products": {
     "8416054608051": {
@@ -152,230 +152,6 @@
           "size": null,
           "color": "ROOTBEER",
           "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8515719102643": {
-      "id": "8515719102643",
-      "handle": "skullcap-punch",
-      "title": "SKULLCAP",
-      "product_type": "HATS",
-      "tags": [
-        "06.12 DROP",
-        "06.12.26 DROP",
-        "ACCESSORIES",
-        "preorder",
-        "Shop",
-        "style-skullcap"
-      ],
-      "url": "https://skylrk.com/products/skullcap-punch",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLH004-8018_FRONT_2.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "PUNCH"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45557756756147": {
-          "id": "45557756756147",
-          "size_raw": null,
-          "size": null,
-          "color": "PUNCH",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8469805039795": {
-      "id": "8469805039795",
-      "handle": "skullcap-powder",
-      "title": "SKULLCAP",
-      "product_type": "Headwear",
-      "tags": [
-        "Coachella",
-        "coachella-skylrk",
-        "coachella-skylrk-2",
-        "coachella-skylrk-2-online",
-        "w2chase"
-      ],
-      "url": "https://skylrk.com/products/skullcap-powder",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/TOQUE-BEANIE-PINK_7dc472d6-b0ff-45bd-a41f-293d4df06f60.png",
-      "price": "50.00",
-      "currency": "USD",
-      "colors": [
-        "Pink"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45428595228851": {
-          "id": "45428595228851",
-          "size_raw": null,
-          "size": null,
-          "color": "Pink",
-          "price": "50.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8538099548339": {
-      "id": "8538099548339",
-      "handle": "skullcap-2",
-      "title": "SKULLCAP",
-      "product_type": "HATS",
-      "tags": [
-        "nyc",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/skullcap-2",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLH004-0016_FRONT_a1e6738c-e3ce-4a98-942f-e0aab2ecd210.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "CHALK"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45623642947763": {
-          "id": "45623642947763",
-          "size_raw": null,
-          "size": null,
-          "color": "CHALK",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8469801992371": {
-      "id": "8469801992371",
-      "handle": "skullcap-spirit",
-      "title": "SKULLCAP",
-      "product_type": "Headwear",
-      "tags": [
-        "Coachella",
-        "coachella-skylrk",
-        "coachella-skylrk-2",
-        "coachella-skylrk-2-online",
-        "w2chase"
-      ],
-      "url": "https://skylrk.com/products/skullcap-spirit",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/TOQUE-BEANIE-BLUE.png",
-      "price": "50.00",
-      "currency": "USD",
-      "colors": [
-        "Blue"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45428600242355": {
-          "id": "45428600242355",
-          "size_raw": null,
-          "size": null,
-          "color": "Blue",
-          "price": "50.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8538099286195": {
-      "id": "8538099286195",
-      "handle": "skullcap",
-      "title": "SKULLCAP - BASIL",
-      "product_type": "HATS",
-      "tags": [
-        "09.24 refresh",
-        "korea-pop-up 10.22",
-        "nyc",
-        "nyc-pop-up"
-      ],
-      "url": "https://skylrk.com/products/skullcap",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLH004-4030_FRONT_ddec2513-092a-4a3f-a812-39104a5aac6d.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "BASIL"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45623642521779": {
-          "id": "45623642521779",
-          "size_raw": null,
-          "size": null,
-          "color": "BASIL",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8198463094963": {
-      "id": "8198463094963",
-      "handle": "slim",
-      "title": "SLIM",
-      "product_type": "EYEWEAR",
-      "tags": [
-        "ACCESSORIES",
-        "afterHB",
-        "coachella-skylrk-2",
-        "Shop"
-      ],
-      "url": "https://skylrk.com/products/slim",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLIM_DUSTY_PINK_3-4_f7369e19-5911-4860-9133-4802a143ce5b.png",
-      "price": "120.00",
-      "currency": "USD",
-      "colors": [
-        "DUSTY PINK",
-        "PUTTY",
-        "SHADE",
-        "SKY",
-        "TOASTY"
-      ],
-      "overall_available": true,
-      "variants": {
-        "44548168089779": {
-          "id": "44548168089779",
-          "size_raw": null,
-          "size": null,
-          "color": "SHADE",
-          "price": "120.00",
-          "available": true
-        },
-        "44548168122547": {
-          "id": "44548168122547",
-          "size_raw": null,
-          "size": null,
-          "color": "TOASTY",
-          "price": "120.00",
-          "available": true
-        },
-        "44548168188083": {
-          "id": "44548168188083",
-          "size_raw": null,
-          "size": null,
-          "color": "PUTTY",
-          "price": "120.00",
-          "available": true
-        },
-        "44988716777651": {
-          "id": "44988716777651",
-          "size_raw": null,
-          "size": null,
-          "color": "SKY",
-          "price": "120.00",
-          "available": true
-        },
-        "44988716810419": {
-          "id": "44988716810419",
-          "size_raw": null,
-          "size": null,
-          "color": "DUSTY PINK",
-          "price": "120.00",
           "available": true
         }
       },
@@ -553,89 +329,6 @@
       },
       "first_seen_utc": "2026-11-05T22:53:32+00:00"
     },
-    "8239863333043": {
-      "id": "8239863333043",
-      "handle": "beanie",
-      "title": "BEANIE",
-      "product_type": "HATS",
-      "tags": [
-        "09.24 refresh",
-        "3.20drop",
-        "3.30drop",
-        "ACCESSORIES",
-        "afterHB",
-        "dec12drop",
-        "evergreen_0716",
-        "HB",
-        "preorder",
-        "Shop",
-        "style-beanie"
-      ],
-      "url": "https://skylrk.com/products/beanie",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/hb-beanie.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "CAVE",
-        "CHERRY CAMO",
-        "CRAN",
-        "EARTH CAMO",
-        "GUM",
-        "WAVE CAMO"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45689932120243": {
-          "id": "45689932120243",
-          "size_raw": null,
-          "size": null,
-          "color": "CRAN",
-          "price": "40.00",
-          "available": false
-        },
-        "45096109310131": {
-          "id": "45096109310131",
-          "size_raw": null,
-          "size": null,
-          "color": "CAVE",
-          "price": "40.00",
-          "available": false
-        },
-        "45040915415219": {
-          "id": "45040915415219",
-          "size_raw": null,
-          "size": null,
-          "color": "WAVE CAMO",
-          "price": "80.00",
-          "available": false
-        },
-        "45041162879155": {
-          "id": "45041162879155",
-          "size_raw": null,
-          "size": null,
-          "color": "CHERRY CAMO",
-          "price": "80.00",
-          "available": false
-        },
-        "44687895789747": {
-          "id": "44687895789747",
-          "size_raw": null,
-          "size": null,
-          "color": "GUM",
-          "price": "40.00",
-          "available": false
-        },
-        "45129461039283": {
-          "id": "45129461039283",
-          "size_raw": null,
-          "size": null,
-          "color": "EARTH CAMO",
-          "price": "40.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
     "8704360218803": {
       "id": "8704360218803",
       "handle": "beanie-cashew",
@@ -652,7 +345,7 @@
       "colors": [
         "CASHEW"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "46073624854707": {
           "id": "46073624854707",
@@ -660,7 +353,7 @@
           "size": null,
           "color": "CASHEW",
           "price": "40.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-11-05T22:53:32+00:00"
@@ -1948,6 +1641,7 @@
     "restock:8746467688627:SUPER BLUE:S": "2026-11-06T02:54:57+00:00",
     "update:8515719102643:834349c5bf47": "2026-11-06T10:05:19+00:00",
     "update:8538099548339:834349c5bf47": "2026-11-06T10:05:19+00:00",
-    "update:8465997398195:834349c5bf47": "2026-11-06T10:05:19+00:00"
+    "update:8465997398195:834349c5bf47": "2026-11-06T10:05:19+00:00",
+    "update:8704360218803:415757efd8c3": "2026-11-06T17:24:49+00:00"
   }
 }
