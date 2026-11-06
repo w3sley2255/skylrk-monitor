@@ -1,12 +1,162 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-05T22:53:32+00:00",
-    "hkt": "2026-11-06T06:53:32+08:00",
+    "utc": "2026-11-06T02:54:57+00:00",
+    "hkt": "2026-11-06T10:54:57+08:00",
     "status": "ok",
     "products_tracked": 38
   },
   "products": {
+    "8416054608051": {
+      "id": "8416054608051",
+      "handle": "matterdaddies",
+      "title": "MATTERDADDIES",
+      "product_type": "FOOTWEAR",
+      "tags": [
+        "06.12.26 DROP",
+        "08.13 DROP",
+        "10.08.26 drop",
+        "korea-pop-up 10.22",
+        "nyc-pop-up",
+        "style-matterdaddies"
+      ],
+      "url": "https://skylrk.com/products/matterdaddies",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/matterdaddies-smoke-1_52643bbb-31dc-4d91-8f99-ed266c2f77a8.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "ASH"
+      ],
+      "overall_available": true,
+      "variants": {
+        "45262871330995": {
+          "id": "45262871330995",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871298227": {
+          "id": "45262871298227",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871265459": {
+          "id": "45262871265459",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871232691": {
+          "id": "45262871232691",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871199923": {
+          "id": "45262871199923",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871167155": {
+          "id": "45262871167155",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": true
+        },
+        "45262871134387": {
+          "id": "45262871134387",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": true
+        },
+        "45262871101619": {
+          "id": "45262871101619",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871068851": {
+          "id": "45262871068851",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": false
+        },
+        "45262871036083": {
+          "id": "45262871036083",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": true
+        },
+        "45262867955891": {
+          "id": "45262867955891",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": true
+        },
+        "45262871003315": {
+          "id": "45262871003315",
+          "size_raw": null,
+          "size": null,
+          "color": "ASH",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-11-06T02:54:57+00:00"
+    },
+    "8746400022707": {
+      "id": "8746400022707",
+      "handle": "speed-demon-rootbeer",
+      "title": "SPEED DEMON - ROOTBEER",
+      "product_type": "EYEWEAR",
+      "tags": [
+        "korea-pop-up 10.22",
+        "style-speedDemon"
+      ],
+      "url": "https://skylrk.com/products/speed-demon-rootbeer",
+      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_0711_EYEWEAR4011copyCOMPOSITEpnpg.png",
+      "price": "140.00",
+      "currency": "USD",
+      "colors": [
+        "ROOTBEER"
+      ],
+      "overall_available": true,
+      "variants": {
+        "46231575625907": {
+          "id": "46231575625907",
+          "size_raw": null,
+          "size": null,
+          "color": "ROOTBEER",
+          "price": "140.00",
+          "available": true
+        }
+      },
+      "first_seen_utc": "2026-11-05T22:53:32+00:00"
+    },
     "8515719102643": {
       "id": "8515719102643",
       "handle": "skullcap-punch",
@@ -260,35 +410,6 @@
       },
       "first_seen_utc": "2026-11-05T22:53:32+00:00"
     },
-    "8746400022707": {
-      "id": "8746400022707",
-      "handle": "speed-demon-rootbeer",
-      "title": "SPEED DEMON - ROOTBEER",
-      "product_type": "EYEWEAR",
-      "tags": [
-        "korea-pop-up 10.22",
-        "style-speedDemon"
-      ],
-      "url": "https://skylrk.com/products/speed-demon-rootbeer",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SKYLRK_0711_EYEWEAR4011copyCOMPOSITEpnpg.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "ROOTBEER"
-      ],
-      "overall_available": true,
-      "variants": {
-        "46231575625907": {
-          "id": "46231575625907",
-          "size_raw": null,
-          "size": null,
-          "color": "ROOTBEER",
-          "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
     "8198462996659": {
       "id": "8198462996659",
       "handle": "upsidedown",
@@ -385,7 +506,7 @@
       "colors": [
         "NAVY"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "46073647890611": {
           "id": "46073647890611",
@@ -393,7 +514,7 @@
           "size": null,
           "color": "NAVY",
           "price": "40.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-11-05T22:53:32+00:00"
@@ -455,10 +576,11 @@
       "price": "40.00",
       "currency": "USD",
       "colors": [
-        "Angel",
+        "CAVE",
         "CHERRY CAMO",
         "CRAN",
         "EARTH CAMO",
+        "GUM",
         "WAVE CAMO"
       ],
       "overall_available": true,
@@ -470,6 +592,14 @@
           "color": "CRAN",
           "price": "40.00",
           "available": true
+        },
+        "45096109310131": {
+          "id": "45096109310131",
+          "size_raw": null,
+          "size": null,
+          "color": "CAVE",
+          "price": "40.00",
+          "available": false
         },
         "45040915415219": {
           "id": "45040915415219",
@@ -485,13 +615,13 @@
           "size": null,
           "color": "CHERRY CAMO",
           "price": "80.00",
-          "available": true
+          "available": false
         },
-        "44634522714291": {
-          "id": "44634522714291",
+        "44687895789747": {
+          "id": "44687895789747",
           "size_raw": null,
           "size": null,
-          "color": "Angel",
+          "color": "GUM",
           "price": "40.00",
           "available": false
         },
@@ -560,7 +690,7 @@
       "colors": [
         "CAVE"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "44948606124211": {
           "id": "44948606124211",
@@ -576,7 +706,7 @@
           "size": "S",
           "color": "CAVE",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "44948606058675": {
           "id": "44948606058675",
@@ -608,7 +738,7 @@
           "size": "2XL",
           "color": "CAVE",
           "price": "140.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-11-05T22:53:32+00:00"
@@ -759,7 +889,7 @@
       "colors": [
         "SUPER BLUE"
       ],
-      "overall_available": false,
+      "overall_available": true,
       "variants": {
         "46230773006515": {
           "id": "46230773006515",
@@ -775,7 +905,7 @@
           "size": "S",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "46230773072051": {
           "id": "46230773072051",
@@ -791,7 +921,7 @@
           "size": "L",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "46230773137587": {
           "id": "46230773137587",
@@ -799,7 +929,7 @@
           "size": "XL",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": false
+          "available": true
         },
         "46230773170355": {
           "id": "46230773170355",
@@ -807,7 +937,7 @@
           "size": "2XL",
           "color": "SUPER BLUE",
           "price": "140.00",
-          "available": false
+          "available": true
         }
       },
       "first_seen_utc": "2026-10-23T15:08:40+00:00"
@@ -1541,7 +1671,7 @@
           "size": "XL",
           "color": "BLUE PLAID",
           "price": "40.00",
-          "available": true
+          "available": false
         },
         "45827209855155": {
           "id": "45827209855155",
@@ -1761,60 +1891,6 @@
       },
       "first_seen_utc": "2026-10-15T19:24:01+00:00"
     },
-    "8416055492787": {
-      "id": "8416055492787",
-      "handle": "speed-demon",
-      "title": "SPEED DEMON",
-      "product_type": "EYEWEAR",
-      "tags": [
-        "09.24 refresh",
-        "ACCESSORIES",
-        "coachella-skylrk",
-        "ecom 10.23",
-        "korea-pop-up 10.22",
-        "nyc-pop-up",
-        "prechella drop",
-        "skylrkchellaw2",
-        "style-speedDemon"
-      ],
-      "url": "https://skylrk.com/products/speed-demon",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/SLE004-4005_QUARTER.png",
-      "price": "140.00",
-      "currency": "USD",
-      "colors": [
-        "JET",
-        "SEA",
-        "TREE"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45262874443955": {
-          "id": "45262874443955",
-          "size_raw": null,
-          "size": null,
-          "color": "TREE",
-          "price": "140.00",
-          "available": true
-        },
-        "45262874411187": {
-          "id": "45262874411187",
-          "size_raw": null,
-          "size": null,
-          "color": "SEA",
-          "price": "140.00",
-          "available": true
-        },
-        "45262874476723": {
-          "id": "45262874476723",
-          "size_raw": null,
-          "size": null,
-          "color": "JET",
-          "price": "140.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-10-08T21:49:43+00:00"
-    },
     "8560945266867": {
       "id": "8560945266867",
       "handle": "glicky-gloss",
@@ -1927,7 +2003,7 @@
     "new:8560945234099": "2026-10-08T21:49:43+00:00",
     "new:8538095878323": "2026-10-08T21:49:43+00:00",
     "new:8538095780019": "2026-10-08T21:49:43+00:00",
-    "new:8416054608051": "2026-10-08T21:49:43+00:00",
+    "new:8416054608051": "2026-11-06T02:54:57+00:00",
     "update:8416055492787:378a64c6821f": "2026-10-09T01:29:46+00:00",
     "update:8538095878323:834349c5bf47": "2026-10-09T01:29:46+00:00",
     "update:8538095780019:834349c5bf47": "2026-10-09T07:49:00+00:00",
@@ -1968,7 +2044,7 @@
     "new:8373937864883": "2026-10-23T15:08:40+00:00",
     "update:8751753298099:f39e7e7478a1": "2026-10-23T15:08:40+00:00",
     "update:8751750906035:5fa07bb823f7": "2026-10-23T15:08:40+00:00",
-    "update:8259793748147:834349c5bf47": "2026-10-23T19:08:41+00:00",
+    "update:8259793748147:834349c5bf47": "2026-11-06T02:54:57+00:00",
     "update:8746467688627:834349c5bf47": "2026-10-23T19:08:41+00:00",
     "update:8435020202163:834349c5bf47": "2026-10-23T19:08:41+00:00",
     "update:8435020202163:06d63167ace0": "2026-10-24T16:41:52+00:00",
@@ -1988,6 +2064,9 @@
     "new:8704365297843": "2026-11-05T22:53:32+00:00",
     "new:8465997398195": "2026-11-05T22:53:32+00:00",
     "new:8239863333043": "2026-11-05T22:53:32+00:00",
-    "new:8704360218803": "2026-11-05T22:53:32+00:00"
+    "new:8704360218803": "2026-11-05T22:53:32+00:00",
+    "update:8704365297843:834349c5bf47": "2026-11-06T02:54:57+00:00",
+    "update:8239863333043:f4290a903232": "2026-11-06T02:54:57+00:00",
+    "restock:8746467688627:SUPER BLUE:S": "2026-11-06T02:54:57+00:00"
   }
 }
