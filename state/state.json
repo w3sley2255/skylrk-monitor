@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-09T20:01:54+00:00",
-    "hkt": "2026-11-10T04:01:54+08:00",
+    "utc": "2026-11-10T02:38:22+00:00",
+    "hkt": "2026-11-10T10:38:22+08:00",
     "status": "ok",
-    "products_tracked": 13
+    "products_tracked": 10
   },
   "products": {
     "8416054608051": {
@@ -181,86 +181,6 @@
           "size": null,
           "color": "SNOW CAMO",
           "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8198462996659": {
-      "id": "8198462996659",
-      "handle": "upsidedown",
-      "title": "UPSIDE DOWN",
-      "product_type": "EYEWEAR",
-      "tags": [
-        "ACCESSORIES",
-        "afterHB",
-        "coachella-skylrk-2",
-        "dec12drop",
-        "drop1",
-        "preorder",
-        "Shop",
-        "skylrkchellaw2"
-      ],
-      "url": "https://skylrk.com/products/upsidedown",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/Green_Angle.png",
-      "price": "200.00",
-      "currency": "USD",
-      "colors": [
-        "CLEAR",
-        "GLOSS",
-        "GOLF",
-        "GUM",
-        "TOASTY",
-        "WAX"
-      ],
-      "overall_available": true,
-      "variants": {
-        "44494259716275": {
-          "id": "44494259716275",
-          "size_raw": null,
-          "size": null,
-          "color": "GLOSS",
-          "price": "200.00",
-          "available": false
-        },
-        "44494259683507": {
-          "id": "44494259683507",
-          "size_raw": null,
-          "size": null,
-          "color": "GUM",
-          "price": "200.00",
-          "available": true
-        },
-        "44494259749043": {
-          "id": "44494259749043",
-          "size_raw": null,
-          "size": null,
-          "color": "CLEAR",
-          "price": "200.00",
-          "available": true
-        },
-        "44548144398515": {
-          "id": "44548144398515",
-          "size_raw": null,
-          "size": null,
-          "color": "WAX",
-          "price": "200.00",
-          "available": true
-        },
-        "44548144431283": {
-          "id": "44548144431283",
-          "size_raw": null,
-          "size": null,
-          "color": "TOASTY",
-          "price": "200.00",
-          "available": true
-        },
-        "44548144464051": {
-          "id": "44548144464051",
-          "size_raw": null,
-          "size": null,
-          "color": "GOLF",
-          "price": "200.00",
           "available": true
         }
       },
@@ -512,64 +432,6 @@
         }
       },
       "first_seen_utc": "2026-10-23T15:08:40+00:00"
-    },
-    "8751753298099": {
-      "id": "8751753298099",
-      "handle": "rib-knit-beanie-1",
-      "title": "RIB KNIT BEANIE - WHISPER",
-      "product_type": "HATS",
-      "tags": [
-        "ecom 10.23",
-        "style-ribknitbeanie"
-      ],
-      "url": "https://skylrk.com/products/rib-knit-beanie-1",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/PNK_BRWN-FRONT.png",
-      "price": "50.00",
-      "currency": "USD",
-      "colors": [
-        "WHISPER"
-      ],
-      "overall_available": false,
-      "variants": {
-        "46250379444403": {
-          "id": "46250379444403",
-          "size_raw": null,
-          "size": null,
-          "color": "WHISPER",
-          "price": "50.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-10-21T19:22:24+00:00"
-    },
-    "8751750906035": {
-      "id": "8751750906035",
-      "handle": "rib-knit-beanie",
-      "title": "RIB KNIT BEANIE - ICY",
-      "product_type": "HATS",
-      "tags": [
-        "ecom 10.23",
-        "style-ribknitbeanie"
-      ],
-      "url": "https://skylrk.com/products/rib-knit-beanie",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/BLU_WHT-FRONT_be0bb247-cf90-4951-8535-40aa86599a1c.png",
-      "price": "50.00",
-      "currency": "USD",
-      "colors": [
-        "ICY"
-      ],
-      "overall_available": false,
-      "variants": {
-        "46250368598195": {
-          "id": "46250368598195",
-          "size_raw": null,
-          "size": null,
-          "color": "ICY",
-          "price": "50.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-10-21T19:22:24+00:00"
     },
     "8538096304307": {
       "id": "8538096304307",
