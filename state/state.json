@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-13T15:44:11+00:00",
-    "hkt": "2026-11-13T23:44:11+08:00",
+    "utc": "2026-11-13T21:39:26+00:00",
+    "hkt": "2026-11-14T05:39:26+08:00",
     "status": "ok",
     "products_tracked": 17
   },
@@ -175,7 +175,7 @@
           "size": "2XL",
           "color": "FOREST",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45129519988915": {
           "id": "45129519988915",
@@ -562,7 +562,7 @@
           "size": "L",
           "color": "DOTS",
           "price": "240.00",
-          "available": true
+          "available": false
         },
         "45827209265331": {
           "id": "45827209265331",
