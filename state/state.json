@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-12T20:19:09+00:00",
-    "hkt": "2026-11-13T04:19:09+08:00",
+    "utc": "2026-11-13T01:11:37+00:00",
+    "hkt": "2026-11-13T09:11:37+08:00",
     "status": "ok",
-    "products_tracked": 17
+    "products_tracked": 13
   },
   "products": {
     "8465952964787": {
@@ -24,7 +24,7 @@
       "colors": [
         "LIME"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
         "45392561799347": {
           "id": "45392561799347",
@@ -32,7 +32,7 @@
           "size": "XS",
           "color": "LIME",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45392562127027": {
           "id": "45392562127027",
@@ -48,7 +48,7 @@
           "size": "M",
           "color": "LIME",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45392562192563": {
           "id": "45392562192563",
@@ -56,7 +56,7 @@
           "size": "L",
           "color": "LIME",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45392562225331": {
           "id": "45392562225331",
@@ -72,41 +72,6 @@
           "size": "2XL",
           "color": "LIME",
           "price": "140.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-12T20:19:09+00:00"
-    },
-    "8465997463731": {
-      "id": "8465997463731",
-      "handle": "beanie-iris",
-      "title": "BEANIE",
-      "product_type": "HATS",
-      "tags": [
-        "09.24 refresh",
-        "260501",
-        "3.20drop",
-        "Coachella",
-        "coachella-skylrk-2",
-        "coachella-skylrk-2-online",
-        "style-beanie",
-        "w2chase"
-      ],
-      "url": "https://skylrk.com/products/beanie-iris",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/IMG-0760.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "IRIS"
-      ],
-      "overall_available": false,
-      "variants": {
-        "45392665510067": {
-          "id": "45392665510067",
-          "size_raw": null,
-          "size": null,
-          "color": "IRIS",
-          "price": "40.00",
           "available": false
         }
       },
@@ -490,98 +455,6 @@
       },
       "first_seen_utc": "2026-11-05T22:53:32+00:00"
     },
-    "8704365297843": {
-      "id": "8704365297843",
-      "handle": "beanie-navy",
-      "title": "BEANIE",
-      "product_type": "HATS",
-      "tags": [
-        "10.01 DROP",
-        "style-beanie"
-      ],
-      "url": "https://skylrk.com/products/beanie-navy",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/BEANIE_NAVY_FRONT_ea95b9a8-0a55-413e-8620-e725c760d0e2.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "NAVY"
-      ],
-      "overall_available": false,
-      "variants": {
-        "46073647890611": {
-          "id": "46073647890611",
-          "size_raw": null,
-          "size": null,
-          "color": "NAVY",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8465997398195": {
-      "id": "8465997398195",
-      "handle": "beanie-lime",
-      "title": "BEANIE",
-      "product_type": "HATS",
-      "tags": [
-        "260501",
-        "3.20drop",
-        "Coachella",
-        "coachella-skylrk-2",
-        "coachella-skylrk-2-online",
-        "style-beanie",
-        "w2chase"
-      ],
-      "url": "https://skylrk.com/products/beanie-lime",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/GB_v2_1_LIZ.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "LIME"
-      ],
-      "overall_available": true,
-      "variants": {
-        "45392663216307": {
-          "id": "45392663216307",
-          "size_raw": null,
-          "size": null,
-          "color": "LIME",
-          "price": "40.00",
-          "available": true
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
-    "8704360218803": {
-      "id": "8704360218803",
-      "handle": "beanie-cashew",
-      "title": "BEANIE",
-      "product_type": "HATS",
-      "tags": [
-        "10.01 DROP",
-        "style-beanie"
-      ],
-      "url": "https://skylrk.com/products/beanie-cashew",
-      "image": "https://cdn.shopify.com/s/files/1/0631/8214/3667/files/BEANIE_CASHEW_FRONT_eaa9523d-3365-4040-9a9b-c8569e1df520.png",
-      "price": "40.00",
-      "currency": "USD",
-      "colors": [
-        "CASHEW"
-      ],
-      "overall_available": false,
-      "variants": {
-        "46073624854707": {
-          "id": "46073624854707",
-          "size_raw": null,
-          "size": null,
-          "color": "CASHEW",
-          "price": "40.00",
-          "available": false
-        }
-      },
-      "first_seen_utc": "2026-11-05T22:53:32+00:00"
-    },
     "8259793748147": {
       "id": "8259793748147",
       "handle": "hoodie",
@@ -916,6 +789,7 @@
     "new:8551796211891": "2026-11-11T23:31:35+00:00",
     "new:8465952964787": "2026-11-12T20:19:09+00:00",
     "new:8465997463731": "2026-11-12T20:19:09+00:00",
-    "update:8465997398195:415757efd8c3": "2026-11-12T20:19:09+00:00"
+    "update:8465997398195:415757efd8c3": "2026-11-12T20:19:09+00:00",
+    "update:8465952964787:834349c5bf47": "2026-11-13T01:11:37+00:00"
   }
 }
