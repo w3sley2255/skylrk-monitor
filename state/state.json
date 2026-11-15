@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-14T23:22:27+00:00",
-    "hkt": "2026-11-15T07:22:27+08:00",
+    "utc": "2026-11-15T02:51:01+00:00",
+    "hkt": "2026-11-15T10:51:01+08:00",
     "status": "ok",
     "products_tracked": 17
   },
@@ -27,7 +27,6 @@
       "currency": "USD",
       "colors": [
         "CAVE",
-        "FOREST",
         "POWDER",
         "SLATE"
       ],
@@ -126,54 +125,6 @@
           "size_raw": "2XL",
           "size": "2XL",
           "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45140669038771": {
-          "id": "45140669038771",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "FOREST",
-          "price": "140.00",
-          "available": false
-        },
-        "45140669071539": {
-          "id": "45140669071539",
-          "size_raw": "S",
-          "size": "S",
-          "color": "FOREST",
-          "price": "140.00",
-          "available": false
-        },
-        "45140669104307": {
-          "id": "45140669104307",
-          "size_raw": "M",
-          "size": "M",
-          "color": "FOREST",
-          "price": "140.00",
-          "available": false
-        },
-        "45140669137075": {
-          "id": "45140669137075",
-          "size_raw": "L",
-          "size": "L",
-          "color": "FOREST",
-          "price": "140.00",
-          "available": false
-        },
-        "45140669169843": {
-          "id": "45140669169843",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "FOREST",
-          "price": "140.00",
-          "available": false
-        },
-        "45140669202611": {
-          "id": "45140669202611",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "FOREST",
           "price": "140.00",
           "available": false
         },
@@ -1089,6 +1040,7 @@
     "new:8704370606259": "2026-11-13T07:54:05+00:00",
     "new:8538098794675": "2026-11-13T07:54:05+00:00",
     "new:8516791369907": "2026-11-13T07:54:05+00:00",
-    "update:8373949333683:dd7d9c2bf7d5": "2026-11-13T15:44:11+00:00"
+    "update:8373949333683:dd7d9c2bf7d5": "2026-11-13T15:44:11+00:00",
+    "update:8373949333683:d1b9de899c2b": "2026-11-15T02:51:01+00:00"
   }
 }
