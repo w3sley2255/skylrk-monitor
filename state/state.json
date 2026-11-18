@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-17T18:16:30+00:00",
-    "hkt": "2026-11-18T02:16:30+08:00",
+    "utc": "2026-11-18T00:59:08+00:00",
+    "hkt": "2026-11-18T08:59:08+08:00",
     "status": "ok",
     "products_tracked": 17
   },
@@ -18,6 +18,7 @@
         "apparel",
         "bfcm25",
         "dec12drop",
+        "ECOM 11.19",
         "HOODIES",
         "Shop"
       ],
@@ -26,108 +27,10 @@
       "price": "140.00",
       "currency": "USD",
       "colors": [
-        "CAVE",
-        "POWDER",
         "SLATE"
       ],
-      "overall_available": true,
+      "overall_available": false,
       "variants": {
-        "45129519792307": {
-          "id": "45129519792307",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "POWDER",
-          "price": "140.00",
-          "available": false
-        },
-        "45129519825075": {
-          "id": "45129519825075",
-          "size_raw": "S",
-          "size": "S",
-          "color": "POWDER",
-          "price": "140.00",
-          "available": false
-        },
-        "45129519857843": {
-          "id": "45129519857843",
-          "size_raw": "M",
-          "size": "M",
-          "color": "POWDER",
-          "price": "140.00",
-          "available": false
-        },
-        "45129519890611": {
-          "id": "45129519890611",
-          "size_raw": "L",
-          "size": "L",
-          "color": "POWDER",
-          "price": "140.00",
-          "available": false
-        },
-        "45129519923379": {
-          "id": "45129519923379",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "POWDER",
-          "price": "140.00",
-          "available": false
-        },
-        "45129519956147": {
-          "id": "45129519956147",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "POWDER",
-          "price": "140.00",
-          "available": false
-        },
-        "45174367453363": {
-          "id": "45174367453363",
-          "size_raw": "XS",
-          "size": "XS",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45174367486131": {
-          "id": "45174367486131",
-          "size_raw": "S",
-          "size": "S",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45174367518899": {
-          "id": "45174367518899",
-          "size_raw": "M",
-          "size": "M",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45174367551667": {
-          "id": "45174367551667",
-          "size_raw": "L",
-          "size": "L",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": true
-        },
-        "45174367584435": {
-          "id": "45174367584435",
-          "size_raw": "XL",
-          "size": "XL",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
-        "45174367617203": {
-          "id": "45174367617203",
-          "size_raw": "2XL",
-          "size": "2XL",
-          "color": "CAVE",
-          "price": "140.00",
-          "available": false
-        },
         "45129519988915": {
           "id": "45129519988915",
           "size_raw": "XS",
@@ -862,6 +765,7 @@
         "apparel",
         "ecom 10.23",
         "ECOM 11.12",
+        "ECOM 11.19",
         "HB",
         "HOODIES",
         "korea-pop-up 10.22",
@@ -1041,6 +945,7 @@
     "new:8538098794675": "2026-11-13T07:54:05+00:00",
     "new:8516791369907": "2026-11-13T07:54:05+00:00",
     "update:8373949333683:dd7d9c2bf7d5": "2026-11-13T15:44:11+00:00",
-    "update:8373949333683:d1b9de899c2b": "2026-11-15T02:51:01+00:00"
+    "update:8373949333683:d1b9de899c2b": "2026-11-15T02:51:01+00:00",
+    "update:8373949333683:497afdd8a475": "2026-11-18T00:59:08+00:00"
   }
 }
