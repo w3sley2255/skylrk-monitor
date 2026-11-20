@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-20T10:24:47+00:00",
-    "hkt": "2026-11-20T18:24:47+08:00",
+    "utc": "2026-11-20T18:40:39+00:00",
+    "hkt": "2026-11-21T02:40:39+08:00",
     "status": "ok",
     "products_tracked": 17
   },
@@ -33,7 +33,7 @@
           "size": "M 4 / W 5",
           "color": "TOY",
           "price": "140.00",
-          "available": true
+          "available": false
         },
         "45623629840563": {
           "id": "45623629840563",
