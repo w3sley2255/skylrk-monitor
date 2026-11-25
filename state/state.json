@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "last_check": {
-    "utc": "2026-11-25T00:41:39+00:00",
-    "hkt": "2026-11-25T08:41:39+08:00",
+    "utc": "2026-11-25T09:09:24+00:00",
+    "hkt": "2026-11-25T17:09:24+08:00",
     "status": "ok",
     "products_tracked": 16
   },
@@ -476,7 +476,7 @@
           "size": "2XL",
           "color": "DOTS",
           "price": "240.00",
-          "available": true
+          "available": false
         }
       },
       "first_seen_utc": "2026-11-13T07:54:05+00:00"
